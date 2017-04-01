@@ -1,27 +1,24 @@
-Travis Oliphant@New Array Object for scipy.base
-John Hunter@Off the Beaten Path: Advanced Matplotlib Features
-Bill Spotz@PyTrilinos: A Python Interface to Trilinos, a Set of Object-Oriented Solver Packages
-Matthew Knepley@PDE Libraries in Python
-Daniel Wheeler@FiPy
-Ruth Huey@Using AutoDock with AutoDockTools: A Tutorial
-F. Perez, D. Brown, T. Oliphant - others TBD @Lightning Talks
-Eric Jones@Envisage
-Brandon DuRette@Chaco
-Robert Kern@Interactive Documents with IPython
-abstract
-12:00
--- lunch --
-1:45pm
-Matthew Brett
-NiPy – NeuroImaging Software in Python
-abstract
-2:30pm
-Michel Sanner
-Vision: A Visual Programming Component
-abstract presentation
-3:15pm
--- break --
-4:00pm
-Timothy H. Kaiser
-Using a generalized MPI interface for Python, MYMPI
-abstract presentation
+Travis Oliphant@New Array Object for scipy.base@n@m@0@s
+John Hunter@Off the Beaten Path: Advanced Matplotlib Features@n@m@0@s
+Bill Spotz@PyTrilinos: A Python Interface to Trilinos, a Set of Object-Oriented Solver Packages@n@m@0
+Matt Knepley@PDE Libraries in Python@n@m@0@s
+Daniel Wheeler@FiPy@n@m@1@s
+Jonathon Guyer@FiPy@n@m@1@a
+James Warren@FiPy@n@m@1@a
+Ruth Huey@Using AutoDock with AutoDockTools: A Tutorial@t@f@1@s
+Garret Morris@Using AutoDock with AutoDockTools: A Tutorial@t@m@1@a
+Michel Sanner@Using AutoDock with AutoDockTools: A Tutorial@t@m@1@a
+Fernando Perez@@l@m@0@s 
+D. Brown@@l@0@u@s
+Travis Oliphant@@l@m@0@s
+Eric Jones@Envisage@n@m@0@s
+Brandon DuRette@Chaco@n@m@0@s
+Robert Kern@Interactive Documents with IPython@n@m@1@s
+Toni Alatalo@Interactive Documents with IPython@n@m@1@a
+Tzanko Matev@Interactive Documents with IPython@n@m@1@a
+Fernando Perez@Interactive Documents with IPython@n@m@1@a
+Matthew Brett@NiPy – NeuroImaging Software in Python@m@0@s
+Michel Sanner@Vision: A Visual Programming Component@m@0@s
+Timothy Kaiser@Using a generalized MPI interface for Python, MYMPI@m@1@s
+Sarah Healy@Using a generalized MPI interface for Python, MYMPI@f@1@a
+Leesa Brieger@Using a generalized MPI interface for Python, MYMPI@f@1@a
