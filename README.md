@@ -1,2 +1,5 @@
-# scipy_diversity
-Repo for the code to generate the gender diversity stats
+# SciPy Conference Diversity Stats
+## repo that houses code for scraping
+## data sets
+## analysis code
+
