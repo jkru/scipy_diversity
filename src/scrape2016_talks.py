@@ -1,14 +1,16 @@
+import argparse
 import requests
+
 from bs4 import BeautifulSoup
 from bs4 import element
 
-def main():
-	r = requests.get('https://scipy2016.scipy.org/ehome/146062/332963/')
+def main(url, outfile):
+	r = requests.get(url)
 	soup = BeautifulSoup(r.text, 'html5lib')
-	table = soup.find('table', id='agendatable1032181')
+	table = soup.find('table', {'id': lambda x: x and x.startswith('agendatable')} )
 	rows = table.find_all('tr', {'class': 'data-group'})
 	
-	f = open('../data/2016.csv', 'a')
+	f = open(outfile, 'a')
 	for r in rows:
 			row_tags = [tag for tag in r.contents[0].find_all()]
 			title = row_tags[0].text
@@ -37,4 +39,8 @@ def main():
 	
 
 if __name__ == '__main__':
-	main()
+	parser = argparse.ArgumentParser()
+	parser.add_argument('url', help='url of accepted talks')
+	parser.add_argument('outfile')
+	args = parser.parse_args()
+	main(args.url, args.outfile)

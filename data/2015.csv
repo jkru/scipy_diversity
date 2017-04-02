@@ -1,0 +1,136 @@
+Loïc Estève@Big Data in Practice: The Example of Nilearn for Mining Brain Imaging Data@n@@0@s
+Tim O'Donnell@Analyzing Genomic Data with PyEnsembl and Varcode@n@@1@s
+Alex Rubinsteyn@Analyzing Genomic Data with PyEnsembl and Varcode@n@@1@s
+Jaime Huerta-Cepas@ETE: A Python Programming Toolkit for the Analysis and Visualization of Trees@n@@0@s
+Jeannie Irwin@Python as a First Programming Language for Biomedical Scientists@n@@0@s
+Ross Mitchell@Python Derived Imaging Biomarkers of Dementia@n@@0@s
+Adam Robbins-Pianka@Qiita: Report of Progress Towards an Open Access Microbiome Data Analysis and Visualization Platform@n@@1@s
+Yoshiki Vazquez-Baeza@Qiita: Report of Progress Towards an Open Access Microbiome Data Analysis and Visualization Platform@n@@1@s
+Ross Mitchell@Rapid Accurate and Simple Segmentation of Objects in Medical Images@n@@0@s
+Evan Bolyen@scikit-bio: A Bioinformatics Library for Data Scientists, Students, and Developers@n@@1@s
+Jai Ram Rideout@scikit-bio: A Bioinformatics Library for Data Scientists, Students, and Developers@n@@1@s
+Franco Pestilli@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Eleftherios Garyfallidis@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Stefan van der Walt@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Bagrat Amirbekian@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Brian Wandell@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Ariel Rokem@Statistical Learning of Human Brain Structure in DIPY@n@@1@s
+Tiago Antao@The Biopython Project: Freely Available Python Tools for Computational Molecular Biology and Bioinformatics@n@@0@s
+Sebastian Sepulveda@Visualizing Physiological Signals in Real Time@n@@0@s
+Erik Tollerud@Astropy in 2015@n@@0@s
+Josh Walawender@Automated Image Quality Monitoring with IQMon@n@@0@s
+Richard Shaw@PyNeb: Nebular Analysis Tools for Astrophysics@n@@0@s
+Michael Aye@Python Tools for Space Mission Data Analyses@n@@0@s
+Howard Bushouse@The James Webb Space Telescope Data Calibration Pipeline@n@@0@s
+Kevin Gullikson@Who Needs Standard Stars Anyway? Telluric Model Fitting with TelFit@n@@0@s
+Matthew Craig@Widgets and Astropy: Accomplishing Productive Research with Undergraduates@n@@0@s
+Cedric St-Jean@Deep Learning Versus Segmentation and ML to Classify Biological Images@n@@0@s
+Rich Lewis@Deep Learning for Quantity-Structure Activity Relationships@n@@0@s
+Rich Lewis@Deep Learning for Quantity-Structure Activity Relationships@n@@0@s
+Kyle Kastner@Deep Learning: Tips from the Road@n@@0@s
+Ankur Ankan@pgmpy: Probabilistic Graphical Models using Python@n@@1@s
+Abinash Panda@pgmpy: Probabilistic Graphical Models using Python@n@@1@s
+Andreas Mueller@PyStruct - Structured Prediction in Python@n@@0@s
+Phillip Cloud@Blaze + Odo@n@@0@s
+Stephen Hoover@Building a Cloud-based Data Science Platform with Python@n@@0@s
+Krishna Sridhar@Deploying Python Machine Learning Models in Production@n@@0@s
+Phil Roth@Examining Malware with Python@n@@0@s
+Randy Paffenroth@Python in Data Science Research and Education@n@@0@s
+Benjamin Root@State of the Library: matplotlib@n@@1@s
+Thomas Caswell@State of the Library: matplotlib@n@@1@s
+Jordi Torrents@Structural Cohesion: Visualization and Heuristics for Fast Computation with NetworkX and matplotlib@n@@0@s
+Scott Draves@The Polyglot Beaker Notebook@n@@0@s
+Subir Mansukhani@Welcome to the Algo Wars:  Leveraging Design Thinking for Building Scalable Enterprise Intelligent Systems using Python@n@@1@s
+Zubin Dowlaty@Welcome to the Algo Wars:  Leveraging Design Thinking for Building Scalable Enterprise Intelligent Systems using Python@n@@1@s
+Bharat Upadrasta@Welcome to the Algo Wars:  Leveraging Design Thinking for Building Scalable Enterprise Intelligent Systems using Python@n@@1@s
+Stephan Hoyer@xray: N-D Labeled Arrays and Datasets@n@@0@s
+Erik Bray@ASDF, a New Scientific Data Format@n@@1@s
+Perry Greenfield@ASDF, a New Scientific Data Format@n@@1@s
+Michael Droettboom@ASDF, a New Scientific Data Format@n@@1@s
+Michael Pacer@Causal Bayesian NetworkX@n@@0@s
+Kristen Thyng@Perceptual Colormaps in matplotlib with an Application in Oceanography@n@@0@s
+John Readey@RESTful HDF@n@@0@s
+Haitham Elmarakeby@UDL: Unified Interface for Deep Learning@n@@0@s
+Bill Hoffman@Wrapping C and C++ Libraries with CastXML@n@@1@s
+Brad King@Wrapping C and C++ Libraries with CastXML@n@@1@s
+Michka Popoff@Wrapping C and C++ Libraries with CastXML@n@@1@s
+Matthew McCormick@Wrapping C and C++ Libraries with CastXML@n@@1@s
+Brian Helba@An Open-Source Data Archive for Expert-Annotated Dermoscopic Images@n@@0@s
+Speaker: Allen Downey@Basic Sound Processing in Python@n@@0@s
+Jason Moore@Optimal Control and Parameter Identification of Dynamcal Systems with Direct Collocation using SymPy@n@@0@s
+Richard Otis@pycalphad: Computational Thermodynamics in Python@n@@0@s
+Kathryn Huff@PyRK: A Python Package for Nuclear Reactor Kinetics@n@@0@s
+Mark Wickert@Signal Processing and Communications: Teaching and Research Using IPython Notebook@n@@0@s
+Christopher Wilmer@The Need for New Tools for Materials Discovery@n@@0@s
+Brian Smith@Congress & New Media: A Data Driven Study of Congressional Public Relations@n@@0@s
+Sebastian Benthall@Exploring Open Source Community Dynamics with BigBang@n@@0@s
+Roberto Colistete Junior@Scientific Python using Mobile OS@n@@0@s
+Allen Downey@Will Millennials Ever Get Married?  Survival Analysis and Marriage Data@n@@0@s
+Chris Fonnesbeck@Statistical Thinking for Data Science@n@@0@s
+Jonathan Guyer@A Cloud Service to Record Simulation Metadata@n@@1@s
+Yannick Congo@A Cloud Service to Record Simulation Metadata@n@@1@s
+James Crist@Dask - Out-of-core NumPy/Pandas through Task Scheduling@n@@0@s
+Ana Nelson@Dexy and Docker for Scientific Reproducibility@n@@0@s
+Kurt Smith@DistArray: Distributed Array Computing for Python@n@@1@s
+Robert Grant@DistArray: Distributed Array Computing for Python@n@@1@s
+Kester Tong@Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration@n@@1@s
+Matthias Bussonnier@Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration@n@@1@s
+Brian McFee@Librosa: Audio and Music Signal Analysis in Python@n@@0@s
+Kyle Kelley@Teaching with IPython/Jupyter Notebooks and JupyterHub@n@@1@s
+Jessica Hamrick@Teaching with IPython/Jupyter Notebooks and JupyterHub@n@@1@s
+Min Ragan-Kelley@Teaching with IPython/Jupyter Notebooks and JupyterHub@n@@1@s
+Andrew Collette@HDF5 is Eating the World@n@@0@s
+Chris Drake@PyEDA: Data Structures and Algorithms for Electronic Design Automation@n@@0@s
+Amelia McBee Henriksen@Scientific Computing for Undergraduates: Getting Students into the Kitchen@n@@0@s
+En Zyme@What the FORTRAN is ** Doing in Python?@n@@0@s
+Jacob Hummel@A Framework for Analyzing GADGET Simulation Data in Pandas@n@@0@s
+Stanley Seibert@Accelerating Python with the Numba JIT Compiler@n@@0@s
+David Masad@Agent-Based Modeling in Python with Mesa@n@@1@s
+Jackie Kazil@Agent-Based Modeling in Python with Mesa@n@@1@s
+Ian Henriksen@Circumventing the Linker: Using SciPy's BLAS and LAPACK within Cython@n@@0@s
+Matthew McCormick@Docker for Improved Reproducibility of Scientific Python Analyses@n@@0@s
+Damian Avila@From 1-Day Release to 1-Min Release (or How to Recover Time with Automation)@n@@0@s
+Philip Elson@Keep on Releasin': Continuous Delivery for Open Source@n@@0@s
+Michael McKerns@klepto: Unified Persistent Storage to Memory, Database, or Disk@n@@0@s
+Michael Milligan@So How ARE Scientists Using Python on Supercomputers?@n@@0@s
+Carlos Cordoba@Towards a Better Documentation System for Scientific Python@n@@0@s
+Mark Wiebe@Typing Arrays with DyND@n@@0@s
+Blake Borgeson@Analysis and Visualization of Imaging Experiments with IPython, sklearn and bokeh@n@@0@s
+Carson Farmer@Connecting Circuits for Asynchronous Data Workflows@n@@0@s
+Bryan Chastain@Eigenvector Spatial Filtering using NumPy and ArcGIS@n@@0@s
+Sergio Rey@Spatial Income Inequality Dynamics in PySAL@n@@1@s
+Wei Kang@Spatial Income Inequality Dynamics in PySAL@n@@1@s
+Paolo Sterzai@Geodynamic Simulations in HPC with Python@n@@1@s
+Nicola Creati@Geodynamic Simulations in HPC with Python@n@@1@s
+Roberto Vidmar@Geodynamic Simulations in HPC with Python@n@@1@s
+Mattheus Ueckermann@Global Hydrology Analysis Using Python@n@@0@s
+Gudni Rosenkjaer@Practical Integration of Processing, Inversion and Visualization of Magnetotelluric Geophysical Data@n@@0@s
+Matt Hall@Striplog: Wrangling 1D Subsurface Data@n@@0@s
+Joe Kington@Touch your Data! Color 3D Printing with Python@n@@0@s
+Lindsey Heagy@Using Python to Span the Gap between Education, Research, and Industry Applications in Geophysics@n@@0@s
+Andrew Yan@A Distributed, Standards-Based Framework for  Searching, Accessing, Analyzing and Visualizing Met-Ocean Data: Application to Hurricane Sandy@n@@1@s
+Kyle Wilcox@A Distributed, Standards-Based Framework for  Searching, Accessing, Analyzing and Visualizing Met-Ocean Data: Application to Hurricane Sandy@n@@1@s
+Richard Signell@A Distributed, Standards-Based Framework for  Searching, Accessing, Analyzing and Visualizing Met-Ocean Data: Application to Hurricane Sandy@n@@1@s
+Filipe Fernandes@A Distributed, Standards-Based Framework for  Searching, Accessing, Analyzing and Visualizing Met-Ocean Data: Application to Hurricane Sandy@n@@1@s
+Johanna Hansen@Characterizing the Seafloor with Python as a Toolbox@n@@0@s
+Scott Collis@Exploring Open Access Weather Radar with the Python ARM Toolkit@n@@1@s
+Jonathan Helmus@Exploring Open Access Weather Radar with the Python ARM Toolkit@n@@1@s
+Scott Giangrande@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Anderson Gama@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Kai Muehlbauer@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Cesar Beneti@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Stephen Nesbitt@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Nick Guy@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Scott Collis@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Maik Hiestermann@From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@n@@1@s
+Mellissa Cross@PySPLIT: a Package for the Generation, Analysis, and Visualization of HYSPLIT Air Parcel Trajectories@n@@0@s
+Kristen Thyng@Python in Tidal Energy: Three Tools Used in a Collaboration on Array Optimization@n@@0@s
+Stéfan van der Walt@A Better Default Colormap for Matplotlib@n@@1@s
+Nathaniel Smith@A Better Default Colormap for Matplotlib@n@@1@s
+Jean-Luc R. Stevens@HoloViews: Building Complex Visualizations Easily for Reproducible Science@n@@1@s
+James A. Bednar@HoloViews: Building Complex Visualizations Easily for Reproducible Science@n@@1@s
+Philipp Rudiger@HoloViews: Building Complex Visualizations Easily for Reproducible Science@n@@1@s
+Cory Quammen@Scientific Data Analysis and Visualization with VTK and ParaView@n@@0@s
+Bryan Van de Ven@Story Time with Bokeh@n@@0@s
+Mellissa Cross@TrendVis: An Elegant Interface for Dense, Sparkline-Like, Quantitative Visualizations of Multiple Series Using Matplotlib@n@@0@s
+Luke Campagnola@VisPy: Harnessing The GPU For Fast, High-Level Visualization@n@@0@s
