@@ -1,0 +1,135 @@
+Fernando Perez@IPython: from the shell to a book with a single tool; the method behind the madness@k@m@0@s
+Pat Marion@Import without a filesystem: scientific Python built-in with static linking and frozen modules@n@m@1@s
+Aron Ahmadia@Import without a filesystem: scientific Python built-in with static linking and frozen modules@n@m@1@s
+Bradley M. Froehle@Import without a filesystem: scientific Python built-in with static linking and frozen modules@n@m@1@s
+Damian Avila@IPython-powered Slideshow Reveal-ed@n@m@0@s
+Kyle Kastner@A Gentle Introduction To Machine Learning@n@m@0@s
+Florian Rathgeber@PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations@n@m@1@s
+Graham R. Markall@PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations@n@m@1@s
+Ana Nelson@Writing Reproducible Papers with Dexy@n@m@0@s
+James Bergstra@Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms@n@m@1@s
+Dan Yamins@Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms@n@m@1@s
+David D. Cox@Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms@n@m@1@s
+Jeff Bezanson@Julia and Python: a dynamic duo for scientific computing@n@m@1@s
+Stefan Karpinski@Julia and Python: a dynamic duo for scientific computing@n@m@1@s
+Ramalingam Saravanan@GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization@n@m@0@s
+Rob Zinkov@Using Python for Structured Prediction@n@m@0@s
+Serge Guelton@Pythran: Enabling Static Optimization of Scientific Python Programs@n@m@1@s
+Pierrick Brunet@Pythran: Enabling Static Optimization of Scientific Python Programs@n@m@1@s
+Alan Raynaud@Pythran: Enabling Static Optimization of Scientific Python Programs@n@m@1@s
+Adrien Merlini@Pythran: Enabling Static Optimization of Scientific Python Programs@n@m@1@s
+Mehdi Amini@Pythran: Enabling Static Optimization of Scientific Python Programs@n@m@1@s
+Carlos Cordoba@The advantages of a scientific IDE@n@m@0@s
+Gael Varoquaux@Processing biggish data on commodity hardware: simple Python patterns@n@m@0@s
+Anthony Scopatz@XDress - Type, But Verify@n@m@0@s
+Trevor Bekolay@An efficient workflow for reproducible science@n@m@0@s
+Leif Johnson@Python Tools for Coding and Feature Learning@n@m@0@s
+Olivier Grisel@Trends in Machine Learning and the SciPy community@k@m@0@s
+Brian Granger@Why you should write buggy software with as few features as possible@n@m@0@s
+John Stowers@Complex Experiment Configuration, Control, Automation, and Analysis using Robot Operating System (ROS)@n@m@1@s
+Andrew Straw@Complex Experiment Configuration, Control, Automation, and Analysis using Robot Operating System (ROS)@n@m@1@s
+Michael McKerns @ California Institute of Technology@mystic: a framework for predictive science@n@m@0@s
+Leonardo Uieda@Modeling the Earth with Fatiando a Terra@n@m@1@s
+Vanderlei C. Oliveira Jr@Modeling the Earth with Fatiando a Terra@n@m@1@s
+V Barbosa@Modeling the Earth with Fatiando a Terra@n@m@1@s
+Damian Avila@vIPer, a new tool to work with IPython notebooks@n@m@0@s
+James Bergstra@Skdata: Data seets and algorithm evaluation protocols in Python@n@m@1@s
+David D. Cox@Skdata: Data seets and algorithm evaluation protocols in Python@n@m@1@s
+Andrew Reid@Scientific Computing and the Materials Genome Initiative@n@m@0@s
+Emmanuel Quemener@OS deduplication with SIDUS (single-instance distributing universal system)@n@m@1@s
+Marianne Corvellec@OS deduplication with SIDUS (single-instance distributing universal system)@n@m@1@s
+Rob Zinkov@Infer.py: Probabilistic Programming and Bayesian Inference from Python@n@m@0@s
+Christopher Beaumont@Multidimensional Data Exploration with Glue@n@m@1@s
+Thomas Robitaille@Multidimensional Data Exploration with Glue@n@m@1@s
+Michelle Borkin@Multidimensional Data Exploration with Glue@n@m@1@s
+Alys Goodman@Multidimensional Data Exploration with Glue@n@m@1@s
+Adam Richards@lpEdit: An editor to facilitate reproducible analysis via literate programming@n@m@1@s
+Andrzej Kosinski@lpEdit: An editor to facilitate reproducible analysis via literate programming@n@m@1@s
+Camille Bonneaud@lpEdit: An editor to facilitate reproducible analysis via literate programming@n@m@1@s
+Eric Neuman@Roadmap to a Sentience Stack@n@m@0@s
+Aaron Quinlan@Exploring disease genetics from thousands of individual genomes with Gemini@n@m@1@s
+Uma Paila@Exploring disease genetics from thousands of individual genomes with Gemini@n@m@1@s
+Brad Chapman@Exploring disease genetics from thousands of individual genomes with Gemini@n@m@1@s
+Rory Kirchner@Exploring disease genetics from thousands of individual genomes with Gemini@n@m@1@s
+Ryan Dale@metaseq: a Python framework for integrating high-throughput sequencing analyses@n@m@0@s
+Brent Pedersen@Stuff to do with your genomic intervals@n@m@1@s
+Blake Borgeson@All-by-all learning of protein complexes from mass spectrometry data@n@m@1@s
+Cuihong Wa@All-by-all learning of protein complexes from mass spectrometry data@n@m@1@s
+Patricia Francis-Lyon@Detection and characterization of interactions of genetic risk factors in disease@n@m@1@s
+Shashank Belvadi@Detection and characterization of interactions of genetic risk factors in disease@n@m@1@s
+Lin Wang@Detection and characterization of interactions of genetic risk factors in disease@n@m@1@s
+Jacob Barhak@MIST: Micro-Simulation Tool to Support Disease Modeling@n@m@0@s
+Simon Ratcliffe SKA South Africa@Python and the SKA@n@m@0@s
+Jim Bosch@Combining C++ and Python in the LSST Software Stack@n@m@0@s
+Eric Jeschke@Ginga: an open-source astronomical image viewer and toolkit@n@m@0@s
+Michael Droettboom@Astropy, growing a community-based software system for astronomy@n@m@1@s
+Thomas Robitaille@Astropy, growing a community-based software system for astronomy@n@m@1@s
+Erik Tollerud@Astropy, growing a community-based software system for astronomy@n@m@1@s
+Stuart Mumford@SunPy - Python for Solar Physicists@n@m@0@s
+Raymond Plante@Accessing the Virtual Observatory from Python@n@m@1@s
+Mike Fitzpatrick@Accessing the Virtual Observatory from Python@n@m@1@s
+Matthew Graham@Accessing the Virtual Observatory from Python@n@m@1@s
+Doug Tody@Accessing the Virtual Observatory from Python@n@m@1@s
+Kyle Wilcox@LarvaMap - A python powered larval transport modeling system@n@m@1@s
+Alex Crosby@LarvaMap - A python powered larval transport modeling system@n@m@1@s
+Alexander Crosby@SCI-WMS: A Python Based Web Map Service For Met-Ocean Data Accessible Over OpenDAP Or As NetCDF@n@m@0@s
+Carissa Brittain@Optimizing Geographic Processing and Analysis for Big Data@n@m@1@s
+Jason Gleason@Optimizing Geographic Processing and Analysis for Big Data@n@m@1@s
+Kytt MacManus@The Production of a Multi-Resolution Global Index for Geographic Information Systems@n@m@0@s
+Eric C. Bruning@Streamed Clustering of Lightning Mapping Data in Python Using sklearn@n@m@0@s
+Panel participants: Sergio Ray (Arizona State U)@GIS Panel@n@m@0@s
+William Schroeder@The New Scientific Publishers@k@m@0@s
+Nicholas Kridler@Data Agnosticism: Feature Engineering Without Domain Expertise@n@m@0@s
+Jake Vanderplas@Opening Up Astronomy with Python and AstroML@n@m@1@s
+Zeljko Ivezic@Opening Up Astronomy with Python and AstroML@n@m@1@s
+Andrew Connolly@Opening Up Astronomy with Python and AstroML@n@m@1@s
+Andrew Davison@Using Sumatra to Manage Numerical Simulations@n@m@1@s
+Daniel Wheeler@Using Sumatra to Manage Numerical Simulations@n@m@1@s
+Matthew Rocklin@Matrix Expressions and BLAS/LAPACK@n@m@0@s
+Samuel Skillman@Parallel Volume Rendering in yt: User Driven & User Developed@n@m@1@s
+Matthew Turk@Parallel Volume Rendering in yt: User Driven & User Developed@n@m@1@s
+Michael Droettboom@matplotlib: past, present and future@n@m@0@s
+Joshua Warner@Scikit-Fuzzy: A New SciPy Toolkit for Fuzzy Logic@n@m@1@s
+Hal H. Ottesen@Scikit-Fuzzy: A New SciPy Toolkit for Fuzzy Logic@n@m@1@s
+Michael Droettboom@Bringing astronomical tools down to earth@n@m@1@s
+Nadia Dencheva@Bringing astronomical tools down to earth@n@m@1@s
+Tom Aldcroft@Bringing astronomical tools down to earth@n@m@1@s
+Harinarayan Krishnan@Exploring Collaborative HPC Visualization Workflows using VisIt and Python@n@m@1@s
+Cyrus Harrison@Exploring Collaborative HPC Visualization Workflows using VisIt and Python@n@m@1@s
+David Baddeley@Breaking the diffraction limit with python and scipy@n@m@0@s
+Jack Minardi@open('/dev/real_world') - Raspberry Pi Sensor and Actuator Control@n@m@0@s
+Zachary Trautt@Using IPython Notebook with IPython Cluster for Reproducibility and Portability of Atomistic Simulations@n@m@0@s
+Jason Moore@Dynamics with SymPy Mechanics@n@m@0@s
+Trevor Bekolay@A comprehensive look at representing physical quantities in Python@n@m@0@s
+Jeffrey Spies@The Open Science Framework: Improving, by Opening, Science@n@m@1@s
+Brian Nosek@The Open Science Framework: Improving, by Opening, Science@n@m@1@s
+Torsten Bittner@Analyzing IBM Watson experiments with IPython Notebook@n@m@0@s
+Mark Wiebe@The DyND Library@n@m@0@s
+Burcin Erocal@lmonade: a platform for development and distribution of scientific software@n@m@0@s
+Paul Ivanov@A Portrait of One Scientist as a Graduate Student@n@m@0@s
+Zhang Zhang@High Performance Reproducible Computing@n@m@1@s
+Todd Rosenquist@High Performance Reproducible Computing@n@m@1@s
+Kent Moffat@High Performance Reproducible Computing@n@m@1@s
+Geoffrey Poore@Reproducible Documents with PythonTeX@n@m@0@s
+Kapil Arya@DMTCP: Bringing Checkpoint-Restart to Python@n@m@1@s
+Gene Cooperman@DMTCP: Bringing Checkpoint-Restart to Python@n@m@1@s
+David Li@SymPy Gamma and SymPy Live: Python and Mathematics Online@n@m@0@s
+John Carnegie Mellon University Kitchin@Emacs + org-mode + python in reproducible research@n@m@0@s
+Joshua Carp@NeuroTrends: Large-scale automated analysis of the neuroimaging literature@n@m@0@s
+Jason Moore@Estimating and Visualizing the Inertia of the Human Body with Python@n@m@1@s
+Christopher Dembia@Estimating and Visualizing the Inertia of the Human Body with Python@n@m@1@s
+Jeffrey Miller@An Open Source System for De-identification and Use of Medical Images for Research@n@m@0@s
+Mark Fenner@Automating Quantitative Confocal Microscopy Analysis@n@m@1@s
+Barbara Fenner@Automating Quantitative Confocal Microscopy Analysis@n@m@1@s
+Joshua Warner@Experiences in Python for Medical Image Analysis@n@m@0@s
+Karl Garsha@A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform for Cancer Diagnostics Research@n@m@1@s
+Franklin Ventura@A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform for Cancer Diagnostics Research@n@m@1@s
+Ian Rees@EMAN2 and EMEN2: Flexible Python-based platforms for electron microscopy@n@m@1@s
+Steven Ludtke@EMAN2 and EMEN2: Flexible Python-based platforms for electron microscopy@n@m@1@s
+Larsson Omberg@Massive Online Collaborative Research and Modeling using Synapse and Python@n@m@0@s
+Philip Elson@Iris & Cartopy: Open source Python packages for Atmospheric and Oceanographic science@n@m@0@s
+Richard Signell@Advances in delivery and access tools for coastal ocean model data@n@m@0@s
+Christopher H. NOAA Emergency Response Division. Barker@Using Python to drive the General NOAA Operational Modeling Environment@n@m@0@s
+Xianlong Hou@Oil spill modeling and uncertainty forecasts with Python@n@m@1@s
+Ben Hodges@Oil spill modeling and uncertainty forecasts with Python@n@m@1@s
+William Noon@Climate Observations from ACIS in pandas@n@m@0@s
