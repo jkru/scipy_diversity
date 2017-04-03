@@ -1,0 +1,62 @@
+John Hunter@Advanced topics in matplotlib@t@m@0@s
+Ondrej Certik@Symbolic computing with sympy@t@m@0@s
+Robert Kern@Statistics with Scipy@t@m@0@s
+Dag Sverre Seljebotn@Cython@t@m@0@s
+Nicolas Pinto@Using GPUs with PyCUDA@t@m@0@s
+Enthought@Designing scientific interfaces with Traits@t@m@0@s
+Prabhu Ramachandran@Mayavi/TVTK@t@m@0@s
+David Cournapeau@Advanced numpy@t@m@1@s
+Stefan van der Walt@Advanced numpy@t@m@1@s
+Gael Varoquaux@Introductory to Scientific computing with Python@t@m@1@s
+Christopher Burns@Introductory to Scientific computing with Python@t@m@1@s
+Stefan van der Walt@Introductory to Scientific computing with Python@t@m@1@s
+Mike Droettboom@Introductory to Scientific computing with Python@t@m@1@s
+Perry Greenfield@Introductory to Scientific computing with Python@t@m@1@s
+David Cournapeau@Introductory to Scientific computing with Python@t@m@1@s
+Eric Jones@Introductory to Scientific computing with Python@t@m@1@s
+Charles Harrison@Update on the core projects@n@m@1@s
+Fernando Perez@Update on the core projects@n@m@1@s
+John Hunter@Update on the core projects@n@m@1@s
+David Cournapeau@Update on the core projects@n@m@1@s
+Peter Norvig@Keynote: What to demand from a Scientific Computing Language -- Even if you don't care about computing or languages@k@m@0@s
+Ariel Rokem@nipy.timeseries: Neuroimaging time-series analysis@n@m@0@s
+Andrew Straw@Virtual reality: a tool for the highly quantitative study of animal behavior@n@m@0@s
+Nikunj Patel@Parallel Kernels: An Architecture for Distributed Parallel Computing@n@m@0@s
+Marcin Cieslik@PaPy: Parallel and distributed data-processing pipelines in Python@n@m@0@s
+Andrew Friedley@High-Performance Code Generation Using CorePy@n@m@0@s
+Brian Refsdal@Sherpa: 1D/2D modeling and fitting in Python@n@m@0@s
+Brian D'Urso@Multiprocess System for Virtual Instruments in Python@n@m@0@s
+Olaf Lenz@ESPResSo++: A Python-controlled, Parallel Simulation Software for Soft Matter Research@n@m@0@s
+Ondrej Certik@Sympy@n@m@0@s
+Adrian Townsend@Python implementation of weno interpolation and reconstruction@n@m@0@s
+Damian Eads@Writing Safer NumPy Extensions in C++ with Templates and TooN@n@m@0@s
+Jonathan Guyer@Keynote: Modeling of Materials with Python@k@m@0@s
+Armando Sole@The PyMca Application and Toolkit@n@m@0@s
+Prabhu Ramachandran@Implementation of automatic script recording and network control for Mayavi@n@m@0@s
+Dag Sverre Seljebotn@Fast numerical computations with Cython@n@m@0@s
+Kurt Smith@Fwrap: The Next-Generation Fortran-to-Python Interface Generator@n@m@0@s
+Serge Rey@PySAL: A Python Library for Spatial Analysis and Geocomputation@n@m@0@s
+Piotr Zolnierczuk@Neutron Scattering Data Acquisition and Experiment Automation with Python@n@m@0@s
+Chris Lee@Exploring the future of bioinformatics data sharing and mining with Pygr and Worldbase@n@m@0@s
+Titus Brown@A full software stack for visualizing next-generation sequence information@n@m@0@s
+Kyle Mandli@Pyclaw - The Evolution of Clawpack into Python@n@m@0@s
+Joe Harrington@NumPy and SciPy Documentation in 2009 and Beyond@n@m@0@s
+Prabhu Ramachandran@Python in science and engineering education in India@n@m@0@s
+Jarrod Millman@Next challenges for Python in Science@b@m@1@s
+John Hunter@The view of the pioneers@b@m@1@s
+Eric Jones@The view of the pioneers@b@m@1@s
+Charles Harrison@The view of the pioneers@b@m@1@s
+Fernando Perez@The view of the pioneers@b@m@1@s
+Prabhu Ramachandran@The view of the pioneers@b@m@1@s
+David Cournapeau@The view of the young generation@b@m@1@s
+Pauli Virtanen@The view of the young generation@b@m@1@s
+Gael Varoquaux@The view of the young generation@b@m@1@s
+Stefan van der Walt@The view of the young generation@b@m@1@s
+Michael Aivazis@Python and Parallel computing@b@m@1@s
+Brian Granger@Python and Parallel computing@b@m@1@s
+Nicolas Pinto@Python and Parallel computing@b@m@1@s
+Gael Varoquaux@Python and Parallel computing@b@m@1@s
+John Hunter@State of Python visualization tools@b@m@1@s
+Prabhu Ramachandran@State of Python visualization tools@b@m@1@s
+Peter Wang@State of Python visualization tools@b@m@1@s
+Stefan van der Walt@State of Python visualization tools@b@m@1@s
