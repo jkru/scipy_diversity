@@ -533,7 +533,7 @@ def defined_content(year):
         talks.append( ("3-d visualization using TVTK and Mayavi"," Prabhu Ramachandran; Gael Varoquaux", "t","s") )
 
     elif year == 2009:
-        talks.append( ("Advanced numpy","Stefan van der Walt, David Cournapeau", "t","s") )
+        talks.append( ("Advanced numpy","Stefan van der Walt; David Cournapeau", "t","s") )
         talks.append( ("Advanced topics in matplotlib","John Hunter","t","s") )
         talks.append( ("Symbolic computing with sympy","Ondrej Certik","t","s") )
         talks.append( ("Statistics with Scipy","Robert Kern","t","s") )
@@ -562,7 +562,7 @@ def defined_content(year):
         talks.append( ("Python and Finance","Jason Wirth","b","s") )
         talks.append( ("NumFOCUS","Leah Silen","b","s") )
         talks.append( ("Python in Astronomy","Thomas Aldcroft","b","s") )
-        talks.append( ("SciPy 2014","Jonathan Rocher, Andy Terrel","b","s") )
+        talks.append( ("SciPy 2014","Jonathan Rocher; Andy Terrel","b","s") )
         talks.append( ("Collaborating and Contributing in Open Science","Jeffrey Spies","b","s") )
         talks.append( ("Matplotlib enhancement proposal discussion","Damon McDougall","b","s") )
         talks.append( ("PySide development planning and sprint kickoff","John Ehresman","b","s") )

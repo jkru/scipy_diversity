@@ -10,6 +10,8 @@ stats : scipy_conf_stats.py name_class.py scipy_conf_parsers.py
 	./scipy_conf_stats.py 2009 | grep '##' >> /tmp/scipy.stats
 	./scipy_conf_stats.py 2010 | grep '##' >> /tmp/scipy.stats
 	./scipy_conf_stats.py 2011 | grep '##' >> /tmp/scipy.stats
+	./scipy_conf_stats.py 2012 | grep '##' >> /tmp/scipy.stats
+	./scipy_conf_stats.py 2013 | grep '##' >> /tmp/scipy.stats
 	./scipy_conf_stats.py 2014 | grep '##' >> /tmp/scipy.stats
 	./scipy_conf_stats.py 2015 | grep '##' >> /tmp/scipy.stats
 	./scipy_conf_stats.py 2016 | grep '##' >> /tmp/scipy.stats
