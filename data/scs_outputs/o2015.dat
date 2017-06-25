@@ -1,0 +1,126 @@
+Keynote: Data Science at the New York Times@Keynote Speaker:  Chris Wiggins@M@k@s
+Will Millennials Ever Get Married?  Survival Analysis and Marriage Data@Allen Downey, Olin College@M@n@s
+Dask - Out-of-core NumPy/Pandas through Task Scheduling@James Crist@M@n@s
+PyRK: A Python Package for Nuclear Reactor Kinetics@Kathryn Huff@F@n@s
+Congress & New Media: A Data Driven Study of Congressional Public Relations@Brian Smith, Ball State University - Deptartment of Political Science@M@n@s
+DistArray: Distributed Array Computing for Python@Robert Grant; Kurt Smith@M@n@s
+pycalphad: Computational Thermodynamics in Python@Richard Otis, Pennsylvania State University@M@n@s
+Scientific Python using Mobile OS@Roberto Colistete Junior, UFES - Federal University of Espirito Santo (Brazil)@M@n@s
+Teaching with IPython/Jupyter Notebooks and JupyterHub@Jessica Hamrick, University of California, Berkeley; Min Ragan-Kelley, IPython; Kyle Kelley, Rackspace@F@n@s
+Signal Processing and Communications: Teaching and Research Using IPython Notebook@Mark Wickert, University of Colorado@M@n@s
+Exploring Open Source Community Dynamics with BigBang@Sebastian Benthall, Berkeley School of Information@M@n@s
+A Cloud Service to Record Simulation Metadata@Yannick Congo; Jonathan Guyer, NIST@M@n@s
+An Open-Source Data Archive for Expert-Annotated Dermoscopic Images@Brian Helba, Kitware Inc@M@n@s
+Welcome to SciPy BOF@Moderator: Kelsey Jordahl@F@n@s
+Gathering Usage Metrics for Open Scientific Software BOF@Moderator: Nathaniel Smith, University of California, Berkeley@M@n@s
+SymPy BOF@Moderator: Aaron Meurer@M@n@s
+Spatial Income Inequality Dynamics in PySAL@Wei Kang, GeoDa Center for Geospatial Analysis & Computation; Sergio Rey, GeoDa Center for Geospatial Analysis and Computation@U@n@s
+Story Time with Bokeh@Bryan Van de Ven, Continuum Analytics@M@n@s
+Basic Sound Processing in Python@Speaker: Allen Downey@M@n@s
+Analysis and Visualization of Imaging Experiments with IPython, sklearn and bokeh@Blake Borgeson, Recursion Pharmaceuticals@M@n@s
+VisPy: Harnessing The GPU For Fast, High-Level Visualization@Luke Campagnola, University of North Carolina, Chapel Hill@M@n@s
+The Need for New Tools for Materials Discovery@Christopher Wilmer, University of Pittsburgh@M@n@s
+Eigenvector Spatial Filtering using NumPy and ArcGIS@Bryan Chastain, University of Texas, Dallas@M@n@s
+HoloViews: Building Complex Visualizations Easily for Reproducible Science@Jean-Luc R. Stevens, University of Edinburgh; Philipp Rudiger, University of Edinburgh; James A. Bednar, University of Edinburgh@U@n@s
+Optimal Control and Parameter Identification of Dynamcal Systems with Direct Collocation using SymPy@Jason Moore@M@n@s
+Deep Learning: Tips from the Road@Kyle Kastner@M@n@s
+Scientific Data Analysis and Visualization with VTK and ParaView@Cory Quammen, Kitware@M@n@s
+Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration@Matthias Bussonnier, UC Berkeley BIDS / IPython / Jupyter; Kester Tong, Google@M@n@s
+PyStruct - Structured Prediction in Python@Andreas Mueller@M@n@s
+A Better Default Colormap for Matplotlib@Stéfan van der Walt; Nathaniel Smith, University of California, Berkeley@U@n@s
+Librosa: Audio and Music Signal Analysis in Python@Brian McFee, New York University@M@n@s
+pgmpy: Probabilistic Graphical Models using Python@Ankur Ankan; Abinash Panda@M@n@s
+TrendVis: An Elegant Interface for Dense, Sparkline-Like, Quantitative Visualizations of Multiple Series Using Matplotlib@Mellissa Cross@F@n@s
+Dexy and Docker for Scientific Reproducibility@Ana Nelson, Cosmify, Dexy@F@n@s
+Keynote: My  Data Journey with Python@Keynote Speaker:  Wes McKinney@M@k@s
+Blaze + Odo@Phillip Cloud, Continuum Analytics@M@n@s
+HDF5 is Eating the World@Andrew Collette@M@n@s
+Visualizing Physiological Signals in Real Time@Sebastian Sepulveda, Universidad de Valaparaiso@M@n@s
+xray: N-D Labeled Arrays and Datasets@Stephan Hoyer, The Climate Corporation@M@n@s
+Scientific Computing for Undergraduates: Getting Students into the Kitchen@Amelia McBee Henriksen, Brigham Young University@F@n@s
+Statistical Learning of Human Brain Structure in DIPY@Ariel Rokem, The University of Washington eScience Institute; Franco Pestilli, Indiana University; Bagrat Amirbekian, University of California, San Francisco; Stefan van der Walt, University of California, Berkeley; Brian Wandell, Stanford University; Eleftherios Garyfallidis, University of Sherbrooke@M@n@s
+Examining Malware with Python@Phil Roth@M@n@s
+PyEDA: Data Structures and Algorithms for Electronic Design Automation@Chris Drake@M@n@s
+Big Data in Practice: The Example of Nilearn for Mining Brain Imaging Data@Loïc Estève, Inria@U@n@s
+Deploying Python Machine Learning Models in Production@Krishna Sridhar, Dato@F@n@s
+What the FORTRAN is ** Doing in Python?@En Zyme, Proteasome Digest@U@n@s
+Python Derived Imaging Biomarkers of Dementia@Ross Mitchell@M@n@s
+New visual defaults for matplotlib 2.0 BOF@Moderator: Thomas Caswell, Brookhaven National Laboratory@M@n@s
+Future of Pandas BOF@Moderator: Stephan Hoyer, The Climate Corporation@M@n@s
+Python and GIS BOF@Moderator: Paige Bailey, Chevron@F@n@s
+Open Science BOF@Moderator: Elizabeth Seiver, PLOS@F@n@s
+The Polyglot Beaker Notebook@Scott Draves, Two Sigma Open Source@M@n@s
+Touch your Data! Color 3D Printing with Python@Joe Kington, Chevron@M@n@s
+scikit-bio: A Bioinformatics Library for Data Scientists, Students, and Developers@Jai Ram Rideout, Northern Arizona University; Evan Bolyen, Northern Arizona University@M@n@s
+Structural Cohesion: Visualization and Heuristics for Fast Computation with NetworkX and matplotlib@Jordi Torrents, NetworkX@U@n@s
+Using Python to Span the Gap between Education, Research, and Industry Applications in Geophysics@Lindsey Heagy, University of British Columbia: Geophysical Inversion Facility@U@n@s
+Analyzing Genomic Data with PyEnsembl and Varcode@Alex Rubinsteyn, Mount Sinai School of Medicine; Tim O'Donnell, Mount Sinai School of Medicine@M@n@s
+Welcome to the Algo Wars:  Leveraging Design Thinking for Building Scalable Enterprise Intelligent Systems using Python@Zubin Dowlaty, Mu Sigma; Subir Mansukhani, Mu Sigma; Bharat Upadrasta, Mu Sigma@M@n@s
+Global Hydrology Analysis Using Python@Mattheus Ueckermann, Creare@U@n@s
+Python as a First Programming Language for Biomedical Scientists@Jeannie Irwin, University of Pittsburgh@F@n@s
+State of the Library: matplotlib@Thomas Caswell, Brookhaven National Laboratory; Benjamin Root@M@n@s
+Geodynamic Simulations in HPC with Python@Nicola Creati, OGS; Roberto Vidmar, OGS; Paolo Sterzai, OGS@F@n@s
+Rapid Accurate and Simple Segmentation of Objects in Medical Images@Ross Mitchell@M@n@s
+Building a Cloud-based Data Science Platform with Python@Stephen Hoover@M@n@s
+Practical Integration of Processing, Inversion and Visualization of Magnetotelluric Geophysical Data@Gudni Rosenkjaer, University of British Columbia@U@n@s
+Qiita: Report of Progress Towards an Open Access Microbiome Data Analysis and Visualization Platform@Adam Robbins-Pianka, University of Colorado, Boulder; Yoshiki Vazquez-Baeza, University of California, San Diego@M@n@s
+Python in Data Science Research and Education@Randy Paffenroth, Worcester Polytechnic Institute@M@n@s
+Striplog: Wrangling 1D Subsurface Data@Matt Hall, Agile Geoscience@M@n@s
+ETE: A Python Programming Toolkit for the Analysis and Visualization of Trees@Jaime Huerta-Cepas, EMBL@F@n@s
+Visualization BOF@Moderator: Keynote Speaker: Jake  VanderPlas PhD@U@n@s
+Horizons in Probabilistic Programming and Bayesian Analysis BOF@Moderator: Chris Fonnesbeck@M@n@s
+Future of NumPy BOF@Moderator: Nathaniel Smith, University of California, Berkeley@M@n@s
+Keynote: State of the Tools@Keynote Speaker: Jake  VanderPlas PhD@M@k@s
+Keep on Releasin': Continuous Delivery for Open Source@Philip Elson, Met Office@M@n@s
+Towards a Better Documentation System for Scientific Python@Carlos Cordoba, Continuum Analytics@M@n@s
+Agent-Based Modeling in Python with Mesa@Jackie Kazil; David Masad, George Mason University@F@n@s
+From 1-Day Release to 1-Min Release (or How to Recover Time with Automation)@Damian Avila, Continuum Analytics@M@n@s
+Circumventing the Linker: Using SciPy's BLAS and LAPACK within Cython@Ian Henriksen, Brigham Young University@M@n@s
+So How ARE Scientists Using Python on Supercomputers?@Michael Milligan, Minnesota Supercomputing Institute, University of Minnesota@M@n@s
+Accelerating Python with the Numba JIT Compiler@Stanley Seibert, Continuum Analytics@M@n@s
+A Framework for Analyzing GADGET Simulation Data in Pandas@Jacob Hummel, University of Texas, Austin@M@n@s
+Docker for Improved Reproducibility of Scientific Python Analyses@Matthew McCormick, Kitware@M@n@s
+Statistical Thinking for Data Science@Chris Fonnesbeck@M@n@s
+klepto: Unified Persistent Storage to Memory, Database, or Disk@Michael McKerns, UQ Foundation@M@n@s
+Typing Arrays with DyND@Mark Wiebe, Thinkbox Software@M@n@s
+IPython/Jupyter and Education BOF@Jessica Hamrick, University of California, Berkeley@F@n@s
+Meteorology BOF@Ryan May, UCAR/Unidata@M@n@s
+RESTful HDF@John Readey, HDF Group@M@n@s
+A Distributed, Standards-Based Framework for  Searching, Accessing, Analyzing and Visualizing Met-Ocean Data: Application to Hurricane Sandy@Richard Signell, USGS; Filipe Fernandes, SECOORA; Kyle Wilcox, Axiom Data Science; Andrew Yan, USGS@M@n@s
+Who Needs Standard Stars Anyway? Telluric Model Fitting with TelFit@Kevin Gullikson@M@n@s
+Wrapping C and C++ Libraries with CastXML@Brad King, Kitware; Bill Hoffman, Kitware; Matthew McCormick, Kitware; Michka Popoff@M@n@s
+Exploring Open Access Weather Radar with the Python ARM Toolkit@Jonathan Helmus, Argonne National Laboratory; Scott Collis, Argonne National Laboratory@M@n@s
+The James Webb Space Telescope Data Calibration Pipeline@Howard Bushouse, Space Telescope Science Institute@M@n@s
+Perceptual Colormaps in matplotlib with an Application in Oceanography@Kristen Thyng@F@n@s
+Characterizing the Seafloor with Python as a Toolbox@Johanna Hansen, Woods Hole Oceanographic Institution@F@n@s
+Widgets and Astropy: Accomplishing Productive Research with Undergraduates@Matthew Craig, Minnesota State University Moorhead@M@n@s
+Causal Bayesian NetworkX@Michael Pacer@M@n@s
+PySPLIT: a Package for the Generation, Analysis, and Visualization of HYSPLIT Air Parcel Trajectories@Mellissa Cross@F@n@s
+Automated Image Quality Monitoring with IQMon@Josh Walawender@M@n@s
+ASDF, a New Scientific Data Format@Perry Greenfield, Space Telescope Science Institute; Michael Droettboom, Space Telescope Science Institute; Erik Bray, Space Telescope Science Institute@M@n@s
+From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success@Scott Collis, Argonne National Laboratory; Nick Guy, University of Wyoming; Anderson Gama, SIMEPAR - Sistema Meteorológico do Paraná; Cesar Beneti, SIMEPAR - Sistema Meteorológico do Paraná; Stephen Nesbitt, University of Illinois; Scott Giangrande, Brookhaven National Laboratory; Maik Hiestermann, University of Potsdam; Kai Muehlbauer, University of Bonn@M@n@s
+Astropy in 2015@Erik Tollerud@M@n@s
+UDL: Unified Interface for Deep Learning@Haitham Elmarakeby, Virginia Tech University@U@n@s
+Python in Tidal Energy: Three Tools Used in a Collaboration on Array Optimization@Kristen Thyng@F@n@s
+Python Tools for Space Mission Data Analyses@Michael Aye, LASP@M@n@s
+Jupyter and IPython BOF@Moderator: Min Ragan-Kelley, IPython@M@n@s
+SciPy 2016 BOF (with a focus on increasing diversity)@Moderator: Kelsey Jordahl@F@n@s
+Introduction to NumPy (Beginner)@Eric Jones@M@t@s
+Machine Learning with Scikit-Learn (Intermediate) (Monday Session)@Andreas  Mueller; Kyle Kastner@M@t@s
+Cython: Blend the Best of Python and C/++ (Intermediate)@Kurt Smith@M@t@s
+Image Analysis in Python with SciPy and Scikit-Image (Intermediate)@Joshua Warner; Stéfan van der Walt; Steven Silvester@M@t@s
+Analyzing and Manipulating Data with Pandas (Beginner)@Jonathan Rocher@M@t@s
+Machine Learning with Scikit-Learn (Advanced)(Monday Session)@Andreas  Mueller; Kyle Kastner@M@t@s
+Building Python Data Applications with Blaze and Bokeh (Intermediate)@Christine Doig-Cardet@F@t@s
+Multibody Dynamics and Control with Python (Intermediate)@Jason Moore; James Crist@M@t@s
+Anatomy of Matplotlib (Beginner)@Benjamin Root; Joe Kington, Chevron@M@t@s
+Computational Statistics I (Intermediate)@Allen Downey@M@t@s
+Efficient Python for High-Performance Parallel Computing (Intermediate)@Mike McKerns@M@t@s
+Geospatial Data with Open Source Tools in Python (Intermediate)@Kelsey Jordahl@F@t@s
+Machine Learning with Scikit-Learn (Intermediate)(Tuesday Session)@Andreas  Mueller; Kyle Kastner@M@t@s
+Decorating Drones: Using Drones to Delve Deeper into Intermediate Python (Intermediate)@Matt Harrison@M@t@s
+Computational Statistics II (Intermediate)@Chris Fonnesbeck@M@t@s
+Modern Optimization Methods in Python (Advanced)@Mike McKerns@M@t@s
+Jupyter Advanced Topics Tutorial (Advanced)@Jonathan Frederic; Matthias Bussonnier; Thomas Kluyver@M@t@s
+Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)@Andreas  Mueller; Kyle Kastner@M@t@s
+##2015 114  21  93  11 Pexpect: 0.240000 Nexpect: 28 Pobs: 0.062655 Pover: 0.480157

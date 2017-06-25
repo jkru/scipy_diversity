@@ -1,0 +1,91 @@
+Keynote: Academic Open Source@Kathryn Huff@F@k@s
+Python + Tableau: Building an Interactive and Beautiful Data Visualization with TabPy@Chloe Tseng@F@n@s
+Using Python to Process and Visualize Real-Time Atmospheric Data During VORTEX-SE@Abby Kenyon; Aaron Hill, Texas Tech University@F@n@s
+MNE-Python to See the Brain at a Millisecond Time-Scale@Alexandre Gramfort; Author: Eric Larson, University of Washington; Author: Denis Engemann, INRIA; Author: Jaakko  Leppäkangas, Telecom ParisTech, Université Paris-Saclay; Author: Mainak Jas, Telecom ParisTech, Université Paris-Saclay; Author: Christian  Brodbeck, New York University; Author: Teon B Brooks, Stanford University; Author: Jean-Rémi King, New York University; Author: Chris  Holdgraf, University of California, Berkeley; Author: Marijn  van Vliet, Aalto University; Author: Matti  Hamalainen, Massachusetts General Hospital, Harvard University@M@n@s
+Dataflow Notebooks: Encoding and Using Cell Dependencies@David Koop@M@n@s
+Global 5 Meter Resolution Time Series Mosaics@Amit Kapadia, Planet@M@n@s
+pulse2percept: A Python-based Simulation Framework for Bionic Vision@Michael Beyeler, Department of Psychology, University of Washington, Institute for Neuroengineering (UWIN); Ariel Rokem, eScience Institute, University of Washington; Geoffrey M. Boynton, Department of Psychology, University of Washington; Ione Fine, Department of Psychology, University of Washington@M@n@s
+bqplot - Seamless Interactive Visualizations in the Jupyter Notebook@Dhruv Madeka@U@n@s
+From the Field to Geostationary Orbit: Mapping Lightning with Python@Eric Bruning@M@n@s
+PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics@Jaime Arias, Inria Grenoble Rhône-Alpes; Philippe Ciuciu; Michel Dojat; Florence Forbes; Aina Frau-Pascual; Thomas Perret; Jan Warnking@F@n@s
+nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook@Jessica Hamrick; Matthias Bussonnier; Jonathan Frederic; Brian Granger, Cal Poly State University, Project Jupyter; Logan Page; Min Ragan-Kelley, IPython/Jupyter; Carol Willing@F@n@s
+SciSheets: Providing the Power of Programming with the Simplicity of Spreadsheets@Joseph Hellerstein; Alicia Clark, University of Washington@M@n@s
+The OOF Finite Element Tool for Materials Science@Andrew Reid@M@n@s
+Robust Color Matching of Geospatial Data: An Alternative to Histogram Matching@Joe Kington@M@n@s
+Using Mystic to Accelerate Data Science@Michael McKerns@M@n@s
+Quantifying Plastic Deformation using Machine Learning@Michail Tzimas, West Virginia University@M@n@s
+Berryconda : Scientific Python on the Raspberry Pi@Jonathan Helmus@M@n@s
+Reskit — A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning@Dmitry Petrov; Alexander Ivanov; Daniel Moyer@U@n@s
+Materials Project - A Prime Case of Software Engineering in Materials Sciences@Patrick Huck@M@n@s
+MatchPy: A Pattern Matching Library@Manuel Krebber@M@n@s
+Distributed Convex Optimization for GLMs@Chris White, Capital One; Hussain Sultan, AQN Strategies@M@n@s
+Designing a Python-based Monte Carlo Tool for Generating Non-Equilibrium Semi-Crystalline Polymer Configurations@Tyler Martin@M@n@s
+Keynote: Coding for Science and Innovation@Gaël  Varoquaux@U@k@s
+Composable Multiprocessing and Multithreading for Numeric Libraries@Anton Malakhov; Anton Gorshkov; Terry Wilmarth@M@n@s
+Bringing the Generic Mapping Tools to Python@Leonardo Uieda; Paul Wessel, Department of Geology and Geophysics, University of Hawaii at Manoa, USA@M@n@s
+Sarkas: A Fast Pure-Python Molecular Dynamics Code@Gautham Dharuman; Michael S. Murillo; Yongjun Choi@U@n@s
+Dash - A New Framework for Building User Interfaces for Technical Computing@Chris Parmer@M@n@s
+Interactive Geophysics@Lindsey Heagy, University of British Columbia; Rowan Cockett@F@n@s
+Optimised Finite Difference Computation from Symbolic Equations@Michael Lange; Navjot Kukreja, Imperial College London, UK; Fabio Luporini, Imperial College London, UK; Mathias Louboutin, The University of British Columbia, Canada; Gerard Gorman, Imperial College London, UK@M@n@s
+Diversity & Inclusion at the SciPy Conference@Julie Hollek, Twitter@F@n@s
+Pygridtools: A Collaboration Academia, Open Source, and the Private Sector@Paul Hobson@M@n@s
+Systematic Application of PySPH to Bubble Dynamics@Erin Arai, Boston University@F@n@s
+Diversity Luncheon@Tracy Teal, Data Carpentry@F@n@s
+The Spyder Ecosystem of Plugins@Carlos Cordoba@M@n@s
+Make it Work, Make it Right, Make it Fast - Debugging and Profiling in Dask@James Crist@M@n@s
+Predicting Phenotype from Genotype with Machine Learning@Speaker: Patricia Francis-Lyon, University of San Francisco; Author: Shraddha  Lanka, University of San Francisco; Author: Lakshmi Navin  Arbatti, University of San Francisco; Author: Gaurika Tyagi, University of San Francisco; Author: Hung  Do, University of San Francisco@F@n@s
+The Demeshening: The Next Generation of Particle Support in yt@Nathan Goldbaum; Meagan Lang, University of Illinois@M@n@s
+Big Data Processing with Apache Beam Python@Robert Bradshaw@M@n@s
+Tomviz: A Platform for Reproducible Materials Tomography@Marcus Hanwell, Kitware@M@n@s
+Make Your Observational Study an Experiment@Peter Skipper@M@n@s
+Deploying Interactive Jupyter Dashboards for Visualizing Hundreds of Millions of Datapoints, in 30 Lines of Python@Philipp Rudiger; James A. Bednar; Jean-Luc Stevens, Continuum Analytics@M@n@s
+Introducing JOSS: The Journal of Open Source Software@Kyle Niemeyer; Arfon Smith; Lorena Barba, George Washington University; George Githinji; Melissa Gymrek; Kathryn Huff, University of Illinois at Urbana-Champaign; Daniel Katz; Christopher Madan; Abigail Cabunoc Mayes; Kevin Moerman; Pjotr Prins; Karthik Ram; Ariel Rokem; Tracy Teal, Data Carpentry; Jake Vanderplas@M@n@s
+Scientific MicroPython on Microcontrollers and IoT@Roberto Colistete Jr@M@n@s
+HDF Data Services@John Readey@M@n@s
+Creating Reproducible Experiments with ReproZip@Vicky Steeves; Fernando  Chirigati; Rémi  Rampin@F@n@s
+Efficient Array Computing in C++ with xtensor and Apache Arrow@Johan Mabille; Sylvain Corlay@M@n@s
+Hunting for Emerging Trends in Music Using Bayesian Inference@Alex Companioni@M@n@s
+Sacred: How I Learned to Stop Worrying and Love the Research@Klaus Greff, IDSIA, USI, SUPSI@M@n@s
+Keynote: Drilling the Chicxulub Impact Structure: Study of Large Impact Formation and Effects on Life during IODP/ICDP Expedition 364@Sean  Gulick@M@k@s
+Dask: Advanced Techniques@Matthew Rocklin@M@n@s
+Calculating Radiation Doses for Tumor Treatment with Learning Algorithms@Roy Keyes@M@n@s
+Rambutan: A Python Package for Predicting 3D Genome Architecture@Jacob Schreiber@M@n@s
+Terabytes at Your Fingertips: Interactive Big Data Coding with PySpark@Sam Penrose@M@n@s
+A Python API for Earth@Sam Skillman, Descartes Labs@M@n@s
+PyGBe: Python, GPUs and Boundary Elements for Biomolecular Electrostatics@Natalia Clementi, George Washington University; Gilbert Forsyth, George Washington University; Lorena Barba, George Washington University@F@n@s
+Scientific Analysis at Scale: a Comparison of Five Systems@Jake VanderPlas, UW eScience Institute@M@n@s
+NEXT: Machine Learning, Crowdsourcing, and Cartoons@Scott Sievert@M@n@s
+LabbookDB@Horea-Ioan Ioanas@U@n@s
+Learning in Cycles: Implementing Sustainable Machine Learning Models in Production@Andrew Therriault@M@n@s
+MetPy’s Choice of Unit Support: A Descent into Madness@Ryan May; John Leeman@M@n@s
+A Fast Template Periodogram for Finding Periodic (Non-Sinusoidal) Waveforms in Noisy, Irregularly-Sampled Time Series Data@John Hoffman@M@n@s
+Fully Convolutional Networks for Image Segmentation@Daniil Pakhomov, Johns Hopkins University@U@n@s
+Deep Learning with Geospatial Data@Shane Grigsby@M@n@s
+Vizic: A Jupyter-Based Interactive Visualization Tool for Astronomical Catalogs@Weixiang Yu@U@n@s
+hybrid-vocal-classifier (HVC): a Python Package to Automate Labeling of Birdsong for Behavioral Experiments@David Nicholson@M@n@s
+WARNO: Multi-platform Monitoring Framework for Remote Sensing Instrumentation.@Joseph Hardin, Pacific Northwest National Laboratory@M@n@s
+Stingray : A Library of Time Series Methods for Astronomical X-Ray Data@Himanshu Mishra; Daniela Huppenkothen, NYU, USA; Usman Khan, NUST, Pakistan@U@n@s
+Efficient Image Search and Identification: The Making of Wine-O.AI@Michelle Gill@F@n@s
+Adjusting Estimation Bias from Link-Tracing Sampling in Social Networks@Wendy Wei@F@n@s
+ChiantiPy: a Python Package for Astrophysical Spectroscopy@Will Barnes, Graduate Student,  Department of Physics and Astronomy, Rice University; Kenneth Dere, Research Professor, College of Science, George Mason University@M@n@s
+Software Carpentry Scientific Python Course Part 1 (Beginner)@Maxim Belkin@M@t@s
+Cython for Data, Scientists, and Data Scientists (Intermediate/Advanced)@Kurt Smith@M@n@s
+Numba: Tell Those C++ Bullies to Get Lost (Intermediate)@Gil Forsyth; Lorena Barba@M@t@s
+Automatic Code Generation with SymPy (Advanced)@Jason Moore, PyDy and SymPy; Aaron Meurer, University of South Carolina, SymPy; Björn  Dahlgren, KTH Royal Institute of Technology, SymPy; Kenneth Lyons, University of California, Davis@M@t@s
+Modern Optimization Methods in Python (Intermediate/Advanced)@Michael McKerns@M@n@s
+Software Carpentry Scientific Python Course Part 2 (Beginner)@Maxim Belkin@M@t@s
+Computational Statistics (Beginner)@Allen Downey@M@t@s
+The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)@Matt Craig, Minnesota State University Moorhead; Sylvain Corlay; Jason Grout, Bloomberg LP@M@n@s
+HDF5 take 2: h5py & PyTables (Intermediate/Advanced)@Frank Willmore, HDF Group@M@n@s
+Interactive Data Visualization with HoloViews & Bokeh (Advanced)@Philipp Rudiger; Jean-Luc Stevens, Continuum Analytics; Bryan Van de Ven, Continuum Analytics@M@t@s
+Introduction to Numerical Computing with NumPy (Beginner)@Dillon Niederhut@M@t@s
+Pandas for Data Analysis (Beginner)@Daniel Chen, Virginia Tech@M@t@s
+Machine Learning with scikit-learn Part One (Intermediate)@Andreas Mueller; Alexandre  Gramfort@M@t@s
+Parallelizing Scientific Python with Dask (Intermediate)@James Crist; Martin Durant, Continuum Analytics; Skipper  Seabold, Civis Analytics@M@t@s
+Parallel Data Analysis in Python (Intermediate)@Matthew Rocklin; Ben Zaitlen, Continuum Analytics; Aron Ahmadia, Capital One@M@t@s
+Anatomy of Matplotlib (Beginner)@Ben Root@M@t@s
+scikit-image: Image Processing for Python (Intermediate)@Stéfan van der Walt; Emmanuelle  Gouillart; Claire McQuin, Broad Institute@U@t@s
+Network Science and Statistics: Fundamentals and Applications (Intermediate)@Eric Ma, MIT@M@t@s
+Machine Learning with scikit-learn Part Two (Intermediate)@Andreas Mueller; Alexandre  Gramfort@M@t@s
+Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)@Mark Wickert@M@t@s
+##2017  81  14  67   9 Pexpect: 0.240000 Nexpect: 20 Pobs: 0.056610 Pover: 0.484725

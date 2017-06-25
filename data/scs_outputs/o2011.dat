@@ -1,0 +1,55 @@
+Hurricane Prediction with Python@Minwoo Lee@U@n@s
+Vision Spreadsheet: An Environment for Computer Vision@Scott Determan@M@n@s
+Experiment Control Feedback with Web Services and Python@Piotr A. Zolnierczuk; Yu (Cathy) Jiao; Richard E. Riedel@M@n@s
+The Open Estuary: Using open source tools to model Texas estuaries@Solomon Negusse; Dharhas Pothina@M@n@s
+Automation of Inertial Fusion Target Design with Python@Matt Terry; Joseph Koning@M@n@s
+IMUSim - Simulating inertial and magnetic sensor systems in Python@Martin Ling@M@n@s
+Sherpa Methods for Calculating Confidence Limits on Model Parameters@Brian Refsdal@M@n@s
+Improving efficiency and repeatability of lake volume estimates using Python@Tyler McEwen; Dharhas Pothina@M@n@s
+Panel Discussion: Python in Finance@Wes McKinney; Henry Ward; Travis Oliphant@M@n@s
+A Software Framework in Python for Generating Optimal Isogeometric Kernels on the PowerPC 450@Aron Ahmadia; Jed Brown; Nathan Collier; Tareq Malas; John Gunnels@M@n@s
+Bringing Parallel Performance to Python with Domain-Specific Selective Embedded Just-in-Time Specialization@Shoaib Kamil@U@n@s
+Using the Global Arrays Toolkit to Reimplement NumPy for Distributed Computation@Jeff Daily@M@n@s
+A Framework for Massively-Parallel Optimization and Rigorous Sensitivity Analysis@Michael McKerns@M@n@s
+Time series analysis in Python with statsmodels@Wes McKinney; Skipper Seabold; Josef Perktold@M@n@s
+Python for brain mining: (neuro)science with state of the art machine learning and data visualization@Gael Varoquaux@M@n@s
+Constructing scientific programs using Sympy@Mark Dewing@M@n@s
+Using Python to Construct a Scalable Parallel Nonlinear Wave Solver@Kyle Mandli; Manuel Quezada; Amal Alghamdi; Aron Ahmadia; David Ketcheson; William Scullin; Matthew Knepley; Lisandro Dalcin@M@n@s
+FEMhub Online Lab: Scientific computing with Python in web browsers@Mateusz Paprocki@U@n@s
+PyStream: Compiling Python onto a GPU@Nick Bray@M@n@s
+Metagraph: A Declarative Graphing System for Python@Peter Wang@M@n@s
+TRAPPIST: A toolkit for comparative analysis and visualization of genomic regions@Geraldine van der Auwera@F@n@s
+atobrute: why plaintext isn't so vanilla@Anthony Scopatz@M@n@s
+RESTful APIs for Scientific Computing in Django@Shreyas Cholia; Annette Greiner@U@n@s
+The Technical and Social Challenges of Getting Python into a Multi-billion Dollar Enterprise@Josh Hemann@M@n@s
+PiCloud - Cloud Computing for Science. Simplified.@Ken Elkabany; Aaron Staley; Ken Park@M@n@s
+Python Facilitating Code Refactoring @Ben Christenson; Yahya Nazer@M@n@s
+Crab: A Recommendation Engine Framework for Python@Marcel Caraciolo; Bruno Melo; Ricardo Caspirro@M@n@s
+Using Python, Partnerships, Standards and Web Services to provide Water Data for Texans@Dharhas Pothina; Andrew Wilson@U@n@s
+gpustats: GPU library for statistical computing@Wes McKinney; Andrew Cron@M@n@s
+An N-th order approximate interpolation library for Python@Stephen M. McQuay@M@n@s
+A Technical Anatomy of SPM.Python, a Scalable, Parallel Version of Python@Minesh B. Amin@U@n@s
+IPython: a new architecture for interactive and parallel computing@Fernando Perez; Brian Granger; Min Ragan-Kelley;  Evan Patterson; Thomas Kluyver@M@n@s
+Lessons Learned Building a Scalable Distributed Storage System in Python@Chuck Thier@M@n@s
+AudGenDB: Intuitive biomedical query and reporting tool using Django@Byron Ruth@M@n@s
+Meet Twiggy: A Pythonic Logger@Pete Fein@M@n@s
+Google App Engine for Python@Douglas Starnes@M@n@s
+PyModel: Model-based testing in Python@Jonathan Jacky@M@n@s
+Documentation with Dexy@Ana Nelson@F@n@s
+Verifying correctness of PDE solvers using SymPy@Jed Brown@M@n@s
+Mining Lectures@Marcel Caraciolo@M@n@s
+10 Awesome Tricks for Numerical Researchers@Matthew R. Goodman@M@n@s
+The Risch Algorithm for Symbolic Integration in SymPy@Aaron Meurer@M@n@s
+What I would like to see in NumPy@Travis Oliphant@M@n@s
+What's New With Theano?@David Warde-Farley@M@n@s
+Using Disco and MapReduce to study mRNA complexity@Dan Williams@M@n@s
+Whatâs new and awesome in pandas@Wes McKinney@M@n@s
+Introduction to NumPy with IPython and Matplotlib@Jonathan Rocher@M@t@s
+Introduction to SciPy : optimization, linear algebra, statistics, and more...@Anthony Scopatz@M@t@s
+Guide to Symbolic Mathematics with SymPy@Mateusz Paprocki and Aaron Meurer@U@t@s
+Introduction to Matplotlib, Traits, and Chaco@Corran Webster@U@t@s
+An Introduction to Bayesian Statistical Modeling using PyMC@Christopher J. Fonnesbeck and Abie Flaxman@M@t@s
+Statistical Learning with scikit-learn@Gael Varoquaux@M@t@s
+High Performance Parallel Computing in Python using NumPy and the Global Arrays Toolkit@Jeff Daily@M@t@s
+Interactive Parallel Computing with IPython and PyZMQ@Min Ragan-Kelley@M@t@s
+##2011  46   2  44   8 Pexpect: 0.240000 Nexpect: 12 Pobs: 0.000051 Pover: 0.425463

@@ -1,0 +1,72 @@
+Intro to Python, IPython, NumPy, Matplotlib, SciPy, & Mayavi@Prabhu Ramachandran; Kadambari Devarajan; Christopher Burns@M@t@s
+Matplotlib: beyond the basics@Ryan May@M@t@s
+Advanced NumPy@Stefan van der Walt@M@t@s
+Signals and Systems in Python@Gunnar Ristroph@M@t@s
+High Performance and Parallel Computing in Python@Brian Granger@M@t@s
+GPUs and Python: PyCuda, PyOpenCL@Andreas Kloeckner@M@t@s
+Introduction to Traits@Corran Webster@U@t@s
+Mayavi@Prabhu Ramachandran@M@t@s
+Intro@Eric Jones@M@n@s
+Core Projects Updates@multiple presenters@U@n@s
+Keynote: Python Concurrency@David Beazley@M@k@s
+Transparent GPU Computing with Theano@James Bergstra; Olivier Breuleux; Frederic Bastien; Pascal Lamblin; Razvan Pascanu; Guillaume Desjardins; Joseph Turian; Yoshua Bengio@M@n@s
+A High Performance Robot Vision Algorithm Implemented in Python@S. Chris Colbert@U@n@s
+Audio-Visual Automatic Speech Recognition in Python@Helge Reikeras@U@n@s
+SHOGUN - A Large Scale Machine Learning Toolbox@SÃ¶ren Sonnenburg; Gunnar Raetsch; 	Sebastian Henschel; Christian Widmer; Jonas Behr; Alexander Zien; Fabio de Bona; 	Christian Gehl,Alexander Binder; Vojtech Franc@U@n@s
+PythonOCC: Python meets solid geometry CAD@Bryan Bishop@M@n@s
+Divisi: Learning from Semantic Networks and Sparse SVD@Rob Speer@M@n@s
+PySPH: A Python framework for SPH@Chandrashekhar Kaushik; Prabhu Ramachandran@U@n@s
+Assessing borehole geophysical data with python through simulation of  	borehole flow in fractured bedrock aquifers@Andrew S. Reeve; Joseph Sawdey@M@n@s
+PyEEG: a Python module for EEG feature extraction@Forrest Sheng Bao@M@n@s
+Modeling Sudoku puzzles with Python@Matthew Henderson@M@n@s
+Python in Science and Engineering Education in India@Prabhu Ramachandran@M@n@s
+Foundation for Mathematical and Scientific Computing@Jarrod Millman@M@n@s
+Effective Use of Python in Transportation Engineering Teaching@Mehmet Kunt@U@n@s
+Python and Machine Learning enabling Space Weather Applications@Josef Koller@M@n@s
+Generating Realistic Damage Models for Composite Materials using the Python Programming Language@Mark Benedict@M@n@s
+Open Knowledge Packages and CKAN, an Archive Network|  @Bryan Bishop@M@n@s
+Do Google, Bing, & Yahoo Differ? Contingency Table Analysis on Search Engines@Anthony M. Scopatz@M@n@s
+Building Web Gateways to Scientific Computing in Python@Shreyas Cholia@U@n@s
+luban: uses pure python to write web application@Video 2@U@n@s
+Keynote: @Travis Oliphant@M@k@s
+Unusual Relationships : Python and Weaver Birds@Kadambari Devarajan@U@n@s
+Simple, Fast Messaging in Python with 0MQ and PyZMQ@Brian Granger@M@n@s
+Numerical Pyromaniacs: The use of Python in Fire Research@Kristopher Overholt@M@n@s
+Weather Forecast Accuracy Analysis@Eric Floehr@M@n@s
+Reproducible research in practice: Python as interface language in the Madagascar software package@Sergey Fomel@U@n@s
+Statsmodels - Statistical Modelling in Python@Skipper Seabold@M@n@s
+Data structure for statistical computing in Python@Wes McKinney@M@n@s
+Rebuilding the Hubble Exposure Time Calculator@Perry Greenfield@M@n@s
+Keeping the Chandra satellite cool with Python@Tom Aldcroft@M@n@s
+SpacePy - A Python-based library of tools for the space sciences@Steven K. Morley; Josef Koller; Daniel T. Welling; Michael G. Henderson@M@n@s
+Satellite image analysis in the cloud: Python and parallel computing in the search for tropical deforestation@Robin Kraft@F@n@s
+Using Python with Smoke and JWST Mirrors@Warren Hack@M@n@s
+Astrodata@Craig Allen@M@n@s
+Protein Folding with Python on Supercomputers@Jan H. Meinke@F@n@s
+Can Python Save Next-Generation Sequencing?@Christopher Mueller@M@n@s
+The Use of Galaxy for the Research and the Teaching of Genomics@Rodolfo Aramayo; Jim Hu; Raffaele Montuoro; and Roy Weckiewicz@M@n@s
+StarCluster - NumPy/SciPy Computing in the Cloud@Justin Riley@M@n@s
+pomsets: workflow management for your cloud@Michael J Pan@M@n@s
+The Disco Framework: Getting Down with Big Data@Jared Flatow; Ville Tuulos@M@n@s
+StarFlow: A Cloud-Enables Python Workflow Engine for Scientific Analysis Pipelines@Elaine Angelino; Dan Yamins; Margo Seltzer@F@n@s
+A Programmatic Interface for Particle Plasma Simulation in Python, and Early Backend Results with PyCUDA@Min Ragan-Kelley@M@n@s
+Parallel Computing with IPython: an Application to Air Pollution Modeling@B.E. Granger; J.G. Hemann@U@n@s
+PiCloud - Cloud Computing for Science. Simplified.@Ken Elkabany; Aaron Staley; Ken Park@M@n@s
+PuDB: console debugging fun@Andreas Kloeckner@M@l@s
+Uncertainty Quantifications in mystic@Mike McKerns@M@l@s
+Serialization of Python Objects with dill @Mike McKerns@M@l@s
+Bayesian Estimation Example Using PyMC@Dan Williams@M@l@s
+Python/NumPy for Epigenetics@Brent Pedersen@M@l@s
+Scikits.image@S. Chris Colbert & StÃ©fan van der Walt@U@l@s
+Fwrap: Wrap Fortran in C, Cython & Python. Automagically.@Kurt Smith@M@l@s
+Apple Push Notification with Python@Mark Benedict@M@l@s
+TEAL: A New Parameter GUI for Python Tasks@Warren Hack@M@l@s
+Datarray@Fernando Perez@M@l@s
+askscipy.org@David Warde-Farley@M@l@s
+AÂ PythonÂ distributionÂ forÂ Astronomy@James Turner@M@l@s
+Python & Satellite Data@Matt Davis@M@l@s
+Python in Geophysical Hazard Prediction@Kyle Mandli@M@l@s
+Radar Emulation Using NumPy@Baseem Ali@U@l@s
+Matplotlib Gallery Improvements@Josh Hemann@M@l@s
+Python Evangelism 101@Peter Wang@M@l@s
+##2010  57   3  54  14 Pexpect: 0.240000 Nexpect: 14 Pobs: 0.000029 Pover: 0.511413

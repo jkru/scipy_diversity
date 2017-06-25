@@ -1,0 +1,27 @@
+Flight Software Code Generaton Tools for the Mars Science Laboratory@Leonard J. Reder@M@l@s
+Climate Data Analysis Tools@C. Doutriaux; D.N. Williams@U@l@s
+The Numenta Platform for Intelligent Computing@Numenta, Inc.@U@l@s
+Teaching Scientific Computing with Python@Rick Wagner@M@l@s
+PyStream: Stream and GPU computing in Python@Brian Granger@M@l@s
+TVTK and MayaVi2@Prabhu Ramachandran@M@l@s
+MLab@Gael Varoquaux@M@l@s
+TConfig - Traits-based declarative configuration for programs@Fernando Perez@M@l@s
+A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package@Bill Spotz@M@l@s
+Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.@Fernando Perez; Brian Granger@M@t@s
+Idiomatic Python@Titus Brown@M@t@s
+Wrapping Code with Python@Bill Spotz; Eric Jones@M@t@s
+SciPy for Signal Processing and Image Processing@Travis E. Oliphant@M@t@s
+Keynote@Ivan Krstic@M@k@s
+Python buffer interface@Travis Oliphant@M@n@s
+CorePy: Using Python on IBM's Cell/B.E.@Chris Mueller@M@n@s
+Python and the Mock LISA Data Challenges@Michele Vallisneri@F@n@s
+Interactive Plotting for Fun and Profit@Peter Wang@M@n@s
+Pygr: The Python Graph Database Framework for Bioinformatics@Chris Lee@M@n@s
+Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization@Enrico Vesperini; Doug Jones; Dave Goldberg; Steve McMillan@M@n@s
+Evolving Wavelets using Scipy: Analysis of Controlled Plasma Transients@Terence Yeoh@M@n@s
+The Cartwheel Project: Python tools for regulatory genomics@Titus Brown@M@n@s
+The Galaxy platform for accessible and reproducible scientific research@James Taylor@M@n@s
+Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)@Christfried Webers@M@n@s
+Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation@Ondrej Certik@M@n@s
+River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems@Gregory Benson; Alexey S. Fedosov@M@n@s
+##2007  24   1  23   2 Pexpect: 0.240000 Nexpect: 6 Pobs: 0.001379 Pover: 0.532568

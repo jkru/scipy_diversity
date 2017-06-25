@@ -1,0 +1,92 @@
+Conduit: A Scientific Data Exchange Library for HPC Simulations@Cyrus Harrison, Lawrence Livermore National Laboratory; Brian Ryujin, Lawrence Livermore National Laboratory; Adam Kunen, Lawrence Livermore National Laboratory@M@n@s
+PyTeCK: A Python-based Automatic Testing Package for Chemical Kinetic Models@Kyle Niemeyer@M@n@s
+Modeling Rate-and-State Friction with Python@John Leeman@M@n@s
+Psi4: A Case Study on Modernizing and Modularizing Quantum Chemistry with Python and C++@Daniel Smith, Georgia Institute of Technology, Software Carpentry, Psi4 Organization@M@n@s
+A Simulation Framework for Studying the Code Acquisition and Tracking Functions of a Global Positioning System (GPS) Receiver@Mark Wickert@M@n@s
+Bootstrapping an Open Source Library: How MetPy Got Up and Running with Lazy Developers@Ryan May@M@n@s
+JupyterHub as an Interactive Supercomputing Gateway@Michael Milligan@M@n@s
+UConnRCMPy: Python-based data analysis for Rapid Compression Machines@Bryan Weber, University of Connecticut; Chih-Jen Sung, University of Connecticut@M@n@s
+Getting More from Your Core: Processing and Analysis of Core CT Data@Brendon Hall@M@n@s
+datreant: Persistent, Pythonic Trees for Heterogeneous Data@Sean Seyler, Arizona State University; David Dotson, Arizona State University; Max Linke, Max Planck Institute of Biophysics; Richard Gowers, University of Manchester; Oliver Beckstein, Arizona State University@M@n@s
+Large Scale Geospatial Analytics with Python, Spark, and Impala@Evan Wyse@M@n@s
+Experiments as Iterators: asyncio in Science@Daniel Allan, Brookhaven National Lab; Thomas Caswell, Brookhaven National Lab; Kenneth Lauer, Brookhaven National Lab@M@n@s
+Analysis and Visualization of 3D Data with yt@Matthew Turk, University of Illinois@M@n@s
+Python at the Intersection of Data Science, Machine Learning and Cyber Anomaly Detection@Randy Paffenroth@M@n@s
+Reproducible, One-Button Workflows with the Jupyter Notebook and Scons@Jessica Hamrick, University of California, Berkeley@F@n@s
+Proselint: The Linting of Science Prose, and the Science of Prose Linting@Michael Pacer, University of California, Berkeley; Jordan Suchow, University of California, Berkeley@M@n@s
+Python and R Together at Last: Writing Cross-Language Tools@Bill Lattner@M@n@s
+HistomicsTK: Seamless Analytics for Biomedical Microscopy@Brian Helba@M@n@s
+Reinventing the .whl: New Developments in the Upstream Python Packaging Ecosystem@Nathaniel Smith, UC Berkeley@M@n@s
+How to “Scrape” Together a Great Dataset Using Things You Find on the Internet: Using Python & SciPy to Predict Oscar Winners & Box Office Hits@Deborah Hanus@F@n@s
+MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations@Oliver Beckstein; Richard Gowers, University of Manchester, UK; Max Linke, Max Planck Institut für Biophysik, Frankfurt, Germany; Jonathan Barnoud, University of Groningen, The Netherlands; Tyler Reddy, University of Oxford, UK; Manuel Melo, University of Groningen, The Netherlands; Sean Seyler, Arizona State University; Jan Dománski, University of Oxford, UK, NIH NIDDK; David Dotson, Arizona State University; Sébastien Buchoux, Université de Picardie Jules Verne, France; Ian Kenney, Arizona State University@M@n@s
+Keynote: # High Performance with Python: Architectures, Approaches, and Applications@Keynote Speaker: Andreas  Klöckner@M@k@s
+Dask: Parallel and Distributed Computing@Matthew Rocklin; Jim Crist@M@n@s
+HyperSpy - How to Easily Bend Multi-dimension Data to your (Analytical) Will.@Tomas Ostasevicius@M@n@s
+HOPE: A Python Just-In-Time Compiler for Astrophysical Computations@Joel Akeret@M@n@s
+Communicating Model Results@Bargava Subramanian@U@n@s
+GR: Plotting with Python or Julia@Josef Heinen@M@n@s
+MONTE Python for Deep Space Navigation@Jonathon Smith@M@n@s
+High Quality, High Performance Clustering with HDBSCAN*@Leland McInnes, Tutte Institute for Mathematics and Computing; John Healy@M@n@s
+SymPy Code Generation@Aaron Meurer; Anthony Scopatz, University of South Carolina@M@n@s
+Using Open Source Tools to Refactor Geoscience Education@Lindsey Heagy@F@n@s
+Integrating Scripting into Commercial Applications@Eric Jones@M@n@s
+PySPH: A Reproducible and High-performance Framework for Smoothed Particle Hydrodynamics@Prabhu Ramachandran@M@n@s
+Sharing Reproducible Environments with Binder@Andrew Osheroff@M@n@s
+Computational Supply Chain Risk Management for Open Source Software@Sebastian Benthall@M@n@s
+Out with the Old and in with the New: Embedding Python in Old Fortran HPC Code@Brendan Smithyman@M@n@s
+MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project@Patrick Huck, Lawrence Berkeley National Laboratory; Anubhav Jain, Lawrence Berkeley National Laboratory; Daniel Gunter, Lawrence Berkeley National Laboratory; Donald Winston, Lawrence Berkeley National Laboratory; Shreyas Cholia, Lawrence Berkeley National Laboratory; Kristin Persson, Lawrence Berkeley National Laboratory@M@n@s
+Community Powered Packaging with conda-forge@Philip Elson, Met Office@M@n@s
+Running Python Apps in the Browser@Almar Klein@U@n@s
+Composable Multi-Threading for Python Libraries@Anton Malakhov@M@n@s
+Machine Learning for Time Series Data in Python@Brett Naul, UC Berkeley@M@n@s
+Governing Open Source Projects at Scale: Lessons from Wikipedia's Growing Pains@Stuart Geiger@M@n@s
+GT-Py: Accelerating NumPy programs on CPU&GPU with Minimal Programming Effort@Chi-keung Luk@U@n@s
+"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud@Demba Ba, Harvard University@U@n@s
+Processing a Petabyte of Planetary Pixels with Python@Samuel Skillman, Descartes Labs; Michael Warren, Descartes Labs; Steven Brumby, Descartes Labs; Rick Chartrand, Descartes Labs; Eric Chisolm, Descartes Labs; Eduardo Franco, Descartes Labs; Ryan Keisler, Descartes Labs; Tim Kelton, Descartes Labs; Caitlin Kontgis, Descartes Labs; Mark Mathis, Descartes Labs; Daniela Moody, Descartes Labs; Xander Rudelis, Descartes Labs@M@n@s
+HoloViews: Let your Data Reveal Itself@Philipp Rudiger; Jean-Luc Stevens; James A. Bednar@M@n@s
+JupyterLab: Building Blocks for Interactive Computing@Brian Granger; Steven Silvester, Continuum Analytics; Jason Grout, Bloomberg LP; Fernando Perez, Lawrence Berkeley National Laboratory/Berkeley Institute for Data Science ; Sylvain Corlay; Chris Colbert, Software Architect, Continuum Analytics; Cameron Oelsen; David Willmer; Afshin Darian@M@n@s
+A String Theorist's Journey with Python@Chan Park@M@n@s
+Give Your Data an Entrance Exam: Tools from Psychometrics for Data Quality Evaluation@Katie Malone, Civis Analytics@F@n@s
+Keynote: Machine Learning for Social Science@Keynote Speaker: Hanna Wallach@F@k@s
+Tell Me Something I Don't Know: Analyzing OkCupid Profiles@Matar Haller, University of California, Berkeley; Jaya  Narasimhan, University of California, Berkeley; Juan  Shishido, University of California, Berkeley@U@n@s
+What's new in Spyder 3.0@Gonzalo Peña-Castellanos; Carlos Cordoba@M@n@s
+Generalized Earthquake Focal Mechanism Classification@Ben Lasscock@M@n@s
+Scaling Up and Out: Programming GPU Clusters with Numba and Dask@Stanley Seibert, Continuum Analytics; Siu Kwan Lam, Software Developer, Continuum Analytics@M@n@s
+3D drawing in Python: Reviving Visual@Catherine Holloway@F@n@s
+Democratizing Geostats@Nicholas Ronnei@M@n@s
+QCDB: Database Tools for Managing and Harmonizing Quantum Chemistry@Lori Burns, Georgia Tech@F@n@s
+Hacking the CPython Interpreter@James Powell@M@n@s
+Working towards all the Geophysics, but Backwards@Rowan Cockett, The University of British Columbia@M@n@s
+Constructing Models to Deal with Missing Data@Deborah Hanus@F@n@s
+A "BLAS" for Tensors with Portable High Performance@Devin Matthews, The University of Texas at Austin@M@n@s
+QIIME 2: Self-documenting, Extensible, and Reproducible Microbiome Analysis in Python 3.@Greg Caporaso@M@n@s
+Datashader: Revealing the Structure of Genuinely Big Data@James A. Bednar; Jim Crist; Joseph Cottam; Peter Wang@M@n@s
+Launching Python Applications on Peta-scale Massively Parallel Systems@Yu Feng, Berkeley Center for Cosmological Physics, Berkeley Institute for Data Science@F@n@s
+Emperor, Interactive Beta-diversity Exploration@Yoshiki Vazquez-Baeza, Department of Computer Science and Engineering, University of California, San Diego@M@n@s
+The FOSSEE Python Project@Prabhu Ramachandran@M@n@s
+SymEngine: A Fast Symbolic Manipulation Library@Ondřej Čertík; Isuru Fernando; Thilina Rathnayake; Abhinav Agarwal, Indian Institute of Technology Kharagpur@U@n@s
+DyND Callables@Mark Wiebe@M@n@s
+A Whirlwind Tour of UC Berkeley’s Data Science Education Program@Cathryn Carson; Sam Lau; Chris  Holdgraf, University of California, Berkeley; Elaine Angelino; David Culler; John DeNero; Ryan Lovett@F@n@s
+Automating Machine Learning?@Andreas Mueller@M@n@s
+Diffing and Merging Jupyter Notebooks with nbdime@Min Ragan-Kelley@M@n@s
+Software Carpentry Instructor Training Room 108 (July 11 and 12)@Ariel Rokem; Greg Wilson@M@n@s
+Network Science and Statistics: Fundamentals and Applications (Intermediate) (Monday Session)@Eric Ma@M@t@s
+Deep Learning for Image Recognition (Beginner)@Bargava Subramanian@U@t@s
+NumPy (Beginner)@Alexandre Chabot-LeClerc@M@t@s
+Symbolic Compution with Python using SymPy (Beginner)@Ondřej  Čertík; Amit Kumar; Jason Moore; Aaron Meurer; Sartaj Singh; Harsh Gupta@U@t@s
+Software Carpentry Scientific Python Course Part 1 (Beginner)@Matthias Bussonnier; Matt Davis; Jessica Hamrick, University of California, Berkeley; Ted Hart; Kathryn Huff, Fellow, University of California, Berkeley; Greg Wilson, Software Carpentry@M@t@s
+Bokeh for Data Applications and Visualization (Intermediate)@Bryan Van de Ven; James A. Bednar@M@t@s
+Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)@Jason Moore; Robert  McMurry, University of California, Davis; Brandon Milam, University of Florida, Gainsville@M@t@s
+Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)@Peter Bull; Isaac Slavitt, DrivenData@M@t@s
+Numba: Tell those C++ bullies to get lost (Intermediate)@Lorena Barba; Gil Forsyth@F@t@s
+Time Series Analysis with Python (Intermediate)@Aileen Nielsen@F@t@s
+Machine Learning with scikit-learn Part 1(Intermediate)@Andreas Mueller; Sebastian Raschka@M@t@s
+Matplotlib Tutorial (Beginner)@Nicolas Rougier@M@t@s
+Parallel Python: Analyzing Large Datasets (Intermediate)@Matthew Rocklin; Min RK; Ben Zaitlen@M@t@s
+Network Science and Statistics: Fundamentals and Applications (Intermediate) (Tuesday Session)@Eric Ma@M@t@s
+Scikit-image: Image analysis in Python (Intermediate)@Stefan van der Walt; Andreas Mueller; Juan Nunez-Iglesias@M@t@s
+Machine Learning with scikit-learn Part 2(Intermediate)@Andreas Mueller; Sebastian Raschka@M@t@s
+Analyzing and Manipulating Data with Pandas (Beginner)@Jonathan Rocher, KBI BioPharma@M@t@s
+Scalable Hierarchical Parallel Computing (Intermediate)@Michael McKerns, UQ Foundation@M@t@s
+Geographic Data Science with PySAL and the pydata stack (Beginner)@Serge Rey; Dani Arribas-Bel@M@t@s
+##2016  83  12  71   8 Pexpect: 0.240000 Nexpect: 20 Pobs: 0.011556 Pover: 0.534107
