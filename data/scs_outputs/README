@@ -1,0 +1,18 @@
+o????.dat: Output of parsing programs.  Format listed below.  Ideally,
+ 	   the "author text string" will be semi-colon separated
+ 	   authors with format "first_name last_name, optional
+ 	   affiliation", but life isn't perfect.
+
+title of talk@author text string@gender class of first speaker@type of presentation@source of information
+
+           The final line contains initial stats, with numbers of all
+           presentations, female first author presentations, male
+           first author presentations, and presentations without
+           classification information.  The probabilities listed are
+           the expected female fraction (along with number of female
+           first author presentations, given this fraction), the
+           probability of observing the female first author
+           presentations given that expected fraction, and the
+           probability of having more than the observed number.
+
+scipy.stats: Accumulated list of final lines from each year.
