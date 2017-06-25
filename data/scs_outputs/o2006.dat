@@ -1,0 +1,38 @@
+Numpy@Travis Oliphant@M@t@s
+IPython/Matplotlib@Fernando Perez; John Hunter@M@t@s
+Question and Answer Session@Fernando Perez; John Hunter@M@t@s
+Scientific Apps - Traits/TraitsUI@Eric Jones; Dave Morrill@M@t@s
+Data Exploration with Chaco@Peter Wang@M@t@s
+Mayavi/TVTK@Prabhu Ramachandran@M@t@s
+Keynote@Guido van Rossum@M@k@s
+Understanding NumPy: How to Use dtype Objects@Travis Oliphant@M@n@s
+Extending NumPy: a comparison of SWIG, f2py, weave, Pyrex, and ctypes@Travis Oliphant@M@n@s
+Python for Modern Scientific Algorithm Development@Fernando Perez@M@n@s
+Building a Distributed Component Framework@Michael Aivazis@M@n@s
+The Enthought Tool Suite for Scientific Applications@Eric Jones@M@n@s
+Synthetic Programming with Python@Chris Mueller@M@n@s
+3D visualization with TVTK and MayaVi2@Prabhu Ramachandran@M@n@s
+Realtime Computing with Python@Andrew Straw@M@n@s
+Prototyping Mid-Infrared Detector Data Processing Algorithms@Mike Ressler@M@n@s
+The State of IPython@Brian Granger@M@l@s
+Array Interface BOF@Travis Oliphant@M@l@s
+Enstaller@Travis Vaught@M@l@s
+The Current State of Vision@Michel Sanner@M@l@s
+Quick Overview of Chaco@Peter Wang@M@l@s
+SAGE:Software for Algebra and Geometry Experimentation Notes@William Stein@M@n@s
+Mathematica-like Plotting in SAGE Notes@Alex Clemesha@M@n@s
+BioHub Presentation@Diane Trout@F@n@s
+Software Carpentry@Greg Wilson@M@n@s
+AutoLigand for AutoDock@Rodney Harris@M@n@s
+GpuPy: Using GPUs to Accelerate NumPy@Benjamin Eitzen@M@n@s
+Boost Graph Library@Douglas Gregor@M@n@s
+Fast Multipole Algorithm@Idesbald Van den Bosch@M@n@s
+OOF  Object-Oriented Finite Elements at NIST@Andrew Reid@M@n@s
+Parallel PDE Solvers in Python@Bill Spotz@M@n@s
+Python Imaging Tools for Reconstructing Magnetic Resonance Images@Mike Trumpis@M@n@s
+PyRoot@Wim Lavrijsen@M@n@s
+Python Interface to QScimpl presentation@Eric Dobbs@M@n@s
+Python Web and Grid Service Tools@Keith Jackson@M@n@s
+GENESIS SciFlo: Scientific Knowledge Creation on the Grid using a Semantically-Enabled Dataflow Execution Environment@Brian Wilson@M@n@s
+Seeing Through the MIST: Richer Reconfigurable Interactive Systems@Tripp Lilley@M@n@s
+##2006  37   1  36   0 Pexpect: 0.240000 Nexpect: 9 Pobs: 0.000039 Pover: 0.544808

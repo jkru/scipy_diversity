@@ -42,6 +42,22 @@ external_authors = {
     'yoshiki'   : 'M',
     'zeljko'    : 'M',
 }
+# These are authors that have first names that class them in one way, but
+# for which that is a mistake.  I'm tempted to use this to flag affiliations
+# as well.
+override_authors = {
+    'ariel rokem'     : 'M',
+}
+
+def override(fn,ln):
+    check_name = ""
+    check_name += fn.lower()
+    check_name += " "
+    check_name += ln.lower()
+    if check_name in override_authors:
+        return(override_authors[check_name], -1)
+    else:
+        return None
 
 def name_class(name):
     this_year = datetime.date.today().year
@@ -75,21 +91,32 @@ def author_class(author_string):
     author_list = list()
     authors = author_string.split(";")
     for auth in authors:
-#        print(auth)
         auth = re.sub("\s+"," ",auth)
         if re.search(":",auth) is not None:
             trash,auth = auth.split(": ", 1)
         if re.search(",",auth) is not None:
             auth,affil = auth.split(",", 1)
-            
+            if len(auth.split(" ")) == 1:
+                # This is the case of (ln, fn) type names
+                auth = affil + " " + auth 
 
         auth = auth.rstrip().lstrip()
+        fn = ""
+        ln = ""
         if re.search(" ",auth) is not None:
             fn,ln = auth.split(" ", 1)
         else:
             fn = auth
-        gender, g_frac = name_class(fn)
+
+        gender = ""
+        g_frac = -1
+        if override(fn,ln) is not None:
+            gender,g_frac = override(fn,ln)
+        else:
+            gender, g_frac = name_class(fn)
+            
         author_list.append( (auth, gender, g_frac) )
+#        print("     >>%s<< >%s< %s %f" % (fn, auth, gender, g_frac))
 
     return author_list
         

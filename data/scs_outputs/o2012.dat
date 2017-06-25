@@ -1,0 +1,37 @@
+matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.@Hunter, John@M@n@s
+Unlock: A Python-based framework for rapid development of practical brain-computer interface applications@Galbraith, Byron@M@n@s
+Numba Python bytecode to LLVM translator@Oliphant, Travis@M@n@s
+Self-driving Lego Mindstorms Robot@Mohomed, Iqbal@U@n@s
+Copperhead: Data Parallel Python@Catanzaro, Bryan@M@n@s
+PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation@Rey, Sergio@M@n@s
+Solving the import problem: Scalable Dynamic Loading Network File Systems@Ahmadia, Aron@M@n@s
+QNDArray: A Numpy Clone for C++/Qt@Mabey, Glen@M@n@s
+Implicit Multicore Parallelism using CnC-Python@Imam, Shams@U@n@s
+Julia: A Fast Dynamic Language for Technical Computing@Bezanson, Jeff@M@n@s
+OpenMG: A New Multigrid Implementation in Python@Islam, Akand@U@n@s
+Performance Python Panel Discussion@Panelists: Travis Oliphant, Kurt Smith, and Jeff Bezanson@M@n@s
+Time Series Manipulation with pandas@McKinney, Wes@M@n@s
+SciPy + MapReduce with Disco@Barrentine, Al@M@n@s
+SymPy Stats - Uncertainty Modeling@Rocklin, Matthew@M@n@s
+Bringing High Performance to Python/Numpy Without Changing a Single Line of Code.@Andreas Frimann Lund, Simon@M@n@s
+Parallel High Performance Statistical Bootstrapping in Python@Prasad, Aakash@U@n@s
+*** CANCELLED *** Zen: Introducing a pythonic, high-performance network analysis library@Ruths, Derek@M@n@s
+A tale of four libraries@Weinstein, Alejandro@M@n@s
+ROFL: a functional Python dialect for science@Riehl, Jonathan@M@n@s
+ALGES: Geostatistics and Python@Lema, Felipe@M@n@s
+Parallel Computational Methods and Simulation for Coastal and Hydraulic Applications Using the Proteus Toolkit@Kees, Chris@M@n@s
+Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations@Mandli, Kyle@M@n@s
+Domain Specific Languages for Partial Differential Equations using Ignition@Terrel, Andy@M@n@s
+Astropy - Herding Snakes or Astronomers: which is more difficult?@Greenfield, Perry@M@n@s
+A Unified Release of Python & IRAF software for astronomy@Turner, James E.H.@M@n@s
+AstroML: data mining and machine learning for Astronomy@Vanderplas, Jake@M@n@s
+yt: An Integrated Science Environment for Astrophysical Simulations@Turk, Matthew@M@n@s
+Introduction to NumPy and Matplotlib@Jones, Eric@M@t@s
+scikit-learn@Vanderplas, Jake@M@t@s
+HDF5 is for lovers@Scopatz, Anthony@M@t@s
+Advanced Matplotlib@May, Ryan@M@t@s
+Efficient Parallel Python for High-Performance Computing@Smith, Kurt@M@t@s
+Time Series Data Analysis with pandas@McKinney, Wes@M@t@s
+IPython in-depth: Interactive Tools for Scientific Computing@Perez, Fernando@M@t@s
+statsmodels@Seabold, Skipper@M@t@s
+##2012  32   0  32   4 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090

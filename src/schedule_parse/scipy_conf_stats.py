@@ -12,6 +12,12 @@ import name_class
 #  2009  unremoved affiliations
 #  2012  mis-class due to (ln, fn) arrangement
 #  2013  incomplete due to (name, name, name) arrangement
+# CZW: 2017-06-25 todo:
+#  - Update name_check.author_check to do a better job on 2009/2012/2013 name splits
+#    - This update should do that. It seems to work better on (ln, fn) ordering, without
+#      harm to other years where that isn't an issue.  Seems to work for all years.
+#  - Add additional author weightings for statistics.  Currently uses only first authors
+
 
 # Pull out the year to consider.
 parser = argparse.ArgumentParser()

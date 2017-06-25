@@ -1,0 +1,46 @@
+Advanced numpy@Stefan van der Walt; David Cournapeau@M@t@s
+Advanced topics in matplotlib@John Hunter@M@t@s
+Symbolic computing with sympy@Ondrej Certik@M@t@s
+Statistics with Scipy@Robert Kern@M@t@s
+Cython@Dag Sverre Seljebotn@M@t@s
+Using GPUs with PyCUDA@Nicolas Pinto@M@t@s
+Designing scientific interfaces with Traits@Enthought@U@t@s
+Mayavi/TVTK@Prabhu Ramachandran@M@t@s
+The conference talks are held at the Beckman institute@map.@U@n@s
+Welcome@Jarrod Millman & Gael Varoquaux@M@n@s
+Update on the core projects@Charles Harrison; Fernando Perez; John Hunter; David Cournapeau@M@n@s
+Keynote: What to demand from a Scientific Computing Language -- Even if you don't care about computing or languages@Peter Norvig; Director of Research; Google@M@k@s
+nipy.timeseries: Neuroimaging time-series analysis@Ariel Rokem; UC Berkeley@M@n@s
+Virtual reality: a tool for the highly quantitative study of animal behavior@Andrew Straw; Caltech@M@n@s
+Parallel Kernels: An Architecture for Distributed Parallel  Computing@Nikunj Patel; University of Maryland@M@n@s
+PaPy: Parallel and distributed data-processing pipelines in  Python@Marcin Cieslik; University of Virginia@M@n@s
+High-Performance Code Generation Using CorePy@Andrew Friedley; Indiana University@M@n@s
+Panel discussion@Python and Parallel computing; Michael Aivazis; Brian Granger; Nicolas Pinto; moderator: GaÃ«l Varoquaux@U@n@s
+Sherpa: 1D/2D modeling and fitting in Python@Brian Refsdal; Harvard Smithsonian Center for Astrophysics@M@n@s
+Multiprocess System for Virtual Instruments in Python@Brian D'Urso; University of Pittsburgh@M@n@s
+ESPResSo++: A Python-controlled, Parallel Simulation Software  for Soft Matter Research@Olaf Lenz; Max-Planck-Institute for polymer research; Mainz; Germany@M@n@s
+Sympy@Ondrej Certik; University of Nevada; Reno@M@n@s
+Python implementation of weno interpolation and reconstruction@Adrian Townsend; University of Washington@M@n@s
+Writing Safer NumPy Extensions in C++ with Templates and TooN@Damian Eads; University of California@M@n@s
+Informal reception@Location: Beckman Courtyard; in front of the conference room -map@U@n@s
+Astronomy BoF:. Gather together at reception to decide where to hold BoF@e.g.; possibly combine with dinner@U@n@s
+The conference talks are held at the Beckman institute@map.@U@n@s
+Welcome@Jarrod Millman & Gael Varoquaux@M@n@s
+Keynote:Modeling of Materials with Python@Jonathan Guyer; NIST@M@k@s
+Hermes and FEMhub Project@Pavel Solin; University of Nevada; Reno@M@n@s
+The PyMca Application and Toolkit@Armando Sole; ESRF; France@M@n@s
+Implementation of automatic script recording and network  control for Mayavi@Prabhu Ramachandran; IIT Bombay; India@M@n@s
+Fast numerical computations with Cython@Dag Sverre Seljebotn; University of Oslo; Norway@M@n@s
+Fwrap: The Next-Generation Fortran-to-Python Interface   Generator@Kurt Smith; University of Wisconsin-Madison@M@n@s
+Panel discussion: State of Python visualization tools@John Hunter; Prabhu Ramachandran; Peter Wang. Moderator: Stefan van der Walt@M@n@s
+PySAL: A Python Library for Spatial Analysis and Geocomputation@Serge Rey; Arizona State University@M@n@s
+Neutron Scattering Data Acquisition and Experiment Automation with Python@Piotr Zolnierczuk; Oak Ridge National Lab@M@n@s
+Exploring the future of bioinformatics data sharing and mining  with Pygr and Worldbase@Chris Lee; UCLA@M@n@s
+A full software stack for visualizing next-generation sequence  information@Titus Brown; Michigan State University@M@n@s
+Pyclaw - The Evolution of Clawpack into Python@Kyle Mandli; University of Washington@M@n@s
+NumPy and SciPy Documentation in 2009 and Beyond@Joe Harrington; U. Central Florida@M@n@s
+Python in science and engineering education in India@Prabhu Ramachandran; IIT Bombay; India@M@n@s
+Next challenges for Python in Science@moderator:  Jarrod Millman@M@n@s
+Sprints@Rooms Powell Booth 100 and Powell Booth 120 -map@U@n@s
+Sprints@Rooms Powell Booth 100 and Powell Booth 120 -map@U@n@s
+##2009  37   0  37   8 Pexpect: 0.240000 Nexpect: 9 Pobs: 0.000000 Pover: 0.544808

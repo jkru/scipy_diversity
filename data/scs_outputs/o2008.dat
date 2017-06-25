@@ -1,0 +1,31 @@
+Astronomical data analysis@Perry Greenfield@M@t@s
+Bulding extensions with Numscons@David Cournapeau@M@t@s
+Writing optimized extensions with Cython@Robert Bradshaw@M@t@s
+Beyond pure python: Sage@William Stein@M@t@s
+Advanced NumPy@Stefan van der Walt@M@t@s
+Scientific GUI applications with the Enthought Toolset@Eric Jones@M@t@s
+Interactive plots using Chaco@ Peter Wang@M@t@s
+3-d visualization using TVTK and Mayavi@ Prabhu Ramachandran; Gael Varoquaux@M@t@s
+Welcome@Travis Vaught@M@n@s
+Keynote@Alex Martelli@M@k@s
+State of SciPy@Travis Vaught; Jarrod Millman@M@n@s
+Exploring network structure, dynamics, and function using NetworkX@Aric Hagberg@M@n@s
+Interval arithmetic: Python implementation and applications@Stefano Taschini@M@n@s
+Experiences Using Scipy for Computer Vision Research@Damian Eads@M@n@s
+The new NumPy documentation framework@StÃ©fan Van der Walt@M@n@s
+Matplotlib solves the riddle of the sphinx@Michael Droettboom@M@n@s
+The SciPy documentation project@Joe Harrington@M@n@s
+Sage: creating a viable free Python-based open source alternative to Magma, Maple, Mathematica and Matlab@William Stein@M@n@s
+How the Large Synoptic Survey Telescope (LSST) is using Python@Robert Lupton@M@n@s
+Real-time Astronomical Time-series Classification and Broadcast Pipeline@Dan Starr@M@n@s
+Analysis and Visualization of Multi-Scale Astrophysical Simulations using Python and NumPy@Matthew Turk@M@n@s
+Mayavi: Making 3D data visualization reusable@Prabhu Ramachandran; GaÃ«l Varoquaux@M@n@s
+Finite Element Modeling of Contact and Impact Problems Using Python@Ryan Krauss@M@n@s
+PyCircuitScape: A Tool for Landscape Ecology@Viral Shah@M@n@s
+Summarizing Complexity in High Dimensional Spaces@Karl Young@M@n@s
+UFuncs: A generic function mechanism in Python@Travis Oliphant@M@n@s
+NumPy Optimization: Manual tuning and automated approaches@Evan Patterson@M@n@s
+Converting Python functions to dynamically-compiled C@Ilan Schnell@M@n@s
+unPython: Converting Python numerical programs into C@Rahul Garg@M@n@s
+Implementing the Grammar of Graphics for Python@Robert Kern@M@n@s
+##2008  30   0  30   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.434521
