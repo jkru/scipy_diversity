@@ -77,6 +77,7 @@ else:
 talk_df = pd.DataFrame();
 
 for talk in talks:
+    title,author,talk_type,talk_source = talk
     authors = name_class.author_class(author)
     for author_index in range(0,len(authors)):
 
