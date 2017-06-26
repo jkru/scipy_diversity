@@ -4,6 +4,7 @@ import sys
 import argparse
 import math
 import scipy.special
+import pandas as pd
 
 import scipy_conf_parsers 
 import name_class
@@ -70,13 +71,27 @@ else:
                 elif year == 2009 or year == 2008:
                     talks += scipy_conf_parsers.p2009(url,'section')
 
+# Generate a dataframe from the list of talks:
+talk_df = pd.DataFrame();
+
+for talk in talks:
+    authors = name_class.author_class(author)
+    for author_index in range(0,len(authors)):
+
+        talk_tmp = pd.DataFrame({'title' : talk[0], 'author' : authors[author_index][0], \
+                                 'gender' : authors[author_index][1], 'author_order' : author_index, \
+                                 'talk_type' : talk[2] }, index = [0])
+        talk_df = talk_df.append(talk_tmp, ignore_index = True)
+
+#print((talk_df.to_string()).encode('utf-8'))
+
+# Do pass on statistics:
 (N_talks, N_female, N_male, N_unclass) = (0,0,0,0)
 for talk in talks:
-    
     title,author,talk_type,talk_source = talk
     # returns list of (name, gender, fraction)
     authors = name_class.author_class(author)
-
+    
     if authors[0][1] == "F":
         N_female += 1
         N_talks  += 1
@@ -87,7 +102,7 @@ for talk in talks:
         N_unclass += 1
 
     print("%s@%s@%s@%s@%s" % (talk[0], talk[1], authors[0][1], talk[2], talk[3]))
-
+    
 # Methodology following:
 # http://www.laurenbacon.com/how-likely-is-an-all-male-speakers-list-statistically/
     
