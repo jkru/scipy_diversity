@@ -6,7 +6,7 @@ import math
 import scipy.special
 import pandas as pd
 
-import scipy_conf_parsers 
+import scipy_conf_parsers
 import name_class
 
 # CZW: 2017-06-20 problems with the parsers:
@@ -28,6 +28,8 @@ args = parser.parse_args()
 # Set things up
 P_female_expect = 0.24 # This is likely not correct.  
 talks = list()
+
+# Parse the given year
 
 if args.year is not None:
     year = args.year
@@ -85,7 +87,8 @@ for talk in talks:
 
 #print((talk_df.to_string()).encode('utf-8'))
 
-# Do pass on statistics:
+# Do a pass on statistics:
+# Count number of talks from each gender:
 (N_talks, N_female, N_male, N_unclass) = (0,0,0,0)
 for talk in talks:
     title,author,talk_type,talk_source = talk
@@ -122,12 +125,46 @@ for i in range(int(N_female_expect),N_talks):
     
 print("##%04d %3d %3d %3d %3d Pexpect: %f Nexpect: %d Pobs: %f Pover: %f" %
       (year,N_talks,N_female,N_male,N_unclass,P_female_expect,N_female_expect,P_female_frac,P_female_overrep))
-    
-    
+
+# Use the dataframe constructed above to generate statistics
+def talk_statistics(df, stats_name=None, type_select=None):
+    # Choose a default statistic:
+    if stats_name is None:
+        stats_name = "first_author"
+
+    # Select only the rows with the specified talk_type value:
+    if type_select is not None:
+        df = df[df.talk_type == type_select]
+
+    # Determine subsets to consider:
+    if stats_name == "first_author":
+        # Only use first authors
+        df = df[df.author_order == 0]
+    elif stats_name == "equal_weight":
+        # Use all contributors equally
+        df = df
+
+    df_female = df[df.gender == "F"]
+    df_male   = df[df.gender == "M"]
+
+    N_female = df_female.count()
+    N_male   = df_male.count()
+    N_talks  = N_female + N_male
+
+    P_female_frac = 0
+    for i in range(0,N_female):
+        dP = scipy.special.binom(N_talks, i) * P_female_expect**i * \
+             (1 - P_female_expect)**(N_talks - i)
+        P_female_frac += dP
         
-        
+    N_female_expect = math.ceil(P_female_expect * N_talks)
+    
+    P_female_overrep = 0
+    for i in range(int(N_female_expect),N_talks):
+        dP = scipy.special.binom(N_talks, i) * P_female_expect**i * \
+             (1 - P_female_expect)**(N_talks - i)
+    P_female_overrep += dP
+
+    return N_talks, N_female, N_male, N_female_expect, P_female_frac, P_female_overrep
 
     
-
-                    
-                
