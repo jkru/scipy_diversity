@@ -64,7 +64,7 @@ def name_class(name):
     female_count = 0
     male_count = 0
     
-    for year in range((this_year - 30) - 5, (this_year - 30) + 5):
+    for year in range((this_year - 30) - 5, (this_year - 1)):
         f_name = ('%s/yob%04d.txt' % (CENSUS_DIR, year))
         f = open(f_name,"r")
         for line in f:
