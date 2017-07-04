@@ -50,6 +50,7 @@ override_authors = {
     'ariel rokem'     : 'M',
     'stéfan van der walt' : 'M',
     'bargava subramanian' : 'M',
+    'loïc estève' : 'M',
 }
 
 def override(fn,ln):
