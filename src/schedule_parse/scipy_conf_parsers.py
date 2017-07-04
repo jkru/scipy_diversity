@@ -8,9 +8,10 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from bs4 import element
+import importlib 
 
-reload(sys)
-sys.setdefaultencoding("utf-8")
+importlib.reload(sys)
+#sys.setdefaultencoding("utf-8")
 
 #
 # List of urls that I've used as the sources for the name scans.

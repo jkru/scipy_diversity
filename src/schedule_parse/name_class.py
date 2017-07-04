@@ -20,6 +20,7 @@ external_authors = {
     'dav'       : 'M',
     'dorota'    : 'M',
     'gael'      : 'M',
+    'gaël'      : 'M',
     'gaÃ«l' : 'M',
     'gholamreza' : 'M',
     'francesc'  : 'M',
@@ -47,6 +48,8 @@ external_authors = {
 # as well.
 override_authors = {
     'ariel rokem'     : 'M',
+    'stéfan van der walt' : 'M',
+    'bargava subramanian' : 'M',
 }
 
 def override(fn,ln):
