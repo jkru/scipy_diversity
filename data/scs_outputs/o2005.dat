@@ -9,12 +9,12 @@ b'Using AutoDock with AutoDockTools: A Tutorial'@b'Ruth Huey'@F@0.99@t@s
 b'Using AutoDock with AutoDockTools: A Tutorial'@b'Garret Morris'@M@1.00@t@s
 b'Using AutoDock with AutoDockTools: A Tutorial'@b'Michel Sanner'@M@0.65@t@s
 b'No title'@b'Fernando Perez'@M@1.00@l@s
-b'No title'@b'D. Brown'@U@-1.00@l@s
+b'No title'@b'D. Brown'@M@-1.00@l@s
 b'No title'@b'Travis Oliphant'@M@0.99@l@s
 b'Envisage'@b'Eric Jones'@M@0.99@n@s
 b'Chaco'@b'Brandon DuRette'@M@0.99@n@s
 b'Interactive Documents with IPython'@b'Robert Kern'@M@0.99@n@s
-b'Interactive Documents with IPython'@b'Toni Alatalo'@F@0.99@n@s
+b'Interactive Documents with IPython'@b'Toni Alatalo'@M@-1.00@n@s
 b'Interactive Documents with IPython'@b'Tzanko Matev'@M@-1.00@n@s
 b'Interactive Documents with IPython'@b'Fernando Perez'@M@1.00@n@s
 b'NiPy NeuroImaging Software in Python'@b'Matthew Brett'@M@1.00@n@s
@@ -22,4 +22,4 @@ b'Vision: A Visual Programming Component'@b'Michel Sanner'@M@0.65@n@s
 b'Using a generalized MPI interface for Python, MYMPI'@b'Timothy Kaiser'@M@0.99@n@s
 b'Using a generalized MPI interface for Python, MYMPI'@b'Sarah Healy'@F@1.00@n@s
 b'Using a generalized MPI interface for Python, MYMPI'@b'Leesa Brieger'@F@1.00@n@s
-##2005  23   4  19   1 Pexpect: 0.240000 Nexpect: 6 Pobs: 0.161954 Pover: 0.486555
+##2005  24   3  21   0 Pexpect: 0.240000 Nexpect: 6 Pobs: 0.049781 Pover: 0.532568

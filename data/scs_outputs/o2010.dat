@@ -1,12 +1,12 @@
 b'Intro to Python, IPython, NumPy, Matplotlib, SciPy, & Mayavi'@b'Prabhu Ramachandran'@M@-1.00@t@s
-b'Intro to Python, IPython, NumPy, Matplotlib, SciPy, & Mayavi'@b'Kadambari Devarajan'@U@-1.00@t@s
+b'Intro to Python, IPython, NumPy, Matplotlib, SciPy, & Mayavi'@b'Kadambari Devarajan'@F@-1.00@t@s
 b'Intro to Python, IPython, NumPy, Matplotlib, SciPy, & Mayavi'@b'Christopher Burns'@M@0.99@t@s
 b'Matplotlib: beyond the basics'@b'Ryan May'@M@0.99@t@s
 b'Advanced NumPy'@b'Stefan van der Walt'@M@1.00@t@s
 b'Signals and Systems in Python'@b'Gunnar Ristroph'@M@1.00@t@s
 b'High Performance and Parallel Computing in Python'@b'Brian Granger'@M@1.00@t@s
 b'GPUs and Python: PyCuda, PyOpenCL'@b'Andreas Kloeckner'@M@1.00@t@s
-b'Introduction to Traits'@b'Corran Webster'@U@-1.00@t@s
+b'Introduction to Traits'@b'Corran Webster'@M@-1.00@t@s
 b'Mayavi'@b'Prabhu Ramachandran'@M@-1.00@t@s
 b'Intro'@b'Eric Jones'@M@0.99@n@s
 b'Core Projects Updates'@b'multiple presenters'@U@-1.00@n@s
@@ -15,12 +15,12 @@ b'Transparent GPU Computing with Theano'@b'James Bergstra'@M@0.99@n@s
 b'Transparent GPU Computing with Theano'@b'Olivier Breuleux'@M@1.00@n@s
 b'Transparent GPU Computing with Theano'@b'Frederic Bastien'@M@1.00@n@s
 b'Transparent GPU Computing with Theano'@b'Pascal Lamblin'@M@1.00@n@s
-b'Transparent GPU Computing with Theano'@b'Razvan Pascanu'@U@-1.00@n@s
+b'Transparent GPU Computing with Theano'@b'Razvan Pascanu'@M@-1.00@n@s
 b'Transparent GPU Computing with Theano'@b'Guillaume Desjardins'@M@1.00@n@s
 b'Transparent GPU Computing with Theano'@b'Joseph Turian'@M@0.99@n@s
-b'Transparent GPU Computing with Theano'@b'Yoshua Bengio'@U@-1.00@n@s
-b'A High Performance Robot Vision Algorithm Implemented in Python'@b'S. Chris Colbert'@U@-1.00@n@s
-b'Audio-Visual Automatic Speech Recognition in Python'@b'Helge Reikeras'@U@-1.00@n@s
+b'Transparent GPU Computing with Theano'@b'Yoshua Bengio'@M@-1.00@n@s
+b'A High Performance Robot Vision Algorithm Implemented in Python'@b'S. Chris Colbert'@M@-1.00@n@s
+b'Audio-Visual Automatic Speech Recognition in Python'@b'Helge Reikeras'@M@-1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'S\xc3\x83\xc2\xb6ren Sonnenburg'@U@-1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Gunnar Raetsch'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Sebastian Henschel'@M@1.00@n@s
@@ -29,10 +29,10 @@ b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Jonas Behr'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Alexander Zien'@M@0.99@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Fabio de Bona'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Christian Gehl'@M@0.93@n@s
-b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Vojtech Franc'@U@-1.00@n@s
+b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Vojtech Franc'@M@-1.00@n@s
 b'PythonOCC: Python meets solid geometry CAD'@b'Bryan Bishop'@M@1.00@n@s
 b'Divisi: Learning from Semantic Networks and Sparse SVD'@b'Rob Speer'@M@1.00@n@s
-b'PySPH: A Python framework for SPH'@b'Chandrashekhar Kaushik'@U@-1.00@n@s
+b'PySPH: A Python framework for SPH'@b'Chandrashekhar Kaushik'@M@-1.00@n@s
 b'PySPH: A Python framework for SPH'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'Assessing borehole geophysical data with python through simulation of  \tborehole flow in fractured bedrock aquifers'@b'Andrew S. Reeve'@M@1.00@n@s
 b'Assessing borehole geophysical data with python through simulation of  \tborehole flow in fractured bedrock aquifers'@b'Joseph Sawdey'@M@0.99@n@s
@@ -40,19 +40,19 @@ b'PyEEG: a Python module for EEG feature extraction'@b'Forrest Sheng Bao'@M@0.98
 b'Modeling Sudoku puzzles with Python'@b'Matthew Henderson'@M@1.00@n@s
 b'Python in Science and Engineering Education in India'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'Foundation for Mathematical and Scientific Computing'@b'Jarrod Millman'@M@1.00@n@s
-b'Effective Use of Python in Transportation Engineering Teaching'@b'Mehmet Kunt'@U@-1.00@n@s
+b'Effective Use of Python in Transportation Engineering Teaching'@b'Mehmet Kunt'@M@-1.00@n@s
 b'Python and Machine Learning enabling Space Weather Applications'@b'Josef Koller'@M@1.00@n@s
 b'Generating Realistic Damage Models for Composite Materials using the Python Programming Language'@b'Mark Benedict'@M@0.99@n@s
 b'Open Knowledge Packages and CKAN, an Archive Network|  '@b'Bryan Bishop'@M@1.00@n@s
 b'Do Google, Bing, & Yahoo Differ? Contingency Table Analysis on Search Engines'@b'Anthony M. Scopatz'@M@0.99@n@s
 b'Building Web Gateways to Scientific Computing in Python'@b'Shreyas Cholia'@U@-1.00@n@s
-b'luban: uses pure python to write web application'@b'Video 2'@U@-1.00@n@s
+b'luban: uses pure python to write web application'@b'Video 2'@M@-1.00@n@s
 b'Keynote: '@b'Travis Oliphant'@M@0.99@k@s
-b'Unusual Relationships : Python and Weaver Birds'@b'Kadambari Devarajan'@U@-1.00@n@s
+b'Unusual Relationships : Python and Weaver Birds'@b'Kadambari Devarajan'@F@-1.00@n@s
 b'Simple, Fast Messaging in Python with 0MQ and PyZMQ'@b'Brian Granger'@M@1.00@n@s
 b'Numerical Pyromaniacs: The use of Python in Fire Research'@b'Kristopher Overholt'@M@0.99@n@s
 b'Weather Forecast Accuracy Analysis'@b'Eric Floehr'@M@0.99@n@s
-b'Reproducible research in practice: Python as interface language in the Madagascar software package'@b'Sergey Fomel'@U@-1.00@n@s
+b'Reproducible research in practice: Python as interface language in the Madagascar software package'@b'Sergey Fomel'@M@-1.00@n@s
 b'Statsmodels - Statistical Modelling in Python'@b'Skipper Seabold'@M@1.00@n@s
 b'Data structure for statistical computing in Python'@b'Wes McKinney'@M@1.00@n@s
 b'Rebuilding the Hubble Exposure Time Calculator'@b'Perry Greenfield'@M@0.97@n@s
@@ -61,25 +61,25 @@ b'SpacePy - A Python-based library of tools for the space sciences'@b'Steven K. 
 b'SpacePy - A Python-based library of tools for the space sciences'@b'Josef Koller'@M@1.00@n@s
 b'SpacePy - A Python-based library of tools for the space sciences'@b'Daniel T. Welling'@M@0.99@n@s
 b'SpacePy - A Python-based library of tools for the space sciences'@b'Michael G. Henderson'@M@0.99@n@s
-b'Satellite image analysis in the cloud: Python and parallel computing in the search for tropical deforestation'@b'Robin Kraft'@F@0.91@n@s
+b'Satellite image analysis in the cloud: Python and parallel computing in the search for tropical deforestation'@b'Robin Kraft'@M@-1.00@n@s
 b'Using Python with Smoke and JWST Mirrors'@b'Warren Hack'@M@0.99@n@s
 b'Astrodata'@b'Craig Allen'@M@1.00@n@s
-b'Protein Folding with Python on Supercomputers'@b'Jan H. Meinke'@F@0.73@n@s
+b'Protein Folding with Python on Supercomputers'@b'Jan H. Meinke'@M@-1.00@n@s
 b'Can Python Save Next-Generation Sequencing?'@b'Christopher Mueller'@M@0.99@n@s
 b'The Use of Galaxy for the Research and the Teaching of Genomics'@b'Rodolfo Aramayo'@M@1.00@n@s
 b'The Use of Galaxy for the Research and the Teaching of Genomics'@b'Jim Hu'@M@1.00@n@s
 b'The Use of Galaxy for the Research and the Teaching of Genomics'@b'Raffaele Montuoro'@M@1.00@n@s
-b'The Use of Galaxy for the Research and the Teaching of Genomics'@b'and Roy Weckiewicz'@U@-1.00@n@s
+b'The Use of Galaxy for the Research and the Teaching of Genomics'@b'and Roy Weckiewicz'@M@-1.00@n@s
 b'StarCluster - NumPy/SciPy Computing in the Cloud'@b'Justin Riley'@M@0.99@n@s
 b'pomsets: workflow management for your cloud'@b'Michael J Pan'@M@0.99@n@s
 b'The Disco Framework: Getting Down with Big Data'@b'Jared Flatow'@M@0.99@n@s
-b'The Disco Framework: Getting Down with Big Data'@b'Ville Tuulos'@U@-1.00@n@s
+b'The Disco Framework: Getting Down with Big Data'@b'Ville Tuulos'@M@-1.00@n@s
 b'StarFlow: A Cloud-Enables Python Workflow Engine for Scientific Analysis Pipelines'@b'Elaine Angelino'@F@0.99@n@s
 b'StarFlow: A Cloud-Enables Python Workflow Engine for Scientific Analysis Pipelines'@b'Dan Yamins'@M@0.99@n@s
 b'StarFlow: A Cloud-Enables Python Workflow Engine for Scientific Analysis Pipelines'@b'Margo Seltzer'@F@1.00@n@s
-b'A Programmatic Interface for Particle Plasma Simulation in Python, and Early Backend Results with PyCUDA'@b'Min Ragan-Kelley'@U@-1.00@n@s
-b'Parallel Computing with IPython: an Application to Air Pollution Modeling'@b'B.E. Granger'@U@-1.00@n@s
-b'Parallel Computing with IPython: an Application to Air Pollution Modeling'@b'J.G. Hemann'@U@-1.00@n@s
+b'A Programmatic Interface for Particle Plasma Simulation in Python, and Early Backend Results with PyCUDA'@b'Min Ragan-Kelley'@M@-1.00@n@s
+b'Parallel Computing with IPython: an Application to Air Pollution Modeling'@b'B.E. Granger'@M@-1.00@n@s
+b'Parallel Computing with IPython: an Application to Air Pollution Modeling'@b'J.G. Hemann'@M@-1.00@n@s
 b'PiCloud - Cloud Computing for Science. Simplified.'@b'Ken Elkabany'@M@0.97@n@s
 b'PiCloud - Cloud Computing for Science. Simplified.'@b'Aaron Staley'@M@0.99@n@s
 b'PiCloud - Cloud Computing for Science. Simplified.'@b'Ken Park'@M@0.97@n@s
@@ -97,7 +97,7 @@ b'askscipy.org'@b'David Warde-Farley'@M@0.99@l@s
 b'A\xc3\x82\xc2\xa0Python\xc3\x82\xc2\xa0distribution\xc3\x82\xc2\xa0for\xc3\x82\xc2\xa0Astronomy'@b'James Turner'@M@0.99@l@s
 b'Python & Satellite Data'@b'Matt Davis'@M@1.00@l@s
 b'Python in Geophysical Hazard Prediction'@b'Kyle Mandli'@M@0.97@l@s
-b'Radar Emulation Using NumPy'@b'Baseem Ali'@U@-1.00@l@s
+b'Radar Emulation Using NumPy'@b'Baseem Ali'@M@-1.00@l@s
 b'Matplotlib Gallery Improvements'@b'Josh Hemann'@M@1.00@l@s
 b'Python Evangelism 101'@b'Peter Wang'@M@1.00@l@s
-##2010  80   4  76  22 Pexpect: 0.240000 Nexpect: 20 Pobs: 0.000001 Pover: 0.459722
+##2010  98   4  94   4 Pexpect: 0.240000 Nexpect: 24 Pobs: 0.000000 Pover: 0.493656

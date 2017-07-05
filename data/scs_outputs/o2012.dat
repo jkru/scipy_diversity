@@ -1,20 +1,20 @@
 b'matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.'@b'John Hunter'@M@0.99@n@s
 b'Unlock: A Python-based framework for rapid development of practical brain-computer interface applications'@b'Byron Galbraith'@M@0.99@n@s
 b'Numba Python bytecode to LLVM translator'@b'Travis Oliphant'@M@0.99@n@s
-b'Self-driving Lego Mindstorms Robot'@b'Iqbal Mohomed'@U@-1.00@n@s
+b'Self-driving Lego Mindstorms Robot'@b'Iqbal Mohomed'@M@-1.00@n@s
 b'Copperhead: Data Parallel Python'@b'Bryan Catanzaro'@M@0.99@n@s
 b'PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation'@b'Sergio Rey'@M@0.99@n@s
 b'Solving the import problem: Scalable Dynamic Loading Network File Systems'@b'Aron Ahmadia'@M@0.93@n@s
 b'QNDArray: A Numpy Clone for C++/Qt'@b'Glen Mabey'@M@1.00@n@s
-b'Implicit Multicore Parallelism using CnC-Python'@b'Shams Imam'@U@-1.00@n@s
+b'Implicit Multicore Parallelism using CnC-Python'@b'Shams Imam'@M@-1.00@n@s
 b'Julia: A Fast Dynamic Language for Technical Computing'@b'Jeff Bezanson'@M@0.99@n@s
-b'OpenMG: A New Multigrid Implementation in Python'@b'Akand Islam'@U@-1.00@n@s
+b'OpenMG: A New Multigrid Implementation in Python'@b'Akand Islam'@M@-1.00@n@s
 b'Performance Python Panel Discussion'@b'Travis Oliphant'@M@0.99@n@s
 b'Time Series Manipulation with pandas'@b'Wes McKinney'@M@1.00@n@s
 b'SciPy + MapReduce with Disco'@b'Al Barrentine'@M@1.00@n@s
 b'SymPy Stats - Uncertainty Modeling'@b'Matthew Rocklin'@M@0.99@n@s
 b'Bringing High Performance to Python/Numpy Without Changing a Single Line of Code.'@b'Andreas Frimann Lund'@M@1.00@n@s
-b'Parallel High Performance Statistical Bootstrapping in Python'@b'Aakash Prasad'@U@-1.00@n@s
+b'Parallel High Performance Statistical Bootstrapping in Python'@b'Aakash Prasad'@M@-1.00@n@s
 b'*** CANCELLED *** Zen: Introducing a pythonic, high-performance network analysis library'@b'Derek Ruths'@M@0.99@n@s
 b'A tale of four libraries'@b'Alejandro Weinstein'@M@0.99@n@s
 b'ROFL: a functional Python dialect for science'@b'Jonathan Riehl'@M@0.99@n@s
@@ -34,4 +34,4 @@ b'Efficient Parallel Python for High-Performance Computing'@b'Kurt Smith'@M@1.00
 b'Time Series Data Analysis with pandas'@b'Wes McKinney'@M@1.00@t@s
 b'IPython in-depth: Interactive Tools for Scientific Computing'@b'Fernando Perez'@M@0.99@t@s
 b'statsmodels'@b'Skipper Seabold'@M@1.00@t@s
-##2012  32   0  32   4 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090
+##2012  36   0  36   0 Pexpect: 0.240000 Nexpect: 9 Pobs: 0.000000 Pover: 0.508033

@@ -24,11 +24,11 @@ b'Analysis and Visualization of Multi-Scale Astrophysical Simulations using Pyth
 b'Mayavi: Making 3D data visualization reusable'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'Mayavi: Making 3D data visualization reusable'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@n@s
 b'Finite Element Modeling of Contact and Impact Problems Using Python'@b'Ryan Krauss'@M@0.99@n@s
-b'PyCircuitScape: A Tool for Landscape Ecology'@b'Viral Shah'@U@-1.00@n@s
+b'PyCircuitScape: A Tool for Landscape Ecology'@b'Viral Shah'@M@-1.00@n@s
 b'Summarizing Complexity in High Dimensional Spaces'@b'Karl Young'@M@0.97@n@s
 b'UFuncs: A generic function mechanism in Python'@b'Travis Oliphant'@M@0.99@n@s
 b'NumPy Optimization: Manual tuning and automated approaches'@b'Evan Patterson'@M@0.99@n@s
 b'Converting Python functions to dynamically-compiled C'@b'Ilan Schnell'@M@1.00@n@s
 b'unPython: Converting Python numerical programs into C'@b'Rahul Garg'@M@1.00@n@s
 b'Implementing the Grammar of Graphics for Python'@b'Robert Kern'@M@0.99@n@s
-##2008  30   0  30   3 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.434521
+##2008  31   0  31   2 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.475178

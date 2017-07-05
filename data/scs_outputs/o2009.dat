@@ -22,7 +22,7 @@ b'Virtual reality: a tool for the highly quantitative study of animal behavior'@
 b'Virtual reality: a tool for the highly quantitative study of animal behavior'@b'Caltech'@U@-1.00@n@s
 b'Parallel Kernels: An Architecture for Distributed Parallel  Computing'@b'Nikunj Patel'@M@-1.00@n@s
 b'Parallel Kernels: An Architecture for Distributed Parallel  Computing'@b'University of Maryland'@U@-1.00@n@s
-b'PaPy: Parallel and distributed data-processing pipelines in  Python'@b'Marcin Cieslik'@U@-1.00@n@s
+b'PaPy: Parallel and distributed data-processing pipelines in  Python'@b'Marcin Cieslik'@M@-1.00@n@s
 b'PaPy: Parallel and distributed data-processing pipelines in  Python'@b'University of Virginia'@U@-1.00@n@s
 b'High-Performance Code Generation Using CorePy'@b'Andrew Friedley'@M@1.00@n@s
 b'High-Performance Code Generation Using CorePy'@b'Indiana University'@U@-1.00@n@s
@@ -54,7 +54,7 @@ b'The conference talks are held at the Beckman institute'@b'map.'@U@-1.00@n@s
 b'Welcome'@b'Jarrod Millman & Gael Varoquaux'@M@0.99@n@s
 b'Keynote:Modeling of Materials with Python'@b'Jonathan Guyer'@M@0.99@k@s
 b'Keynote:Modeling of Materials with Python'@b'NIST'@U@-1.00@k@s
-b'Hermes and FEMhub Project'@b'Pavel Solin'@U@-1.00@n@s
+b'Hermes and FEMhub Project'@b'Pavel Solin'@M@-1.00@n@s
 b'Hermes and FEMhub Project'@b'University of Nevada'@U@-1.00@n@s
 b'Hermes and FEMhub Project'@b'Reno'@M@1.00@n@s
 b'The PyMca Application and Toolkit'@b'Armando Sole'@M@0.99@n@s
@@ -73,8 +73,8 @@ b'Panel discussion: State of Python visualization tools'@b'Prabhu Ramachandran'@
 b'Panel discussion: State of Python visualization tools'@b'Stefan van der Walt'@M@1.00@n@s
 b'PySAL: A Python Library for Spatial Analysis and Geocomputation'@b'Serge Rey'@M@1.00@n@s
 b'PySAL: A Python Library for Spatial Analysis and Geocomputation'@b'Arizona State University'@U@-1.00@n@s
-b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Piotr Zolnierczuk'@U@-1.00@n@s
-b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Oak Ridge National Lab'@M@1.00@n@s
+b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Piotr Zolnierczuk'@M@-1.00@n@s
+b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Oak Ridge National Lab'@U@-1.00@n@s
 b'Exploring the future of bioinformatics data sharing and mining  with Pygr and Worldbase'@b'Chris Lee'@M@0.92@n@s
 b'Exploring the future of bioinformatics data sharing and mining  with Pygr and Worldbase'@b'UCLA'@U@-1.00@n@s
 b'A full software stack for visualizing next-generation sequence  information'@b'Titus Brown'@M@1.00@n@s
@@ -89,4 +89,4 @@ b'Python in science and engineering education in India'@b'India'@F@1.00@n@s
 b'Next challenges for Python in Science'@b'Jarrod Millman'@M@0.99@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
-##2009  49   3  46  42 Pexpect: 0.240000 Nexpect: 12 Pobs: 0.000193 Pover: 0.522967
+##2009  51   3  48  40 Pexpect: 0.240000 Nexpect: 13 Pobs: 0.000120 Pover: 0.454785

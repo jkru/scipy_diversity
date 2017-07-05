@@ -1,6 +1,6 @@
 b'Keynote'@b'Lorena Barba'@F@0.99@k@s
 b"Frequentism and Bayesianim: What's the Big Deal?"@b'Jake VanderPlas'@M@1.00@n@s
-b'GeoPandas: Geospatial data + pandas'@b'Kelsey Jordahl'@F@0.71@n@s
+b'GeoPandas: Geospatial data + pandas'@b'Kelsey Jordahl'@M@-1.00@n@s
 b'Python backends for climate science web-apps'@b'Nicolas Fauchereau'@M@0.99@n@s
 b'A Common Scientific Compute Environment for Research and Education'@b'Dav Clark'@M@-1.00@n@s
 b'Fast Algorithms for Binary Spatial Adjacency Measures'@b'Jason Laura'@M@0.99@n@s
@@ -17,7 +17,7 @@ b'Taking Control - Enabling Mathematicians and Scientists'@b'Matthew Rocklin'@M@
 b'Spatial-Temporal Prediction of Climate Change Impacts using pyimpute, scikit-learn and GDAL'@b'Matthew Perry'@M@1.00@n@s
 b'WCSAxes: a framework for plotting astronomical and geospatial data'@b'Thomas Robitaille'@M@0.99@n@s
 b'Creating a browser-based virtual computer lab for classroom instruction'@b'Ramalingam Saravanan'@M@-1.00@n@s
-b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Aashish Chaudhary'@U@-1.00@n@s
+b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Aashish Chaudhary'@M@-1.00@n@s
 b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Benjamin Koziol'@M@0.99@n@s
 b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Charles Doutriaux'@M@0.99@n@s
 b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Chris Harris'@M@0.91@n@s
@@ -40,7 +40,7 @@ b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@
 b'PyMC: Markov chain Monte Carlo in Python'@b'Chris Fonnesbeck'@M@0.91@n@s
 b'Teaching Python to undergraduate students'@b'Dominik Klaes'@M@1.00@n@s
 b'Rasterio: Geospatial Raster Data Access for Programmers and Future Programmers'@b'Sean Gillies'@M@0.99@n@s
-b'Object-oriented programming with NumPy using CPython & PyPy; comparison with C++ & modern Fortran'@b'Dorota Jarecka'@M@-1.00@n@s
+b'Object-oriented programming with NumPy using CPython & PyPy; comparison with C++ & modern Fortran'@b'Dorota Jarecka'@F@-1.00@n@s
 b'Behind the Scenes of the University and Supplier Relationship'@b'Alexis Perez'@F@0.75@n@s
 b'Using PyNIO and MPI for Python to help solve a big data problem for the CESM'@b'David Brown'@M@0.99@n@s
 b'Bokeh: Interactive Visualizations in the Browser'@b'Bryan Van de Ven'@M@0.99@n@s
@@ -48,7 +48,7 @@ b'The Berkeley Institute for Data Science: a place for people like us'@b'Fernand
 b'Deploying Python tools to GIS users'@b'Shaun Walbridge'@M@0.98@n@s
 b'Conda: a cross-platform package manager for any binary distribution'@b'Aaron Meurer'@M@0.99@n@s
 b'Conda: a cross-platform package manager for any binary distribution'@b'Ilan Schnell'@M@1.00@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'J Gregory Caporaso'@U@-1.00@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'J Gregory Caporaso'@M@-1.00@n@s
 b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Adam Robbins-Pianka'@M@0.99@n@s
 b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Daniel McDonald'@M@0.99@n@s
 b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Emily TerAvest'@F@1.00@n@s
@@ -97,9 +97,9 @@ b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Stewart Fotherin
 b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Mark Wiebe'@M@0.99@n@s
 b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Matthew Rocklin'@M@1.00@n@s
 b'IPython-Reveal.js attacks again, but now... it is alive!'@b'Dami\xc3\x83\xc2\xa1n Avila'@U@-1.00@n@s
-b'Activity detection from GPS tracker data'@b'Jan Vandrol'@F@0.60@n@s
+b'Activity detection from GPS tracker data'@b'Jan Vandrol'@M@-1.00@n@s
 b'Zero Dependency Python'@b'Matthew Turk'@M@1.00@n@s
-b'Zero Dependency Python'@b'Kester Tong'@U@-1.00@n@s
+b'Zero Dependency Python'@b'Kester Tong'@M@-1.00@n@s
 b'A success story in using Python in a graduate chemical engineering course'@b'John Kitchin'@M@0.99@n@s
 b'Mapping Networks of Violence'@b'Evan Misshula'@M@0.98@n@s
 b'Mapping Networks of Violence'@b'Sheyla Delgado'@F@1.00@n@s
@@ -144,7 +144,7 @@ b'Anatomy of Matplotlib'@b'Benjamin Root'@M@0.99@t@s
 b'Birds in Random Kaggle Forests'@b'Matt Wescott'@M@1.00@t@s
 b'Multibody Dynamics and Control with Python'@b'Jason K. Moore'@M@0.99@t@s
 b'Reproducible Science - Walking the Walk'@b'Matthew McCormick'@M@1.00@t@s
-b'Reproducible Science - Walking the Walk'@b'Aashish Chaudhary'@U@-1.00@t@s
+b'Reproducible Science - Walking the Walk'@b'Aashish Chaudhary'@M@-1.00@t@s
 b'Reproducible Science - Walking the Walk'@b'Ana Nelson'@F@0.99@t@s
 b'Reproducible Science - Walking the Walk'@b'Arfon Smith'@M@-1.00@t@s
 b'Reproducible Science - Walking the Walk'@b'Jean-Christophe Fillion-Robin'@M@-1.00@t@s
@@ -165,9 +165,9 @@ b'Tools for Open and Reproducible Workflows'@b'Jeffrey Spies'@M@0.99@b@s
 b'Tools for Open and Reproducible Workflows'@b'Ana Nelson'@F@0.99@b@s
 b'Tools for Open and Reproducible Workflows'@b'Joshua Carp'@M@0.99@b@s
 b'Volunteer SciPy2015!'@b'Andy Terrel'@M@0.99@b@s
-b'Volunteer SciPy2015!'@b'Kelsey Jordahl'@F@0.71@b@s
+b'Volunteer SciPy2015!'@b'Kelsey Jordahl'@M@-1.00@b@s
 b'Visualization'@b'Michael Droettboom'@M@0.99@b@s
-b'Python in Bioinformatics'@b'Nelle Varoquaux'@U@-1.00@b@s
+b'Python in Bioinformatics'@b'Nelle Varoquaux'@F@-1.00@b@s
 b'NumFOCUS'@b'Andy Terrel'@M@0.99@b@s
 b'NumFOCUS'@b'Anthony Scopatz'@M@0.99@b@s
 b'NumFOCUS'@b'Fernando Perez'@M@0.99@b@s
@@ -187,4 +187,4 @@ b'Geospatial Data and Analysis Stack'@b'Serge Rey'@M@1.00@b@s
 b'Emacs and Python BoF'@b'Julien Chastang'@M@1.00@b@s
 b'NumPy'@b'Kyle Mandli'@M@0.97@b@s
 b'Interactive visualization in the browser'@b'David I. Ketcheson'@M@0.99@b@s
-##2014 182  21 161   7 Pexpect: 0.240000 Nexpect: 44 Pobs: 0.000007 Pover: 0.506439
+##2014 187  20 167   2 Pexpect: 0.240000 Nexpect: 45 Pobs: 0.000001 Pover: 0.520017

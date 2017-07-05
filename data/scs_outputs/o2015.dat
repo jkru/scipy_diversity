@@ -8,14 +8,14 @@ b'DistArray: Distributed Array Computing for Python'@b'Kurt Smith'@M@1.00@n@s
 b'pycalphad: Computational Thermodynamics in Python'@b'Richard Otis'@M@0.99@n@s
 b'Scientific Python using Mobile OS'@b'Roberto Colistete Junior'@M@0.99@n@s
 b'Teaching with IPython/Jupyter Notebooks and JupyterHub'@b'Jessica Hamrick'@F@1.00@n@s
-b'Teaching with IPython/Jupyter Notebooks and JupyterHub'@b'Min Ragan-Kelley'@U@-1.00@n@s
+b'Teaching with IPython/Jupyter Notebooks and JupyterHub'@b'Min Ragan-Kelley'@M@-1.00@n@s
 b'Teaching with IPython/Jupyter Notebooks and JupyterHub'@b'Kyle Kelley'@M@0.97@n@s
 b'Signal Processing and Communications: Teaching and Research Using IPython Notebook'@b'Mark Wickert'@M@0.99@n@s
 b'Exploring Open Source Community Dynamics with BigBang'@b'Sebastian Benthall'@M@0.97@n@s
 b'A Cloud Service to Record Simulation Metadata'@b'Yannick Congo'@U@-1.00@n@s
 b'A Cloud Service to Record Simulation Metadata'@b'Jonathan Guyer'@M@0.99@n@s
 b'An Open-Source Data Archive for Expert-Annotated Dermoscopic Images'@b'Brian Helba'@M@0.99@n@s
-b'Welcome to SciPy BOF'@b'Kelsey Jordahl'@F@0.77@n@s
+b'Welcome to SciPy BOF'@b'Kelsey Jordahl'@M@-1.00@n@s
 b'Gathering Usage Metrics for Open Scientific Software BOF'@b'Nathaniel Smith'@M@0.99@n@s
 b'SymPy BOF'@b'Aaron Meurer'@M@0.99@n@s
 b'Spatial Income Inequality Dynamics in PySAL'@b'Wei Kang'@M@1.00@n@s
@@ -33,7 +33,7 @@ b'Optimal Control and Parameter Identification of Dynamcal Systems with Direct C
 b'Deep Learning: Tips from the Road'@b'Kyle Kastner'@M@0.97@n@s
 b'Scientific Data Analysis and Visualization with VTK and ParaView'@b'Cory Quammen'@M@0.94@n@s
 b'Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration'@b'Matthias Bussonnier'@M@1.00@n@s
-b'Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration'@b'Kester Tong'@U@-1.00@n@s
+b'Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration'@b'Kester Tong'@M@-1.00@n@s
 b'PyStruct - Structured Prediction in Python'@b'Andreas Mueller'@M@0.94@n@s
 b'A Better Default Colormap for Matplotlib'@b'St\xc3\xa9fan van der Walt'@M@-1.00@n@s
 b'A Better Default Colormap for Matplotlib'@b'Nathaniel Smith'@M@0.99@n@s
@@ -143,8 +143,8 @@ b'Astropy in 2015'@b'Erik Tollerud'@M@0.99@n@s
 b'UDL: Unified Interface for Deep Learning'@b'Haitham Elmarakeby'@M@1.00@n@s
 b'Python in Tidal Energy: Three Tools Used in a Collaboration on Array Optimization'@b'Kristen Thyng'@F@0.99@n@s
 b'Python Tools for Space Mission Data Analyses'@b'Michael Aye'@M@0.99@n@s
-b'Jupyter and IPython BOF'@b'Min Ragan-Kelley'@U@-1.00@n@s
-b'SciPy 2016 BOF (with a focus on increasing diversity)'@b'Kelsey Jordahl'@F@0.77@n@s
+b'Jupyter and IPython BOF'@b'Min Ragan-Kelley'@M@-1.00@n@s
+b'SciPy 2016 BOF (with a focus on increasing diversity)'@b'Kelsey Jordahl'@M@-1.00@n@s
 b'Introduction to NumPy (Beginner)'@b'Eric Jones'@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Intermediate) (Monday Session)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Intermediate) (Monday Session)'@b'Kyle Kastner'@M@0.97@t@s
@@ -162,7 +162,7 @@ b'Anatomy of Matplotlib (Beginner)'@b'Benjamin Root'@M@0.99@t@s
 b'Anatomy of Matplotlib (Beginner)'@b'Joe Kington'@M@0.99@t@s
 b'Computational Statistics I (Intermediate)'@b'Allen Downey'@M@0.99@t@s
 b'Efficient Python for High-Performance Parallel Computing (Intermediate)'@b'Mike McKerns'@M@1.00@t@s
-b'Geospatial Data with Open Source Tools in Python (Intermediate)'@b'Kelsey Jordahl'@F@0.77@t@s
+b'Geospatial Data with Open Source Tools in Python (Intermediate)'@b'Kelsey Jordahl'@M@-1.00@t@s
 b'Machine Learning with Scikit-Learn (Intermediate)(Tuesday Session)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Intermediate)(Tuesday Session)'@b'Kyle Kastner'@M@0.97@t@s
 b'Decorating Drones: Using Drones to Delve Deeper into Intermediate Python (Intermediate)'@b'Matt Harrison'@M@1.00@t@s
@@ -173,4 +173,4 @@ b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Matthias Bussonnier'@M@1.00@t@s
 b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Thomas Kluyver'@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Kyle Kastner'@M@0.97@t@s
-##2015 159  21 138  16 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000243 Pover: 0.468446
+##2015 162  18 144  13 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000010 Pover: 0.521502

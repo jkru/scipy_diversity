@@ -1,11 +1,11 @@
 b'Flight Software Code Generaton Tools for the Mars Science Laboratory'@b'Leonard J. Reder'@M@0.99@l@s
-b'Climate Data Analysis Tools'@b'C. Doutriaux'@U@-1.00@l@s
-b'Climate Data Analysis Tools'@b'D.N. Williams'@U@-1.00@l@s
+b'Climate Data Analysis Tools'@b'C. Doutriaux'@M@-1.00@l@s
+b'Climate Data Analysis Tools'@b'D.N. Williams'@M@-1.00@l@s
 b'The Numenta Platform for Intelligent Computing'@b'Inc. Numenta'@U@-1.00@l@s
 b'Teaching Scientific Computing with Python'@b'Rick Wagner'@M@1.00@l@s
 b'PyStream: Stream and GPU computing in Python'@b'Brian Granger'@M@1.00@l@s
 b'TVTK and MayaVi2'@b'Prabhu Ramachandran'@M@-1.00@l@s
-b'MLab'@b'Gael Varoquaux'@F@1.00@l@s
+b'MLab'@b'Gael Varoquaux'@M@-1.00@l@s
 b'TConfig - Traits-based declarative configuration for programs'@b'Fernando Perez'@M@1.00@l@s
 b'A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package'@b'Bill Spotz'@M@1.00@l@s
 b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Fernando Perez'@M@1.00@t@s
@@ -17,7 +17,7 @@ b'SciPy for Signal Processing and Image Processing'@b'Travis E. Oliphant'@M@0.99
 b'Keynote'@b'Ivan Krstic'@M@0.99@k@s
 b'Python buffer interface'@b'Travis Oliphant'@M@0.99@n@s
 b"CorePy: Using Python on IBM's Cell/B.E."@b'Chris Mueller'@M@0.93@n@s
-b'Python and the Mock LISA Data Challenges'@b'Michele Vallisneri'@F@0.99@n@s
+b'Python and the Mock LISA Data Challenges'@b'Michele Vallisneri'@M@-1.00@n@s
 b'Interactive Plotting for Fun and Profit'@b'Peter Wang'@M@1.00@n@s
 b'Pygr: The Python Graph Database Framework for Bioinformatics'@b'Chris Lee'@M@0.93@n@s
 b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Enrico Vesperini'@M@1.00@n@s
@@ -31,4 +31,4 @@ b'Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)
 b'Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation'@b'Ondrej Certik'@M@-1.00@n@s
 b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Gregory Benson'@M@1.00@n@s
 b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Alexey S. Fedosov'@M@-1.00@n@s
-##2007  30   2  28   3 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.002783 Pover: 0.434521
+##2007  32   0  32   1 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090
