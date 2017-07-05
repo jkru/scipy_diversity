@@ -3,6 +3,7 @@
 import sys
 import argparse
 import math
+import re
 import scipy.special
 import pandas as pd
 
@@ -101,6 +102,10 @@ talk_df = pd.DataFrame();
 
 for talk in talks:
     title,author,talk_type,talk_source = talk
+    author = re.sub('g.*?l varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
+    author = re.sub('s.*?n van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
+    author = re.sub('d.*?n avila','Damian Avila', author, flags=re.IGNORECASE)
+    author = re.sub('carissa, geodecisions','Carissa Brittain', author, flags=re.IGNORECASE)
     authors = name_class.author_class(author,year)
     for author_index in range(0,len(authors)):
 
