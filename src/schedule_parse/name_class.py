@@ -34,6 +34,7 @@ external_authors = {
     'jean-christophe' : 'M',
     'jiwon'     : 'M',
     'kannan'    : 'M',
+    'kytt' : 'M',
     'leif'      : 'M',
     'loïc' : 'M',
     'marcin': 'M',
@@ -120,14 +121,24 @@ override_authors = {
     'barbosa': 'F',
     'emmanuel, centre blaise pascal (lyon, france) quemener': 'M',
     'goodman' : 'F',
-    'adam, duke university, cnrs france richards',
+    'adam, duke university, cnrs france richards' : 'M',
     'kosinski andrzej' : 'M',
     'ryan, national institute of diabetes and digestive and kidney diseases, national institutes of dale' : 'M',
-
-
-
-
-    
+    'lin wang': 'F',
+    'eric, subaru telescope, national astronomical observatory of japan jeschke' : 'M',
+    'geodecisions carissa' : 'F',
+    'bruning, eric c., texas tech university':'M',
+    'ottesen, hal h., adjunct professor' : 'M',
+    'harinarayan krishnan':'M',
+    'david, nanobiology institute, yale university baddeley':'M',
+    'zachary, materials measurement science division, national institute of standards and technol trautt':'M',
+    'burcin erocal':'M',
+    'kapil arya':'M',
+    "jeffrey, center for biomedical informatics, the children's hospital of philadelphia miller":'M',
+    'larsson omberg':'M',
+    'xianlong hou':'M',
+    'northeast regional climate center':'M',
+    'ga\xc3\x83\xc2\xabl varoquaux':'M',
 #    'stéfan van der walt' : 'M',
 #    'bargava subramanian' : 'M',
 #    'loïc estève' : 'M',

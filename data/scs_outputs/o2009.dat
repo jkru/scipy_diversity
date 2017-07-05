@@ -5,7 +5,7 @@ b'Symbolic computing with sympy'@b'Ondrej Certik'@M@-1.00@t@s
 b'Statistics with Scipy'@b'Robert Kern'@M@0.99@t@s
 b'Cython'@b'Dag Sverre Seljebotn'@M@-1.00@t@s
 b'Using GPUs with PyCUDA'@b'Nicolas Pinto'@M@1.00@t@s
-b'Designing scientific interfaces with Traits'@b'Enthought'@U@-1.00@t@s
+b'Designing scientific interfaces with Traits'@b'Enthought'@M@-1.00@t@s
 b'Mayavi/TVTK'@b'Prabhu Ramachandran'@M@-1.00@t@s
 b'The conference talks are held at the Beckman institute'@b'map.'@U@-1.00@n@s
 b'Welcome'@b'Jarrod Millman & Gael Varoquaux'@M@0.99@n@s
@@ -41,7 +41,7 @@ b'ESPResSo++: A Python-controlled, Parallel Simulation Software  for Soft Matter
 b'ESPResSo++: A Python-controlled, Parallel Simulation Software  for Soft Matter Research'@b'Germany'@U@-1.00@n@s
 b'Sympy'@b'Ondrej Certik'@M@-1.00@n@s
 b'Sympy'@b'University of Nevada'@U@-1.00@n@s
-b'Sympy'@b'Reno'@M@1.00@n@s
+b'Sympy'@b'Reno'@U@-1.00@n@s
 b'Python implementation of weno interpolation and reconstruction'@b'Adrian Townsend'@M@0.90@n@s
 b'Python implementation of weno interpolation and reconstruction'@b'University of Washington'@U@-1.00@n@s
 b'Writing Safer NumPy Extensions in C++ with Templates and TooN'@b'Damian Eads'@M@0.97@n@s
@@ -56,13 +56,13 @@ b'Keynote:Modeling of Materials with Python'@b'Jonathan Guyer'@M@0.99@k@s
 b'Keynote:Modeling of Materials with Python'@b'NIST'@U@-1.00@k@s
 b'Hermes and FEMhub Project'@b'Pavel Solin'@M@-1.00@n@s
 b'Hermes and FEMhub Project'@b'University of Nevada'@U@-1.00@n@s
-b'Hermes and FEMhub Project'@b'Reno'@M@1.00@n@s
+b'Hermes and FEMhub Project'@b'Reno'@U@-1.00@n@s
 b'The PyMca Application and Toolkit'@b'Armando Sole'@M@0.99@n@s
 b'The PyMca Application and Toolkit'@b'ESRF'@U@-1.00@n@s
-b'The PyMca Application and Toolkit'@b'France'@F@1.00@n@s
+b'The PyMca Application and Toolkit'@b'France'@U@-1.00@n@s
 b'Implementation of automatic script recording and network  control for Mayavi'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'Implementation of automatic script recording and network  control for Mayavi'@b'IIT Bombay'@U@-1.00@n@s
-b'Implementation of automatic script recording and network  control for Mayavi'@b'India'@F@1.00@n@s
+b'Implementation of automatic script recording and network  control for Mayavi'@b'India'@U@-1.00@n@s
 b'Fast numerical computations with Cython'@b'Dag Sverre Seljebotn'@M@-1.00@n@s
 b'Fast numerical computations with Cython'@b'University of Oslo'@U@-1.00@n@s
 b'Fast numerical computations with Cython'@b'Norway'@U@-1.00@n@s
@@ -85,8 +85,8 @@ b'NumPy and SciPy Documentation in 2009 and Beyond'@b'Joe Harrington'@M@0.98@n@s
 b'NumPy and SciPy Documentation in 2009 and Beyond'@b'U. Central Florida'@U@-1.00@n@s
 b'Python in science and engineering education in India'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'Python in science and engineering education in India'@b'IIT Bombay'@U@-1.00@n@s
-b'Python in science and engineering education in India'@b'India'@F@1.00@n@s
+b'Python in science and engineering education in India'@b'India'@U@-1.00@n@s
 b'Next challenges for Python in Science'@b'Jarrod Millman'@M@0.99@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
-##2009  51   3  48  40 Pexpect: 0.240000 Nexpect: 13 Pobs: 0.000120 Pover: 0.454785
+##2009  47   0  47  44 Pexpect: 0.240000 Nexpect: 12 Pobs: 0.000000 Pover: 0.458287

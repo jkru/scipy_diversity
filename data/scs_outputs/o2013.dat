@@ -23,23 +23,23 @@ b'IPython-powered Slideshow Reveal-ed'@b'Damian Avila'@M@0.99@n@s
 b'A Gentle Introduction To Machine Learning'@b'Kyle Kastner'@M@0.97@n@s
 b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Florian, Imperial College London, UK Rathgeber'@U@-1.00@n@s
 b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Markall'@U@-1.00@n@s
-b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Mi'@F@1.00@n@s
+b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Mi'@M@-1.00@n@s
 b'Writing Reproducible Papers with Dexy'@b'Ana Nelson'@F@0.99@n@s
 b'Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms'@b'James Bergstra'@M@0.99@n@s
 b'Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms'@b'Dan Yamins'@M@0.97@n@s
-b'Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms'@b'Cox, David D., Harvard University'@U@-1.00@n@s
+b'Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms'@b'Cox, David D., Harvard University'@M@-1.00@n@s
 b'Julia and Python: a dynamic duo for scientific computing'@b'Jeff Bezanson'@M@1.00@n@s
 b'Julia and Python: a dynamic duo for scientific computing'@b'Stefan Karpinski'@M@1.00@n@s
 b'GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization'@b'Ramalingam Saravanan'@M@-1.00@n@s
 b'Using Python for Structured Prediction'@b'Rob Zinkov'@M@1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Serge Guelton'@M@1.00@n@s
-b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Pierrick Brunet'@U@-1.00@n@s
+b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Pierrick Brunet'@M@-1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Alan Raynaud'@M@0.99@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Adrien Merlini'@M@0.60@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Mehdi Amini'@M@1.00@n@s
 b'The advantages of a scientific IDE'@b'Carlos Cordoba'@M@0.99@n@s
 b'Processing biggish data on commodity hardware: simple Python patterns'@b'Gael Varoquaux Institution: INRIA'@M@-1.00@n@s
-b'XDress - Type, But Verify'@b'Anthony, The University of Chicago & NumFOCUS, Inc. Scopatz'@U@-1.00@n@s
+b'XDress - Type, But Verify'@b'Anthony, The University of Chicago & NumFOCUS, Inc. Scopatz'@M@-1.00@n@s
 b'An efficient workflow for reproducible science'@b'Trevor Bekolay'@M@0.99@n@s
 b'Python Tools for Coding and Feature Learning'@b'Leif Johnson'@M@1.00@n@s
 b'Keynote: Trends in Machine Learning and the SciPy community'@b'Olivier Grisel'@M@1.00@k@s
@@ -48,28 +48,28 @@ b'Complex Experiment Configuration, Control, Automation, and Analysis using Robo
 b'Complex Experiment Configuration, Control, Automation, and Analysis using Robot Operating System (ROS)'@b'Andrew Straw'@M@1.00@n@s
 b'mystic: a framework for predictive science'@b'Michael McKerns @ California Institute of Technology'@M@0.99@n@s
 b'Modeling the Earth with Fatiando a Terra'@b'Leonardo Uieda'@M@1.00@n@s
-b'Modeling the Earth with Fatiando a Terra'@b'Oliveira Jr'@U@-1.00@n@s
-b'Modeling the Earth with Fatiando a Terra'@b'Barbosa'@U@-1.00@n@s
+b'Modeling the Earth with Fatiando a Terra'@b'Oliveira Jr'@M@-1.00@n@s
+b'Modeling the Earth with Fatiando a Terra'@b'Barbosa'@F@-1.00@n@s
 b'vIPer, a new tool to work with IPython notebooks'@b'Damian Avila'@M@0.99@n@s
 b'Skdata: Data seets and algorithm evaluation protocols in Python'@b'Nicolas Pinto'@M@1.00@n@s
-b'Skdata: Data seets and algorithm evaluation protocols in Python'@b'Cox, David D., Harvard University'@U@-1.00@n@s
+b'Skdata: Data seets and algorithm evaluation protocols in Python'@b'Cox, David D., Harvard University'@M@-1.00@n@s
 b'Scientific Computing and the Materials Genome Initiative'@b'Andrew Reid'@M@1.00@n@s
-b'OS deduplication with SIDUS (single-instance distributing universal system)'@b'Emmanuel, Centre Blaise Pascal (Lyon, France) Quemener'@U@-1.00@n@s
+b'OS deduplication with SIDUS (single-instance distributing universal system)'@b'Emmanuel, Centre Blaise Pascal (Lyon, France) Quemener'@M@-1.00@n@s
 b'OS deduplication with SIDUS (single-instance distributing universal system)'@b'Marianne Corvellec'@F@1.00@n@s
 b'Infer.py: Probabilistic Programming and Bayesian Inference from Python'@b'Rob Zinkov'@M@1.00@n@s
 b'Multidimensional Data Exploration with Glue'@b'Christopher Beaumont'@M@0.99@n@s
 b'Multidimensional Data Exploration with Glue'@b'Thomas Robitaille'@M@0.99@n@s
 b'Multidimensional Data Exploration with Glue'@b'Michelle Borkin'@F@1.00@n@s
-b'Multidimensional Data Exploration with Glue'@b'Goodman'@U@-1.00@n@s
-b'lpEdit: An editor to facilitate reproducible analysis via literate programming'@b'Adam, Duke University, CNRS France Richards'@U@-1.00@n@s
-b'lpEdit: An editor to facilitate reproducible analysis via literate programming'@b'Kosinski Andrzej'@U@-1.00@n@s
+b'Multidimensional Data Exploration with Glue'@b'Goodman'@F@-1.00@n@s
+b'lpEdit: An editor to facilitate reproducible analysis via literate programming'@b'Adam, Duke University, CNRS France Richards'@M@-1.00@n@s
+b'lpEdit: An editor to facilitate reproducible analysis via literate programming'@b'Kosinski Andrzej'@M@-1.00@n@s
 b'lpEdit: An editor to facilitate reproducible analysis via literate programming'@b'Camille Bonneaud'@F@0.98@n@s
 b'Roadmap to a Sentience Stack'@b'Eric Neuman'@M@0.99@n@s
 b'Exploring disease genetics from thousands of individual genomes with Gemini'@b'Aaron Quinlan'@M@0.99@n@s
 b'Exploring disease genetics from thousands of individual genomes with Gemini'@b'Uma Paila'@F@1.00@n@s
 b'Exploring disease genetics from thousands of individual genomes with Gemini'@b'Brad Chapman'@M@0.99@n@s
 b'Exploring disease genetics from thousands of individual genomes with Gemini'@b'Rory Kirchner'@M@0.91@n@s
-b'metaseq: a Python framework for integrating high-throughput sequencing analyses'@b'Ryan, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Dale'@U@-1.00@n@s
+b'metaseq: a Python framework for integrating high-throughput sequencing analyses'@b'Ryan, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Dale'@M@-1.00@n@s
 b'Stuff to do with your genomic intervals'@b'Brent Pedersen'@M@0.99@n@s
 b'Stuff to do with your genomic intervals'@b'University of Colorado'@U@-1.00@n@s
 b'All-by-all learning of protein complexes from mass spectrometry data'@b'Blake Borgeson'@M@0.95@n@s
@@ -164,4 +164,4 @@ b'Diving into NumPy code'@b'David Cournapeau'@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@M@-1.00@t@s
 b'An Introduction to scikit-learn (II)'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@t@s
-##2013 131  12 119  35 Pexpect: 0.240000 Nexpect: 32 Pobs: 0.000003 Pover: 0.488004
+##2013 142  13 129  24 Pexpect: 0.240000 Nexpect: 35 Pobs: 0.000001 Pover: 0.460394
