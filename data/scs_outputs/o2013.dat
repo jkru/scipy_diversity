@@ -75,12 +75,12 @@ b'Stuff to do with your genomic intervals'@b'University of Colorado'@U@-1.00@n@s
 b'All-by-all learning of protein complexes from mass spectrometry data'@b'Blake Borgeson'@M@0.95@n@s
 b'All-by-all learning of protein complexes from mass spectrometry data'@b'Cuihong Wa'@U@-1.00@n@s
 b'Detection and characterization of interactions of genetic risk factors in disease'@b'Patricia Francis-Lyon'@F@0.99@n@s
-b'Detection and characterization of interactions of genetic risk factors in disease'@b'Shashank Belvadi'@U@-1.00@n@s
-b'Detection and characterization of interactions of genetic risk factors in disease'@b'Lin Wang'@U@-1.00@n@s
+b'Detection and characterization of interactions of genetic risk factors in disease'@b'Shashank Belvadi'@M@-1.00@n@s
+b'Detection and characterization of interactions of genetic risk factors in disease'@b'Lin Wang'@F@-1.00@n@s
 b'MIST: Micro-Simulation Tool to Support Disease Modeling'@b'Jacob Barhak'@M@0.99@n@s
 b'Python and the SKA'@b'Simon Ratcliffe SKA South Africa'@M@1.00@n@s
 b'Combining C++ and Python in the LSST Software Stack'@b'Jim Bosch'@M@1.00@n@s
-b'Ginga: an open-source astronomical image viewer and toolkit'@b'Eric, Subaru Telescope, National Astronomical Observatory of Japan Jeschke'@U@-1.00@n@s
+b'Ginga: an open-source astronomical image viewer and toolkit'@b'Eric, Subaru Telescope, National Astronomical Observatory of Japan Jeschke'@M@-1.00@n@s
 b'Astropy, growing a community-based software system for astronomy'@b'Michael Droettboom'@M@0.99@n@s
 b'Astropy, growing a community-based software system for astronomy'@b'Thomas Robitaille'@M@0.99@n@s
 b'Astropy, growing a community-based software system for astronomy'@b'Erik Tollerud'@M@0.99@n@s
@@ -92,10 +92,10 @@ b'Accessing the Virtual Observatory from Python'@b'Doug Tody'@M@1.00@n@s
 b'LarvaMap - A python powered larval transport modeling system'@b'Kyle Wilcox'@M@0.97@n@s
 b'LarvaMap - A python powered larval transport modeling system'@b'Alex Crosby'@M@0.99@n@s
 b'SCI-WMS: A Python Based Web Map Service For Met-Ocean Data Accessible Over OpenDAP Or As NetCDF'@b'Alexander Crosby'@M@0.99@n@s
-b'Optimizing Geographic Processing and Analysis for Big Data'@b'GeoDecisions Carissa'@U@-1.00@n@s
+b'Optimizing Geographic Processing and Analysis for Big Data'@b'GeoDecisions Carissa'@F@-1.00@n@s
 b'Optimizing Geographic Processing and Analysis for Big Data'@b'Jason Gleason'@M@0.99@n@s
-b'The Production of a Multi-Resolution Global Index for Geographic Information Systems'@b'Kytt MacManus'@U@-1.00@n@s
-b'Streamed Clustering of Lightning Mapping Data in Python Using sklearn'@b'Bruning, Eric C., Texas Tech University'@U@-1.00@n@s
+b'The Production of a Multi-Resolution Global Index for Geographic Information Systems'@b'Kytt MacManus'@M@-1.00@n@s
+b'Streamed Clustering of Lightning Mapping Data in Python Using sklearn'@b'Bruning, Eric C., Texas Tech University'@M@-1.00@n@s
 b'GIS Panel'@b'Sergio Ray (Arizona State U)'@M@0.99@n@s
 b'Keynote: The New Scientific Publishers'@b'William Schroeder'@M@0.99@k@s
 b'Data Agnosticism: Feature Engineering Without Domain Expertise'@b'Nicholas Kridler'@M@0.99@n@s
@@ -109,35 +109,35 @@ b'Parallel Volume Rendering in yt: User Driven & User Developed'@b'Samuel Skillm
 b'Parallel Volume Rendering in yt: User Driven & User Developed'@b'Matthew Turk'@M@1.00@n@s
 b'matplotlib: past, present and future'@b'Michael Droettboom'@M@0.99@n@s
 b'Scikit-Fuzzy: A New SciPy Toolkit for Fuzzy Logic'@b'Joshua Warner'@M@0.99@n@s
-b'Scikit-Fuzzy: A New SciPy Toolkit for Fuzzy Logic'@b'Ottesen, Hal H., Adjunct Professor'@U@-1.00@n@s
+b'Scikit-Fuzzy: A New SciPy Toolkit for Fuzzy Logic'@b'Ottesen, Hal H., Adjunct Professor'@M@-1.00@n@s
 b'Bringing astronomical tools down to earth'@b'Michael Droettboom'@M@0.99@n@s
 b'Bringing astronomical tools down to earth'@b'Nadia Dencheva'@F@1.00@n@s
 b'Bringing astronomical tools down to earth'@b'Tom Aldcroft'@M@1.00@n@s
-b'Exploring Collaborative HPC Visualization Workflows using VisIt and Python'@b'Harinarayan Krishnan'@U@-1.00@n@s
+b'Exploring Collaborative HPC Visualization Workflows using VisIt and Python'@b'Harinarayan Krishnan'@M@-1.00@n@s
 b'Exploring Collaborative HPC Visualization Workflows using VisIt and Python'@b'Cyrus Harrison'@M@1.00@n@s
-b'Breaking the diffraction limit with python and scipy'@b'David, Nanobiology Institute, Yale University Baddeley'@U@-1.00@n@s
+b'Breaking the diffraction limit with python and scipy'@b'David, Nanobiology Institute, Yale University Baddeley'@M@-1.00@n@s
 b"open('/dev/real_world') - Raspberry Pi Sensor and Actuator Control"@b'Jack Minardi'@M@0.99@n@s
-b'Using IPython Notebook with IPython Cluster for Reproducibility and Portability of Atomistic Simulations'@b'Zachary, Materials Measurement Science Division, National Institute of Standards and Technol Trautt'@U@-1.00@n@s
+b'Using IPython Notebook with IPython Cluster for Reproducibility and Portability of Atomistic Simulations'@b'Zachary, Materials Measurement Science Division, National Institute of Standards and Technol Trautt'@M@-1.00@n@s
 b'Dynamics with SymPy Mechanics'@b'Jason Moore'@M@0.99@n@s
 b'A comprehensive look at representing physical quantities in Python'@b'Trevor Bekolay'@M@0.99@n@s
 b'The Open Science Framework: Improving, by Opening, Science'@b'Jeffrey Spies'@M@0.99@n@s
 b'The Open Science Framework: Improving, by Opening, Science'@b'Brian Nosek'@M@0.99@n@s
 b'Analyzing IBM Watson experiments with IPython Notebook'@b'Torsten Bittner'@M@1.00@n@s
 b'The DyND Library'@b'Mark Wiebe'@M@0.99@n@s
-b'lmonade: a platform for development and distribution of scientific software'@b'Burcin Erocal'@U@-1.00@n@s
+b'lmonade: a platform for development and distribution of scientific software'@b'Burcin Erocal'@M@-1.00@n@s
 b'A Portrait of One Scientist as a Graduate Student'@b'Paul Ivanov'@M@0.99@n@s
-b'High Performance Reproducible Computing'@b'Zhang Zhang'@U@-1.00@n@s
+b'High Performance Reproducible Computing'@b'Zhang Zhang'@M@-1.00@n@s
 b'High Performance Reproducible Computing'@b'Todd Rosenquist'@M@0.99@n@s
 b'High Performance Reproducible Computing'@b'Kent Moffat'@M@1.00@n@s
 b'Reproducible Documents with PythonTeX'@b'Geoffrey Poore'@M@1.00@n@s
-b'DMTCP: Bringing Checkpoint-Restart to Python'@b'Kapil Arya'@U@-1.00@n@s
+b'DMTCP: Bringing Checkpoint-Restart to Python'@b'Kapil Arya'@M@-1.00@n@s
 b'DMTCP: Bringing Checkpoint-Restart to Python'@b'Gene Cooperman'@M@0.98@n@s
 b'SymPy Gamma and SymPy Live: Python and Mathematics Online'@b'David Li'@M@0.99@n@s
 b'Emacs + org-mode + python in reproducible research'@b'John Carnegie Mellon University Kitchin'@M@0.99@n@s
 b'NeuroTrends: Large-scale automated analysis of the neuroimaging literature'@b'Joshua Carp'@M@0.99@n@s
 b'Estimating and Visualizing the Inertia of the Human Body with Python'@b'Jason Moore'@M@0.99@n@s
 b'Estimating and Visualizing the Inertia of the Human Body with Python'@b'Christopher Dembia'@M@0.99@n@s
-b'An Open Source System for De-identification and Use of Medical Images for Research'@b"Jeffrey, Center for Biomedical Informatics, The Children's Hospital of Philadelphia Miller"@U@-1.00@n@s
+b'An Open Source System for De-identification and Use of Medical Images for Research'@b"Jeffrey, Center for Biomedical Informatics, The Children's Hospital of Philadelphia Miller"@M@-1.00@n@s
 b'Automating Quantitative Confocal Microscopy Analysis'@b'Mark Fenner'@M@0.99@n@s
 b'Automating Quantitative Confocal Microscopy Analysis'@b'Fenner'@U@-1.00@n@s
 b'Experiences in Python for Medical Image Analysis'@b'Joshua Warner'@M@0.99@n@s
@@ -145,13 +145,13 @@ b'A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform 
 b'A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform for Cancer Diagnostics Research'@b'Franklin Ventura'@M@0.99@n@s
 b'EMAN2 and EMEN2: Flexible Python-based platforms for electron microscopy'@b'Ian Rees'@M@0.99@n@s
 b'EMAN2 and EMEN2: Flexible Python-based platforms for electron microscopy'@b'Steven Ludtke'@M@0.99@n@s
-b'Massive Online Collaborative Research and Modeling using Synapse and Python'@b'Larsson Omberg'@U@-1.00@n@s
+b'Massive Online Collaborative Research and Modeling using Synapse and Python'@b'Larsson Omberg'@M@-1.00@n@s
 b'Iris & Cartopy: Open source Python packages for Atmospheric and Oceanographic science'@b'Philip Elson'@M@0.99@n@s
 b'Advances in delivery and access tools for coastal ocean model data'@b'Richard Signell'@M@0.99@n@s
 b'Using Python to drive the General NOAA Operational Modeling Environment'@b'Christopher H. NOAA Emergency Response Division. Barker'@M@0.99@n@s
-b'Oil spill modeling and uncertainty forecasts with Python'@b'Xianlong Hou'@U@-1.00@n@s
+b'Oil spill modeling and uncertainty forecasts with Python'@b'Xianlong Hou'@M@-1.00@n@s
 b'Oil spill modeling and uncertainty forecasts with Python'@b'Ben Hodges'@M@1.00@n@s
-b'Climate Observations from ACIS in pandas'@b'Northeast Regional Climate Center'@U@-1.00@n@s
+b'Climate Observations from ACIS in pandas'@b'Northeast Regional Climate Center'@M@-1.00@n@s
 b'NumPy and IPython'@b'Valentin Haenel'@M@1.00@t@s
 b'Guide to Symbolic Computing with SymPy'@b'Ondrej Certik'@M@-1.00@t@s
 b'Data Processing with Python'@b'Ben Zaitlen'@M@1.00@t@s
@@ -164,4 +164,4 @@ b'Diving into NumPy code'@b'David Cournapeau'@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@M@-1.00@t@s
 b'An Introduction to scikit-learn (II)'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@t@s
-##2013 142  13 129  24 Pexpect: 0.240000 Nexpect: 35 Pobs: 0.000001 Pover: 0.460394
+##2013 159  15 144   7 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000001 Pover: 0.468446

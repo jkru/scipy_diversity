@@ -128,7 +128,7 @@ b'MetPy\xe2\x80\x99s Choice of Unit Support: A Descent into Madness'@b'John Leem
 b'A Fast Template Periodogram for Finding Periodic (Non-Sinusoidal) Waveforms in Noisy, Irregularly-Sampled Time Series Data'@b'John Hoffman'@M@0.99@n@s
 b'Fully Convolutional Networks for Image Segmentation'@b'Daniil Pakhomov'@U@-1.00@n@s
 b'Deep Learning with Geospatial Data'@b'Shane Grigsby'@M@0.98@n@s
-b'Vizic: A Jupyter-Based Interactive Visualization Tool for Astronomical Catalogs'@b'Weixiang Yu'@U@-1.00@n@s
+b'Vizic: A Jupyter-Based Interactive Visualization Tool for Astronomical Catalogs'@b'Weixiang Yu'@M@-1.00@n@s
 b'hybrid-vocal-classifier (HVC): a Python Package to Automate Labeling of Birdsong for Behavioral Experiments'@b'David Nicholson'@M@0.99@n@s
 b'WARNO: Multi-platform Monitoring Framework for Remote Sensing Instrumentation.'@b'Joseph Hardin'@M@0.99@n@s
 b'Stingray : A Library of Time Series Methods for Astronomical X-Ray Data'@b'Himanshu Mishra'@U@-1.00@n@s
@@ -175,4 +175,4 @@ b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Andreas Mueller'
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Alexandre Gramfort'@M@0.89@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Mark Wickert'@M@0.99@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@U@-1.00@t@s
-##2017 153  32 121  24 Pexpect: 0.240000 Nexpect: 37 Pobs: 0.161557 Pover: 0.510039
+##2017 154  32 122  23 Pexpect: 0.240000 Nexpect: 37 Pobs: 0.151113 Pover: 0.528073
