@@ -34,4 +34,4 @@ b'Efficient Parallel Python for High-Performance Computing'@b'Kurt Smith'@M@1.00
 b'Time Series Data Analysis with pandas'@b'Wes McKinney'@M@1.00@t@s
 b'IPython in-depth: Interactive Tools for Scientific Computing'@b'Fernando Perez'@M@0.99@t@s
 b'statsmodels'@b'Skipper Seabold'@M@1.00@t@s
-##2012  32   0  32   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090
+##2012  32   0  32   4 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090

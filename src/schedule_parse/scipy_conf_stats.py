@@ -113,7 +113,7 @@ for talk in talks:
 
         
 N_talks, N_female, N_male, N_female_expect, P_female_frac, P_female_overrep = talk_statistics(talk_df, stats_name="equal_weight")
-N_unclass = N_talks - (N_female + N_male)
+N_unclass = talk_df.shape[0] - N_talks
 
 print("##%04d %3d %3d %3d %3d Pexpect: %f Nexpect: %d Pobs: %f Pover: %f" %
       (year,N_talks,N_female,N_male,N_unclass,P_female_expect,N_female_expect,P_female_frac,P_female_overrep))

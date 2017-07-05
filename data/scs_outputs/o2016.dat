@@ -177,4 +177,4 @@ b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0
 b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@M@0.99@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@M@1.00@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@F@0.91@t@s
-##2016 160  22 138   0 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000461 Pover: 0.486201
+##2016 160  22 138  19 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000461 Pover: 0.486201

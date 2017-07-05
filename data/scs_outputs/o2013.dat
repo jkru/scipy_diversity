@@ -168,4 +168,4 @@ b'Diving into NumPy code'@b'David Cournapeau'@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@F@0.66@t@s
 b'An Introduction to scikit-learn (II)'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@t@s
-##2013  62   7  55   0 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.003598 Pover: 0.534690
+##2013  62   7  55 108 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.003598 Pover: 0.534690
