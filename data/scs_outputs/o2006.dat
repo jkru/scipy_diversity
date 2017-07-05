@@ -1,38 +1,41 @@
-Numpy@Travis Oliphant@M@t@s
-IPython/Matplotlib@Fernando Perez; John Hunter@M@t@s
-Question and Answer Session@Fernando Perez; John Hunter@M@t@s
-Scientific Apps - Traits/TraitsUI@Eric Jones; Dave Morrill@M@t@s
-Data Exploration with Chaco@Peter Wang@M@t@s
-Mayavi/TVTK@Prabhu Ramachandran@M@t@s
-Keynote@Guido van Rossum@M@k@s
-Understanding NumPy: How to Use dtype Objects@Travis Oliphant@M@n@s
-Extending NumPy: a comparison of SWIG, f2py, weave, Pyrex, and ctypes@Travis Oliphant@M@n@s
-Python for Modern Scientific Algorithm Development@Fernando Perez@M@n@s
-Building a Distributed Component Framework@Michael Aivazis@M@n@s
-The Enthought Tool Suite for Scientific Applications@Eric Jones@M@n@s
-Synthetic Programming with Python@Chris Mueller@M@n@s
-3D visualization with TVTK and MayaVi2@Prabhu Ramachandran@M@n@s
-Realtime Computing with Python@Andrew Straw@M@n@s
-Prototyping Mid-Infrared Detector Data Processing Algorithms@Mike Ressler@M@n@s
-The State of IPython@Brian Granger@M@l@s
-Array Interface BOF@Travis Oliphant@M@l@s
-Enstaller@Travis Vaught@M@l@s
-The Current State of Vision@Michel Sanner@M@l@s
-Quick Overview of Chaco@Peter Wang@M@l@s
-SAGE:Software for Algebra and Geometry Experimentation Notes@William Stein@M@n@s
-Mathematica-like Plotting in SAGE Notes@Alex Clemesha@M@n@s
-BioHub Presentation@Diane Trout@F@n@s
-Software Carpentry@Greg Wilson@M@n@s
-AutoLigand for AutoDock@Rodney Harris@M@n@s
-GpuPy: Using GPUs to Accelerate NumPy@Benjamin Eitzen@M@n@s
-Boost Graph Library@Douglas Gregor@M@n@s
-Fast Multipole Algorithm@Idesbald Van den Bosch@M@n@s
-OOF  Object-Oriented Finite Elements at NIST@Andrew Reid@M@n@s
-Parallel PDE Solvers in Python@Bill Spotz@M@n@s
-Python Imaging Tools for Reconstructing Magnetic Resonance Images@Mike Trumpis@M@n@s
-PyRoot@Wim Lavrijsen@M@n@s
-Python Interface to QScimpl presentation@Eric Dobbs@M@n@s
-Python Web and Grid Service Tools@Keith Jackson@M@n@s
-GENESIS SciFlo: Scientific Knowledge Creation on the Grid using a Semantically-Enabled Dataflow Execution Environment@Brian Wilson@M@n@s
-Seeing Through the MIST: Richer Reconfigurable Interactive Systems@Tripp Lilley@M@n@s
-##2006  37   1  36   0 Pexpect: 0.240000 Nexpect: 9 Pobs: 0.000039 Pover: 0.544808
+b'Numpy'@b'Travis Oliphant'@M@0.99@t@s
+b'IPython/Matplotlib'@b'Fernando Perez'@M@1.00@t@s
+b'IPython/Matplotlib'@b'John Hunter'@M@0.99@t@s
+b'Question and Answer Session'@b'Fernando Perez'@M@1.00@t@s
+b'Question and Answer Session'@b'John Hunter'@M@0.99@t@s
+b'Scientific Apps - Traits/TraitsUI'@b'Eric Jones'@M@0.99@t@s
+b'Scientific Apps - Traits/TraitsUI'@b'Dave Morrill'@M@1.00@t@s
+b'Data Exploration with Chaco'@b'Peter Wang'@M@0.99@t@s
+b'Mayavi/TVTK'@b'Prabhu Ramachandran'@M@-1.00@t@s
+b'Keynote'@b'Guido van Rossum'@M@1.00@k@s
+b'Understanding NumPy: How to Use dtype Objects'@b'Travis Oliphant'@M@0.99@n@s
+b'Extending NumPy: a comparison of SWIG, f2py, weave, Pyrex, and ctypes'@b'Travis Oliphant'@M@0.99@n@s
+b'Python for Modern Scientific Algorithm Development'@b'Fernando Perez'@M@1.00@n@s
+b'Building a Distributed Component Framework'@b'Michael Aivazis'@M@0.99@n@s
+b'The Enthought Tool Suite for Scientific Applications'@b'Eric Jones'@M@0.99@n@s
+b'Synthetic Programming with Python'@b'Chris Mueller'@M@0.93@n@s
+b'3D visualization with TVTK and MayaVi2'@b'Prabhu Ramachandran'@M@-1.00@n@s
+b'Realtime Computing with Python'@b'Andrew Straw'@M@1.00@n@s
+b'Prototyping Mid-Infrared Detector Data Processing Algorithms'@b'Mike Ressler'@M@0.99@n@s
+b'The State of IPython'@b'Brian Granger'@M@1.00@l@s
+b'Array Interface BOF'@b'Travis Oliphant'@M@0.99@l@s
+b'Enstaller'@b'Travis Vaught'@M@0.99@l@s
+b'The Current State of Vision'@b'Michel Sanner'@M@0.70@l@s
+b'Quick Overview of Chaco'@b'Peter Wang'@M@0.99@l@s
+b'SAGE:Software for Algebra and Geometry Experimentation Notes'@b'William Stein'@M@0.99@n@s
+b'Mathematica-like Plotting in SAGE Notes'@b'Alex Clemesha'@M@0.99@n@s
+b'BioHub Presentation'@b'Diane Trout'@F@1.00@n@s
+b'Software Carpentry'@b'Greg Wilson'@M@0.99@n@s
+b'AutoLigand for AutoDock'@b'Rodney Harris'@M@0.99@n@s
+b'GpuPy: Using GPUs to Accelerate NumPy'@b'Benjamin Eitzen'@M@0.99@n@s
+b'Boost Graph Library'@b'Douglas Gregor'@M@1.00@n@s
+b'Fast Multipole Algorithm'@b'Idesbald Van den Bosch'@M@-1.00@n@s
+b'OOF  Object-Oriented Finite Elements at NIST'@b'Andrew Reid'@M@1.00@n@s
+b'Parallel PDE Solvers in Python'@b'Bill Spotz'@M@1.00@n@s
+b'Python Imaging Tools for Reconstructing Magnetic Resonance Images'@b'Mike Trumpis'@M@0.99@n@s
+b'PyRoot'@b'Wim Lavrijsen'@M@-1.00@n@s
+b'Python Interface to QScimpl presentation'@b'Eric Dobbs'@M@0.99@n@s
+b'Python Web and Grid Service Tools'@b'Keith Jackson'@M@1.00@n@s
+b'GENESIS SciFlo: Scientific Knowledge Creation on the Grid using a Semantically-Enabled Dataflow Execution Environment'@b'Brian Wilson'@M@1.00@n@s
+b'Seeing Through the MIST: Richer Reconfigurable Interactive Systems'@b'Tripp Lilley'@M@1.00@n@s
+##2006  40   1  39   0 Pexpect: 0.240000 Nexpect: 10 Pobs: 0.000017 Pover: 0.501742

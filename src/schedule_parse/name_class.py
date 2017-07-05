@@ -13,6 +13,7 @@ external_authors = {
     'alexey'    : 'M',
     'andrezej'  : 'M',
     'arfon'     : 'M',
+    'bargava'   : 'M',
     'christfried' : 'M',
     'chu-ching' : 'F',
     'dag'       : 'M',
@@ -29,6 +30,7 @@ external_authors = {
     'jiwon'     : 'M',
     'kannan'    : 'M',
     'leif'      : 'M',
+    'loïc' : 'M',
     'nikunj'    : 'M',
     'ondrej'    : 'M',
     'prabhu'    : 'M',
@@ -36,6 +38,7 @@ external_authors = {
     'pranab'    : 'M',
     'ramalingam' : 'M',
     'stÃ©fan' : 'M',
+    'stéfan' : 'M',
     'tzanko'    : 'M',
     'vanderlei' : 'M',
     'vinothan'  : 'M',
@@ -48,9 +51,9 @@ external_authors = {
 # as well.
 override_authors = {
     'ariel rokem'     : 'M',
-    'stéfan van der walt' : 'M',
-    'bargava subramanian' : 'M',
-    'loïc estève' : 'M',
+#    'stéfan van der walt' : 'M',
+#    'bargava subramanian' : 'M',
+#    'loïc estève' : 'M',
 }
 
 def override(fn,ln):
@@ -63,21 +66,26 @@ def override(fn,ln):
     else:
         return None
 
-def name_class(name):
+def name_class(name,year):
+    start_year = year - 30 - 5
+    end_year   = year - 30 + 5
     this_year = datetime.date.today().year
+    if this_year > end_year + 1:
+        end_year = this_year - 1
+
     female_count = 0
     male_count = 0
     
-    for year in range((this_year - 30) - 5, (this_year - 1)):
+    for year in range(start_year,end_year):
         f_name = ('%s/yob%04d.txt' % (CENSUS_DIR, year))
         f = open(f_name,"r")
         for line in f:
             scan_name, scan_gender, scan_count = line.strip().split(',')
             if (scan_name.lower() == name.lower()):
                 if (scan_gender == 'F'):
-                    female_count += string.atoi(scan_count)
+                    female_count += int(scan_count)
                 else:
-                    male_count   += string.atoi(scan_count)
+                    male_count   += int(scan_count)
 
         denominator = female_count + male_count
         if (denominator == 0):
@@ -91,8 +99,9 @@ def name_class(name):
         else:
             return "M", 1.0 * male_count   / denominator
 
-def author_class(author_string):
+def author_class(author_string,year):
     author_list = list()
+    author_string = str(author_string)
     authors = author_string.split(";")
     for auth in authors:
         auth = re.sub("\s+"," ",auth)
@@ -117,10 +126,10 @@ def author_class(author_string):
         if override(fn,ln) is not None:
             gender,g_frac = override(fn,ln)
         else:
-            gender, g_frac = name_class(fn)
+            gender, g_frac = name_class(fn,year)
             
         author_list.append( (auth, gender, g_frac) )
-#        print("     >>%s<< >%s< %s %f" % (fn, auth, gender, g_frac))
+#        print("     >>%s<< >%s< %s %f" % (fn.encode('utf-8'), auth.encode('utf-8'), gender, g_frac))
 
     return author_list
         
@@ -142,7 +151,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('name')
     args = parser.parse_args()
-    (gender_value, ratio) = name_class(args.name.lower())
+    (gender_value, ratio) = name_class(args.name.lower(),2017)
     print( args.name, gender_value, ratio)
 #    I = open(args.infile,"r")
 #    N_talk = 0

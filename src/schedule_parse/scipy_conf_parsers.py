@@ -104,7 +104,8 @@ def p2017(url,use_first):
                 if title_text != "" and author_text != "":
                     author_text = author_text.replace("; , ",", ")
                     talk_type = classify_talk(title_text, url)
-                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                    talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 
 #
@@ -150,7 +151,8 @@ def p2015(url,use_first):
                     author_text = author_text.replace("; , ",", ")
                     talk_type = classify_talk(title_text, url)
 
-                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                    talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 
 #
@@ -176,13 +178,15 @@ def p2014_internal(url, table_class, row_class, title_class, author_class, keyno
                     author_text = author_span.extract().string.strip()
                     author_text = author_text.replace(", ","; ")
                     talk_type = classify_talk(title_text, url)
-                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                    talks.append( (title_text, author_text, talk_type, "s"))
             cols = row.findAll('td', { 'class' : keynote_class })
             for col in cols:
                 title_text, author_text = col.p.extract().string.split(' - ')
                 author_text = author_text.replace(", ","; ")
                 talk_type = classify_talk(title_text, url)
-                talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 #end
 
@@ -261,13 +265,15 @@ def p2013(url):
                     title_text, author_text = p2013_internal(col.contents)
                     if title_text is not None and author_text is not None:
                         talk_type = classify_talk(title_text, url)
-                        talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                        talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                        talks.append( (title_text, author_text, talk_type, "s"))
                 else:
                     for div in divs:
                         title_text,author_text = p2013_internal(div.contents)
                         if title_text is not None and author_text is not None:
                             talk_type = classify_talk(title_text, url)
-                            talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type,"s"))
+#                            talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type,"s"))
+                            talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 
 #
@@ -315,7 +321,8 @@ def p2011(url,content_key):
                     author_text = author_text.replace(", ","; ")
 
                     talk_type = classify_talk(title_text, url)
-                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+                    talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 
 #
@@ -360,7 +367,9 @@ def p2009(url,content_key):
                     author_text = author_text.replace(", ","; ")
 
                     talk_type = classify_talk(title_text, url)
-                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (title_text.encode('utf-8'), author_text.encode('utf-8'), talk_type, "s"))
+#                    talks.append( (str(title_text.decode('utf-8')), str(author_text.decode('utf-8')), talk_type, "s"))
+                    talks.append( (title_text, author_text, talk_type, "s"))
     return talks
 
 

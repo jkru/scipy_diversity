@@ -1,27 +1,32 @@
-keynote@Jim Hugunin@M@k@s
-Elmer: glues Pythons to other animals@Rick Ratzel@M@l@s
-New Traits Mechanism in Python@Eric Jones@M@l@s
-PyNGL: Visualization for the geosciences@Mary Haley@F@l@s
-Numarray status@Perry Greenfield@M@l@s
-Envisage: A scientific application framework@Eric Jones@M@n@s
-Adaptive PDE solvers using multiwavelets@Fernando Perez@M@n@s
-Sparse Matrices, Iterative Tools, and Optimization@Travis Oliphant@M@n@s
-Building Python-based Scientific Computation Platform from LiveZope DVD@Chu-Ching Huang@F@n@s
-Matplotlib --- a 2D graphics package@John Hunter@M@n@s
-Software Components for Structural Bio-informatics@Michel Sanner@M@n@s
-The Enable and Chaco Toolkit@Dave Morill@M@n@s
-Python in a scientific camera testing system@Andrew Moore@M@n@s
-Multidrizzle: Automated Image Combination and Cosmic-Ray Identification Software@Robert Jedrzejewski@M@n@s
-Special Session: Making Python attractive to General Scientists@Joe Harrington; Perry Greenfield@M@b@s
-Python for CFD: A Case Study@Prahbu Ramachandran@M@n@s
-ExoPy: A Python Interface to a Finite Element Database@Vincent Urias; Phil Sackinger@M@n@s
-High Performance Data Management with PyTables and Family@Francesc Alted@M@n@s
-Interactive Work in Python: IPython's Present and Future@Fernando Perez@M@n@s
-NetworkX: Growing a Python-based Toolbox for Complex Networks@Aric Hagberg@M@n@s
-Vision: Visual Programming for Python@Daniel Stoffler; Michel Sanner@M@n@s
-PyARTK: a Python interface to ARToolKit, with Application in Molecular Biology@Alexandre Gillet@M@n@s
-Python in the Flexibility Study of Biological Molecules@Yong Zhao@M@n@s
-Experience with Python-based Tools for Proteomics@Randy Heiland; Charles Moad; Sean Mooney@M@n@s
-NEAT: A NITF 2.1 File Explorer@Pranab Banerjee@M@n@s
-A Python Configure Replacement@Matt Knepley@M@n@s
-##2004  26   2  24   0 Pexpect: 0.240000 Nexpect: 7 Pobs: 0.007336 Pover: 0.436860
+b'keynote'@b'Jim Hugunin'@M@0.99@k@s
+b'Elmer: glues Pythons to other animals'@b'Rick Ratzel'@M@1.00@l@s
+b'New Traits Mechanism in Python'@b'Eric Jones'@M@0.99@l@s
+b'PyNGL: Visualization for the geosciences'@b'Mary Haley'@F@0.99@l@s
+b'Numarray status'@b'Perry Greenfield'@M@0.98@l@s
+b'Envisage: A scientific application framework'@b'Eric Jones'@M@0.99@n@s
+b'Adaptive PDE solvers using multiwavelets'@b'Fernando Perez'@M@0.99@n@s
+b'Sparse Matrices, Iterative Tools, and Optimization'@b'Travis Oliphant'@M@0.99@n@s
+b'Building Python-based Scientific Computation Platform from LiveZope DVD'@b'Chu-Ching Huang'@F@-1.00@n@s
+b'Matplotlib --- a 2D graphics package'@b'John Hunter'@M@1.00@n@s
+b'Software Components for Structural Bio-informatics'@b'Michel Sanner'@M@0.65@n@s
+b'The Enable and Chaco Toolkit'@b'Dave Morill'@M@0.99@n@s
+b'Python in a scientific camera testing system'@b'Andrew Moore'@M@1.00@n@s
+b'Multidrizzle: Automated Image Combination and Cosmic-Ray Identification Software'@b'Robert Jedrzejewski'@M@0.99@n@s
+b'Special Session: Making Python attractive to General Scientists'@b'Joe Harrington'@M@0.98@b@s
+b'Special Session: Making Python attractive to General Scientists'@b'Perry Greenfield'@M@0.98@b@s
+b'Python for CFD: A Case Study'@b'Prahbu Ramachandran'@M@-1.00@n@s
+b'ExoPy: A Python Interface to a Finite Element Database'@b'Vincent Urias'@M@0.99@n@s
+b'ExoPy: A Python Interface to a Finite Element Database'@b'Phil Sackinger'@M@1.00@n@s
+b'High Performance Data Management with PyTables and Family'@b'Francesc Alted'@M@-1.00@n@s
+b"Interactive Work in Python: IPython's Present and Future"@b'Fernando Perez'@M@0.99@n@s
+b'NetworkX: Growing a Python-based Toolbox for Complex Networks'@b'Aric Hagberg'@M@1.00@n@s
+b'Vision: Visual Programming for Python'@b'Daniel Stoffler'@M@1.00@n@s
+b'Vision: Visual Programming for Python'@b'Michel Sanner'@M@0.65@n@s
+b'PyARTK: a Python interface to ARToolKit, with Application in Molecular Biology'@b'Alexandre Gillet'@M@1.00@n@s
+b'Python in the Flexibility Study of Biological Molecules'@b'Yong Zhao'@M@1.00@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Randy Heiland'@M@0.99@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Charles Moad'@M@0.99@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Sean Mooney'@M@0.99@n@s
+b'NEAT: A NITF 2.1 File Explorer'@b'Pranab Banerjee'@M@-1.00@n@s
+b'A Python Configure Replacement'@b'Matt Knepley'@M@1.00@n@s
+##2004  31   2  29   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.002179 Pover: 0.475178

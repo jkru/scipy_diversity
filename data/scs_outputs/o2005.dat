@@ -1,16 +1,25 @@
-New Array Object for scipy.base@Travis Oliphant@M@n@s
-Off the Beaten Path: Advanced Matplotlib Features@John Hunter@M@n@s
-PyTrilinos: A Python Interface to Trilinos, a Set of Object-Oriented Solver Packages@Bill Spotz@M@n@s
-PDE Libraries in Python@Matt Knepley@M@n@s
-FiPy@Daniel Wheeler; Jonathon Guyer; James Warren@M@n@s
-Using AutoDock with AutoDockTools: A Tutorial@Ruth Huey; Garret Morris; Michel Sanner@F@t@s
-No title@Fernando Perez@M@l@s
-No title@D. Brown@U@l@s
-No title@Travis Oliphant@M@l@s
-Envisage@Eric Jones@M@n@s
-Chaco@Brandon DuRette@M@n@s
-Interactive Documents with IPython@Robert Kern; Toni Alatalo; Tzanko Matev; Fernando Perez@M@n@s
-NiPy NeuroImaging Software in Python@Matthew Brett@M@n@s
-Vision: A Visual Programming Component@Michel Sanner@M@n@s
-Using a generalized MPI interface for Python, MYMPI@Timothy Kaiser; Sarah Healy; Leesa Brieger@M@n@s
-##2005  14   1  13   1 Pexpect: 0.240000 Nexpect: 4 Pobs: 0.021448 Pover: 0.443232
+b'New Array Object for scipy.base'@b'Travis Oliphant'@M@0.99@n@s
+b'Off the Beaten Path: Advanced Matplotlib Features'@b'John Hunter'@M@1.00@n@s
+b'PyTrilinos: A Python Interface to Trilinos, a Set of Object-Oriented Solver Packages'@b'Bill Spotz'@M@0.99@n@s
+b'PDE Libraries in Python'@b'Matt Knepley'@M@1.00@n@s
+b'FiPy'@b'Daniel Wheeler'@M@1.00@n@s
+b'FiPy'@b'Jonathon Guyer'@M@1.00@n@s
+b'FiPy'@b'James Warren'@M@0.99@n@s
+b'Using AutoDock with AutoDockTools: A Tutorial'@b'Ruth Huey'@F@0.99@t@s
+b'Using AutoDock with AutoDockTools: A Tutorial'@b'Garret Morris'@M@1.00@t@s
+b'Using AutoDock with AutoDockTools: A Tutorial'@b'Michel Sanner'@M@0.65@t@s
+b'No title'@b'Fernando Perez'@M@1.00@l@s
+b'No title'@b'D. Brown'@U@-1.00@l@s
+b'No title'@b'Travis Oliphant'@M@0.99@l@s
+b'Envisage'@b'Eric Jones'@M@0.99@n@s
+b'Chaco'@b'Brandon DuRette'@M@0.99@n@s
+b'Interactive Documents with IPython'@b'Robert Kern'@M@0.99@n@s
+b'Interactive Documents with IPython'@b'Toni Alatalo'@F@0.99@n@s
+b'Interactive Documents with IPython'@b'Tzanko Matev'@M@-1.00@n@s
+b'Interactive Documents with IPython'@b'Fernando Perez'@M@1.00@n@s
+b'NiPy NeuroImaging Software in Python'@b'Matthew Brett'@M@1.00@n@s
+b'Vision: A Visual Programming Component'@b'Michel Sanner'@M@0.65@n@s
+b'Using a generalized MPI interface for Python, MYMPI'@b'Timothy Kaiser'@M@0.99@n@s
+b'Using a generalized MPI interface for Python, MYMPI'@b'Sarah Healy'@F@1.00@n@s
+b'Using a generalized MPI interface for Python, MYMPI'@b'Leesa Brieger'@F@1.00@n@s
+##2005  23   4  19   0 Pexpect: 0.240000 Nexpect: 6 Pobs: 0.161954 Pover: 0.486555

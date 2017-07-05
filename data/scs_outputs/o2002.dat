@@ -1,16 +1,19 @@
-Biological Sciences Libraries@Michel Sanner@M@t@s
-Lightning Talks I@Travis Vaught@M@l@s
-Lightning Talks II@Travis Vaught@M@l@s
-NumArray@Perry Greenfield@M@t@s
-PMV and underlying components@Michel Sanner@M@t@s
-Faster Python Weave, Accelerate@Eric Jones; Patrick Miller@M@n@s
-Astronomy@Perry Greenfield@M@b@s
-Biology@Michel Sanner@M@b@s
-Intro to Numeric@Eric Jones@M@t@s
-Intro to SciPy@Travis Oliphant@M@t@s
-Graphics@Dave Morrill; Eric Jones@M@t@s
-Parallel Computing@Patrick Miller@M@t@s
-Community Development - Standards, Peer Review, etc.(SciPy.org)@Michael Aivazis; Travis Vaught@M@b@s
-SciPy Library Development@Travis Oliphant@M@n@s
-Visual Programming Components@Michel Sanner@M@n@s
-##2002  15   0  15   0 Pexpect: 0.240000 Nexpect: 4 Pobs: 0.000000 Pover: 0.502238
+b'Biological Sciences Libraries'@b'Michel Sanner'@M@0.70@t@s
+b'Lightning Talks I'@b'Travis Vaught'@M@0.98@l@s
+b'Lightning Talks II'@b'Travis Vaught'@M@0.98@l@s
+b'NumArray'@b'Perry Greenfield'@M@0.98@t@s
+b'PMV and underlying components'@b'Michel Sanner'@M@0.70@t@s
+b'Faster Python Weave, Accelerate'@b'Eric Jones'@M@0.99@n@s
+b'Faster Python Weave, Accelerate'@b'Patrick Miller'@M@0.99@n@s
+b'Astronomy'@b'Perry Greenfield'@M@0.98@b@s
+b'Biology'@b'Michel Sanner'@M@0.70@b@s
+b'Intro to Numeric'@b'Eric Jones'@M@0.99@t@s
+b'Intro to SciPy'@b'Travis Oliphant'@M@0.98@t@s
+b'Graphics'@b'Dave Morrill'@M@0.99@t@s
+b'Graphics'@b'Eric Jones'@M@0.99@t@s
+b'Parallel Computing'@b'Patrick Miller'@M@0.99@t@s
+b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Michael Aivazis'@M@1.00@b@s
+b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Travis Vaught'@M@0.98@b@s
+b'SciPy Library Development'@b'Travis Oliphant'@M@0.98@n@s
+b'Visual Programming Components'@b'Michel Sanner'@M@0.70@n@s
+##2002  18   0  18   0 Pexpect: 0.240000 Nexpect: 5 Pobs: 0.000000 Pover: 0.441367

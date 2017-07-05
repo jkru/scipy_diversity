@@ -1,25 +1,10 @@
 ODIR = ../../data/scs_outputs
 
-stats : scipy_conf_stats.py name_class.py scipy_conf_parsers.py
+stats : outputs
 	rm -f ${ODIR}/scipy_stats
-	./scipy_conf_stats.py 2002 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2003 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2004 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2005 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2006 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2007 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2008 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2009 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2010 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2011 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2012 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2013 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2014 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2015 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2016 | grep '##' >> ${ODIR}/scipy.stats
-	./scipy_conf_stats.py 2017 | grep '##' >> ${ODIR}/scipy.stats
+	egrep -h '^##' ${ODIR}/o????.dat > ${ODIR}/scipy.stats
 
-outputs:
+outputs: scipy_conf_stats.py name_class.py scipy_conf_parsers.py
 	mkdir -p ${ODIR}/
 	./scipy_conf_stats.py 2002 > ${ODIR}/o2002.dat
 	./scipy_conf_stats.py 2003 > ${ODIR}/o2003.dat

@@ -1,31 +1,34 @@
-Astronomical data analysis@Perry Greenfield@M@t@s
-Bulding extensions with Numscons@David Cournapeau@M@t@s
-Writing optimized extensions with Cython@Robert Bradshaw@M@t@s
-Beyond pure python: Sage@William Stein@M@t@s
-Advanced NumPy@Stefan van der Walt@M@t@s
-Scientific GUI applications with the Enthought Toolset@Eric Jones@M@t@s
-Interactive plots using Chaco@ Peter Wang@M@t@s
-3-d visualization using TVTK and Mayavi@ Prabhu Ramachandran; Gael Varoquaux@M@t@s
-Welcome@Travis Vaught@M@n@s
-Keynote@Alex Martelli@M@k@s
-State of SciPy@Travis Vaught; Jarrod Millman@M@n@s
-Exploring network structure, dynamics, and function using NetworkX@Aric Hagberg@M@n@s
-Interval arithmetic: Python implementation and applications@Stefano Taschini@M@n@s
-Experiences Using Scipy for Computer Vision Research@Damian Eads@M@n@s
-The new NumPy documentation framework@StÃ©fan Van der Walt@M@n@s
-Matplotlib solves the riddle of the sphinx@Michael Droettboom@M@n@s
-The SciPy documentation project@Joe Harrington@M@n@s
-Sage: creating a viable free Python-based open source alternative to Magma, Maple, Mathematica and Matlab@William Stein@M@n@s
-How the Large Synoptic Survey Telescope (LSST) is using Python@Robert Lupton@M@n@s
-Real-time Astronomical Time-series Classification and Broadcast Pipeline@Dan Starr@M@n@s
-Analysis and Visualization of Multi-Scale Astrophysical Simulations using Python and NumPy@Matthew Turk@M@n@s
-Mayavi: Making 3D data visualization reusable@Prabhu Ramachandran; GaÃ«l Varoquaux@M@n@s
-Finite Element Modeling of Contact and Impact Problems Using Python@Ryan Krauss@M@n@s
-PyCircuitScape: A Tool for Landscape Ecology@Viral Shah@M@n@s
-Summarizing Complexity in High Dimensional Spaces@Karl Young@M@n@s
-UFuncs: A generic function mechanism in Python@Travis Oliphant@M@n@s
-NumPy Optimization: Manual tuning and automated approaches@Evan Patterson@M@n@s
-Converting Python functions to dynamically-compiled C@Ilan Schnell@M@n@s
-unPython: Converting Python numerical programs into C@Rahul Garg@M@n@s
-Implementing the Grammar of Graphics for Python@Robert Kern@M@n@s
+b'Astronomical data analysis'@b'Perry Greenfield'@M@0.99@t@s
+b'Bulding extensions with Numscons'@b'David Cournapeau'@M@0.99@t@s
+b'Writing optimized extensions with Cython'@b'Robert Bradshaw'@M@0.99@t@s
+b'Beyond pure python: Sage'@b'William Stein'@M@0.99@t@s
+b'Advanced NumPy'@b'Stefan van der Walt'@M@1.00@t@s
+b'Scientific GUI applications with the Enthought Toolset'@b'Eric Jones'@M@0.99@t@s
+b'Interactive plots using Chaco'@b'Peter Wang'@M@1.00@t@s
+b'3-d visualization using TVTK and Mayavi'@b'Prabhu Ramachandran'@M@-1.00@t@s
+b'3-d visualization using TVTK and Mayavi'@b'Gael Varoquaux'@M@-1.00@t@s
+b'Welcome'@b'Travis Vaught'@M@0.99@n@s
+b'Keynote'@b'Alex Martelli'@M@0.98@k@s
+b'State of SciPy'@b'Travis Vaught'@M@0.99@n@s
+b'State of SciPy'@b'Jarrod Millman'@M@1.00@n@s
+b'Exploring network structure, dynamics, and function using NetworkX'@b'Aric Hagberg'@M@1.00@n@s
+b'Interval arithmetic: Python implementation and applications'@b'Stefano Taschini'@M@1.00@n@s
+b'Experiences Using Scipy for Computer Vision Research'@b'Damian Eads'@M@0.97@n@s
+b'The new NumPy documentation framework'@b'St\xc3\x83\xc2\xa9fan Van der Walt'@U@-1.00@n@s
+b'Matplotlib solves the riddle of the sphinx'@b'Michael Droettboom'@M@0.99@n@s
+b'The SciPy documentation project'@b'Joe Harrington'@M@0.98@n@s
+b'Sage: creating a viable free Python-based open source alternative to Magma, Maple, Mathematica and Matlab'@b'William Stein'@M@0.99@n@s
+b'How the Large Synoptic Survey Telescope (LSST) is using Python'@b'Robert Lupton'@M@0.99@n@s
+b'Real-time Astronomical Time-series Classification and Broadcast Pipeline'@b'Dan Starr'@M@0.99@n@s
+b'Analysis and Visualization of Multi-Scale Astrophysical Simulations using Python and NumPy'@b'Matthew Turk'@M@1.00@n@s
+b'Mayavi: Making 3D data visualization reusable'@b'Prabhu Ramachandran'@M@-1.00@n@s
+b'Mayavi: Making 3D data visualization reusable'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@n@s
+b'Finite Element Modeling of Contact and Impact Problems Using Python'@b'Ryan Krauss'@M@0.99@n@s
+b'PyCircuitScape: A Tool for Landscape Ecology'@b'Viral Shah'@U@-1.00@n@s
+b'Summarizing Complexity in High Dimensional Spaces'@b'Karl Young'@M@0.97@n@s
+b'UFuncs: A generic function mechanism in Python'@b'Travis Oliphant'@M@0.99@n@s
+b'NumPy Optimization: Manual tuning and automated approaches'@b'Evan Patterson'@M@0.99@n@s
+b'Converting Python functions to dynamically-compiled C'@b'Ilan Schnell'@M@1.00@n@s
+b'unPython: Converting Python numerical programs into C'@b'Rahul Garg'@M@1.00@n@s
+b'Implementing the Grammar of Graphics for Python'@b'Robert Kern'@M@0.99@n@s
 ##2008  30   0  30   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.434521

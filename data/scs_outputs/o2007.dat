@@ -1,27 +1,34 @@
-Flight Software Code Generaton Tools for the Mars Science Laboratory@Leonard J. Reder@M@l@s
-Climate Data Analysis Tools@C. Doutriaux; D.N. Williams@U@l@s
-The Numenta Platform for Intelligent Computing@Numenta, Inc.@U@l@s
-Teaching Scientific Computing with Python@Rick Wagner@M@l@s
-PyStream: Stream and GPU computing in Python@Brian Granger@M@l@s
-TVTK and MayaVi2@Prabhu Ramachandran@M@l@s
-MLab@Gael Varoquaux@M@l@s
-TConfig - Traits-based declarative configuration for programs@Fernando Perez@M@l@s
-A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package@Bill Spotz@M@l@s
-Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.@Fernando Perez; Brian Granger@M@t@s
-Idiomatic Python@Titus Brown@M@t@s
-Wrapping Code with Python@Bill Spotz; Eric Jones@M@t@s
-SciPy for Signal Processing and Image Processing@Travis E. Oliphant@M@t@s
-Keynote@Ivan Krstic@M@k@s
-Python buffer interface@Travis Oliphant@M@n@s
-CorePy: Using Python on IBM's Cell/B.E.@Chris Mueller@M@n@s
-Python and the Mock LISA Data Challenges@Michele Vallisneri@F@n@s
-Interactive Plotting for Fun and Profit@Peter Wang@M@n@s
-Pygr: The Python Graph Database Framework for Bioinformatics@Chris Lee@M@n@s
-Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization@Enrico Vesperini; Doug Jones; Dave Goldberg; Steve McMillan@M@n@s
-Evolving Wavelets using Scipy: Analysis of Controlled Plasma Transients@Terence Yeoh@M@n@s
-The Cartwheel Project: Python tools for regulatory genomics@Titus Brown@M@n@s
-The Galaxy platform for accessible and reproducible scientific research@James Taylor@M@n@s
-Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)@Christfried Webers@M@n@s
-Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation@Ondrej Certik@M@n@s
-River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems@Gregory Benson; Alexey S. Fedosov@M@n@s
-##2007  24   1  23   2 Pexpect: 0.240000 Nexpect: 6 Pobs: 0.001379 Pover: 0.532568
+b'Flight Software Code Generaton Tools for the Mars Science Laboratory'@b'Leonard J. Reder'@M@0.99@l@s
+b'Climate Data Analysis Tools'@b'C. Doutriaux'@U@-1.00@l@s
+b'Climate Data Analysis Tools'@b'D.N. Williams'@U@-1.00@l@s
+b'The Numenta Platform for Intelligent Computing'@b'Inc. Numenta'@U@-1.00@l@s
+b'Teaching Scientific Computing with Python'@b'Rick Wagner'@M@1.00@l@s
+b'PyStream: Stream and GPU computing in Python'@b'Brian Granger'@M@1.00@l@s
+b'TVTK and MayaVi2'@b'Prabhu Ramachandran'@M@-1.00@l@s
+b'MLab'@b'Gael Varoquaux'@F@1.00@l@s
+b'TConfig - Traits-based declarative configuration for programs'@b'Fernando Perez'@M@1.00@l@s
+b'A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package'@b'Bill Spotz'@M@1.00@l@s
+b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Fernando Perez'@M@1.00@t@s
+b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Brian Granger'@M@1.00@t@s
+b'Idiomatic Python'@b'Titus Brown'@M@1.00@t@s
+b'Wrapping Code with Python'@b'Bill Spotz'@M@1.00@t@s
+b'Wrapping Code with Python'@b'Eric Jones'@M@0.99@t@s
+b'SciPy for Signal Processing and Image Processing'@b'Travis E. Oliphant'@M@0.99@t@s
+b'Keynote'@b'Ivan Krstic'@M@0.99@k@s
+b'Python buffer interface'@b'Travis Oliphant'@M@0.99@n@s
+b"CorePy: Using Python on IBM's Cell/B.E."@b'Chris Mueller'@M@0.93@n@s
+b'Python and the Mock LISA Data Challenges'@b'Michele Vallisneri'@F@0.99@n@s
+b'Interactive Plotting for Fun and Profit'@b'Peter Wang'@M@1.00@n@s
+b'Pygr: The Python Graph Database Framework for Bioinformatics'@b'Chris Lee'@M@0.93@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Enrico Vesperini'@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Doug Jones'@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Dave Goldberg'@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Steve McMillan'@M@0.99@n@s
+b'Evolving Wavelets using Scipy: Analysis of Controlled Plasma Transients'@b'Terence Yeoh'@M@0.99@n@s
+b'The Cartwheel Project: Python tools for regulatory genomics'@b'Titus Brown'@M@1.00@n@s
+b'The Galaxy platform for accessible and reproducible scientific research'@b'James Taylor'@M@0.99@n@s
+b'Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)'@b'Christfried Webers'@M@-1.00@n@s
+b'Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation'@b'Ondrej Certik'@M@-1.00@n@s
+b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Gregory Benson'@M@1.00@n@s
+b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Alexey S. Fedosov'@M@-1.00@n@s
+##2007  30   2  28   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.002783 Pover: 0.434521
