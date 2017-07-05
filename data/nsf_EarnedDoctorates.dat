@@ -1,0 +1,93 @@
+## Table 15 from NSF Survey of Earned Doctorates
+#  Reformatted counts of field/year, with only broad categories retained
+#  Original table: https://www.nsf.gov/statistics/2017/nsf17306/datatables/tab-15.htm
+#  Survey description: https://www.nsf.gov/statistics/srvydoctorates/
+broad_field	year	female	male
+"Engineering"	2005	1182	5226
+"Engineering"	2006	1452	5729
+"Engineering"	2007	1605	6141
+"Engineering"	2008	1693	6168
+"Engineering"	2009	1631	6006
+"Engineering"	2010	1746	5829
+"Engineering"	2011	1782	6242
+"Engineering"	2012	1887	6566
+"Engineering"	2013	2052	6947
+"Engineering"	2014	2185	7407
+"Engineering"	2015	2301	7596
+"Education"	2005	4152	2065
+"Education"	2006	3985	2130
+"Education"	2007	4344	2103
+"Education"	2008	4402	2158
+"Education"	2009	4366	2161
+"Education"	2010	3624	1662
+"Education"	2011	3234	1432
+"Education"	2012	3299	1500
+"Education"	2013	3364	1571
+"Education"	2014	3312	1469
+"Education"	2015	3502	1614
+"Life sciences"	2005	4735	4561
+"Life sciences"	2006	5006	4690
+"Life sciences"	2007	5497	5197
+"Life sciences"	2008	5859	5223
+"Life sciences"	2009	6210	5183
+"Life sciences"	2010	6213	5101
+"Life sciences"	2011	6289	5244
+"Life sciences"	2012	6615	5335
+"Life sciences"	2013	6714	5492
+"Life sciences"	2014	6931	5514
+"Life sciences"	2015	6941	5578
+"Otherb"	2005	1184	1203
+"Otherb"	2006	1251	1324
+"Otherb"	2007	1460	1374
+"Otherb"	2008	1375	1386
+"Otherb"	2009	1385	1420
+"Otherb"	2010	1400	1326
+"Otherb"	2011	1400	1283
+"Otherb"	2012	1369	1360
+"Otherb"	2013	1543	1479
+"Otherb"	2014	1553	1477
+"Otherb"	2015	1564	1464
+"Psychology and social sciences"	2005	3985	3159
+"Psychology and social sciences"	2006	4154	3072
+"Psychology and social sciences"	2007	4278	3028
+"Psychology and social sciences"	2008	4464	3171
+"Psychology and social sciences"	2009	4646	3297
+"Psychology and social sciences"	2010	4524	3358
+"Psychology and social sciences"	2011	4889	3332
+"Psychology and social sciences"	2012	4958	3539
+"Psychology and social sciences"	2013	5077	3501
+"Psychology and social sciences"	2014	5220	3509
+"Psychology and social sciences"	2015	5332	3762
+"Physical sciences and earth sciences"	2005	1216	3141
+"Physical sciences and earth sciences"	2006	1360	3321
+"Physical sciences and earth sciences"	2007	1508	3447
+"Physical sciences and earth sciences"	2008	1440	3505
+"Physical sciences and earth sciences"	2009	1618	3534
+"Physical sciences and earth sciences"	2010	1615	3379
+"Physical sciences and earth sciences"	2011	1640	3629
+"Physical sciences and earth sciences"	2012	1730	3685
+"Physical sciences and earth sciences"	2013	1864	3717
+"Physical sciences and earth sciences"	2014	1925	3969
+"Physical sciences and earth sciences"	2015	1988	3935
+"Mathematics and computer sciences"	2005	547	1782
+"Mathematics and computer sciences"	2006	704	2074
+"Mathematics and computer sciences"	2007	734	2307
+"Mathematics and computer sciences"	2008	833	2353
+"Mathematics and computer sciences"	2009	832	2327
+"Mathematics and computer sciences"	2010	814	2409
+"Mathematics and computer sciences"	2011	813	2456
+"Mathematics and computer sciences"	2012	855	2638
+"Mathematics and computer sciences"	2013	868	2792
+"Mathematics and computer sciences"	2014	934	2913
+"Mathematics and computer sciences"	2015	943	2880
+"Humanities and arts"	2005	2581	2600
+"Humanities and arts"	2006	2647	2681
+"Humanities and arts"	2007	2478	2605
+"Humanities and arts"	2008	2428	2308
+"Humanities and arts"	2009	2499	2404
+"Humanities and arts"	2010	2553	2462
+"Humanities and arts"	2011	2654	2573
+"Humanities and arts"	2012	2818	2742
+"Humanities and arts"	2013	2885	2829
+"Humanities and arts"	2014	2762	2760
+"Humanities and arts"	2015	2832	2767
