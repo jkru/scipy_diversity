@@ -26,6 +26,7 @@ external_authors = {
     'gaël'      : 'M',
     'gaÃ«l' : 'M',
     'ga\xc3\x83\xc2\xabl' : 'M',
+    'ga\xc3\xabl' : 'M',
     'gholamreza' : 'M',
     'francesc'  : 'M',
     'idesbald'  : 'M',
@@ -137,6 +138,8 @@ def override(fn,ln):
     check_name += fn.lower()
     check_name += " "
     check_name += ln.lower()
+    check_name = check_name.rstrip().lstrip()
+
     if check_name in override_authors:
         return(override_authors[check_name], -1)
     else:
@@ -218,7 +221,7 @@ def author_class(author_string,year):
         gender = ""
         g_frac = -1
         if override(fn,ln) is not None:
-            gender,g_frac = override(fn,ln)
+            gender, g_frac = override(fn,ln)
         else:
             gender, g_frac = name_class(fn,year)
 
