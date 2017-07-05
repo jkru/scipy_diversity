@@ -154,15 +154,33 @@ def author_class(author_string,year):
     author_list = list()
     author_string = str(author_string)
     authors = author_string.split(";")
+#    print(">A>%s<<<" % author_string.encode('utf-8'))
     for auth in authors:
         auth = re.sub("\s+"," ",auth)
+#        print(">>%s<<" % auth.encode('utf-8'))
+        
         if re.search(":",auth) is not None:
             trash,auth = auth.split(": ", 1)
         if re.search(",",auth) is not None:
-            auth,affil = auth.split(",", 1)
-            if len(auth.split(" ")) == 1:
-                # This is the case of (ln, fn) type names
-                auth = affil + " " + auth 
+            if auth.count(',') == 2:
+
+                ln, fn, affil = auth.split(",", 2)
+                ln = ln.rstrip().lstrip()
+                fn = fn.rstrip().lstrip()
+                if (len(ln.split(" ")) == 1) and (len(fn.split(" ")) == 1):
+                    auth = fn + " " + ln
+                elif len(ln.split(" ")) > 1:
+                    auth = ln
+
+#                print ("In check value 2: %s %d %d %s %s" % (auth.encode('utf-8'), len(ln.split(" ")), len(fn.split(" ")), fn.encode('utf-8'), ln.encode('utf-8')))
+                    
+            else:
+                auth,affil = auth.split(",", 1)
+                if len(auth.split(" ")) == 1:
+                    # This is the case of (ln, fn) type names
+                    auth = affil + " " + auth
+#                    print("In check value else: %s" % auth.encode('utf-8'))
+                    
 
         auth = auth.rstrip().lstrip()
         fn = ""
@@ -178,8 +196,9 @@ def author_class(author_string,year):
             gender,g_frac = override(fn,ln)
         else:
             gender, g_frac = name_class(fn,year)
-            
-        author_list.append( (auth, gender, g_frac) )
+
+        if auth != "":
+            author_list.append( (auth, gender, g_frac) )
 #        print("     >>%s<< >%s< %s %f" % (fn.encode('utf-8'), auth.encode('utf-8'), gender, g_frac))
 
     return author_list
