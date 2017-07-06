@@ -44,7 +44,7 @@ external_authors = {
     'idesbald'  : 'M',
     'iqbal' : 'M',
     'isuru' : 'M',
-    'jaako' : 'M',
+    'jaakko' : 'M',
     'jean-christophe' : 'M',
     'jean-luc' : 'M',
     'jean-r\xc3\xa9mi' : 'M',
