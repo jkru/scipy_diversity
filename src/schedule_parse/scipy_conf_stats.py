@@ -102,10 +102,20 @@ talk_df = pd.DataFrame();
 
 for talk in talks:
     title,author,talk_type,talk_source = talk
-    author = re.sub('g.*?l varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
-    author = re.sub('s.*?n van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
-    author = re.sub('d.*?n avila','Damian Avila', author, flags=re.IGNORECASE)
+
+#    print (author.encode('utf-8'))
+    author = re.sub('g\w+?l\s+varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
+    author = re.sub('s\w+?n\s+van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
+    author = re.sub('d\w+?n\s+avila','Damian Avila', author, flags=re.IGNORECASE)
     author = re.sub('carissa, geodecisions','Carissa Brittain', author, flags=re.IGNORECASE)
+    author = re.sub('o\w+?j\s+\w+?ert\w+?k','Ondrej Certik', author, flags=re.IGNORECASE)
+    author = re.sub('s.*?ren\s+sonnenburg','Soren Sonnenburg', author, flags=re.IGNORECASE)
+    author = re.sub('B\w+?n\s+Dahlgren','Bjorn Dahlgren', author) #, flags=re.IGNORECASE)
+    author = re.sub('R.+?i\s+?Rampin','Remi Rampin', author) #, flags=re.IGNORECASE)
+    author = re.sub('Jean-R\w+?mi\s+King','Jean-Remi King', author) #, flags=re.IGNORECASE)
+    author = re.sub('s\w+?n buchoux','Sebastien Buchoux', author, flags=re.IGNORECASE)
+#    print (author.encode('utf-8'))
+
     authors = name_class.author_class(author,year)
     for author_index in range(0,len(authors)):
 
