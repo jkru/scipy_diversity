@@ -6,12 +6,12 @@ b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Alexandre Gramfort'
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Eric Larson'@M@0.99@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Denis Engemann'@M@0.88@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jaakko Lepp\xc3\xa4kangas'@U@-1.00@n@s
-b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Mainak Jas'@U@-1.00@n@s
+b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Mainak Jas'@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Christian Brodbeck'@M@0.85@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Teon B Brooks'@M@1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jean-R\xc3\xa9mi King'@U@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Chris Holdgraf'@M@0.89@n@s
-b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Marijn van Vliet'@U@-1.00@n@s
+b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Marijn van Vliet'@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Matti Hamalainen'@F@1.00@n@s
 b'Dataflow Notebooks: Encoding and Using Cell Dependencies'@b'David Koop'@M@0.99@n@s
 b'Global 5 Meter Resolution Time Series Mosaics'@b'Amit Kapadia'@M@1.00@n@s
@@ -19,13 +19,13 @@ b'pulse2percept: A Python-based Simulation Framework for Bionic Vision'@b'Michae
 b'pulse2percept: A Python-based Simulation Framework for Bionic Vision'@b'Ariel Rokem'@M@-1.00@n@s
 b'pulse2percept: A Python-based Simulation Framework for Bionic Vision'@b'Geoffrey M. Boynton'@M@0.99@n@s
 b'pulse2percept: A Python-based Simulation Framework for Bionic Vision'@b'Ione Fine'@F@1.00@n@s
-b'bqplot - Seamless Interactive Visualizations in the Jupyter Notebook'@b'Dhruv Madeka'@U@-1.00@n@s
+b'bqplot - Seamless Interactive Visualizations in the Jupyter Notebook'@b'Dhruv Madeka'@M@-1.00@n@s
 b'From the Field to Geostationary Orbit: Mapping Lightning with Python'@b'Eric Bruning'@M@0.99@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Jaime Arias'@F@0.62@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Philippe Ciuciu'@M@1.00@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Michel Dojat'@M@0.63@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Florence Forbes'@F@1.00@n@s
-b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Aina Frau-Pascual'@U@-1.00@n@s
+b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Aina Frau-Pascual'@F@-1.00@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Thomas Perret'@M@0.99@n@s
 b'PyHRF: A Python Library for the Analysis of fMRI Data Based on the Study of Hemodynamics'@b'Jan Warnking'@F@0.53@n@s
 b'nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook'@b'Jessica Hamrick'@F@1.00@n@s
@@ -42,7 +42,7 @@ b'Robust Color Matching of Geospatial Data: An Alternative to Histogram Matching
 b'Using Mystic to Accelerate Data Science'@b'Michael McKerns'@M@0.99@n@s
 b'Quantifying Plastic Deformation using Machine Learning'@b'Michail Tzimas'@M@1.00@n@s
 b'Berryconda : Scientific Python on the Raspberry Pi'@b'Jonathan Helmus'@M@0.99@n@s
-b'Reskit \xe2\x80\x94 A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning'@b'Dmitry Petrov'@U@-1.00@n@s
+b'Reskit \xe2\x80\x94 A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning'@b'Dmitry Petrov'@M@-1.00@n@s
 b'Reskit \xe2\x80\x94 A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning'@b'Alexander Ivanov'@M@0.98@n@s
 b'Reskit \xe2\x80\x94 A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning'@b'Daniel Moyer'@M@0.99@n@s
 b'Materials Project - A Prime Case of Software Engineering in Materials Sciences'@b'Patrick Huck'@M@0.99@n@s
@@ -56,14 +56,14 @@ b'Composable Multiprocessing and Multithreading for Numeric Libraries'@b'Anton G
 b'Composable Multiprocessing and Multithreading for Numeric Libraries'@b'Terry Wilmarth'@M@0.92@n@s
 b'Bringing the Generic Mapping Tools to Python'@b'Leonardo Uieda'@M@0.98@n@s
 b'Bringing the Generic Mapping Tools to Python'@b'Paul Wessel'@M@0.99@n@s
-b'Sarkas: A Fast Pure-Python Molecular Dynamics Code'@b'Gautham Dharuman'@U@-1.00@n@s
+b'Sarkas: A Fast Pure-Python Molecular Dynamics Code'@b'Gautham Dharuman'@M@-1.00@n@s
 b'Sarkas: A Fast Pure-Python Molecular Dynamics Code'@b'Michael S. Murillo'@M@0.99@n@s
-b'Sarkas: A Fast Pure-Python Molecular Dynamics Code'@b'Yongjun Choi'@U@-1.00@n@s
+b'Sarkas: A Fast Pure-Python Molecular Dynamics Code'@b'Yongjun Choi'@M@-1.00@n@s
 b'Dash - A New Framework for Building User Interfaces for Technical Computing'@b'Chris Parmer'@M@0.89@n@s
 b'Interactive Geophysics'@b'Lindsey Heagy'@F@0.98@n@s
 b'Interactive Geophysics'@b'Rowan Cockett'@M@0.63@n@s
 b'Optimised Finite Difference Computation from Symbolic Equations'@b'Michael Lange'@M@0.99@n@s
-b'Optimised Finite Difference Computation from Symbolic Equations'@b'Navjot Kukreja'@U@-1.00@n@s
+b'Optimised Finite Difference Computation from Symbolic Equations'@b'Navjot Kukreja'@M@-1.00@n@s
 b'Optimised Finite Difference Computation from Symbolic Equations'@b'Fabio Luporini'@M@1.00@n@s
 b'Optimised Finite Difference Computation from Symbolic Equations'@b'Mathias Louboutin'@M@1.00@n@s
 b'Optimised Finite Difference Computation from Symbolic Equations'@b'Gerard Gorman'@M@1.00@n@s
@@ -74,9 +74,9 @@ b'Diversity Luncheon'@b'Tracy Teal'@F@0.90@n@s
 b'The Spyder Ecosystem of Plugins'@b'Carlos Cordoba'@M@0.99@n@s
 b'Make it Work, Make it Right, Make it Fast - Debugging and Profiling in Dask'@b'James Crist'@M@0.99@n@s
 b'Predicting Phenotype from Genotype with Machine Learning'@b'Patricia Francis-Lyon'@F@0.99@n@s
-b'Predicting Phenotype from Genotype with Machine Learning'@b'Shraddha Lanka'@U@-1.00@n@s
+b'Predicting Phenotype from Genotype with Machine Learning'@b'Shraddha Lanka'@F@-1.00@n@s
 b'Predicting Phenotype from Genotype with Machine Learning'@b'Lakshmi Navin Arbatti'@F@1.00@n@s
-b'Predicting Phenotype from Genotype with Machine Learning'@b'Gaurika Tyagi'@U@-1.00@n@s
+b'Predicting Phenotype from Genotype with Machine Learning'@b'Gaurika Tyagi'@F@-1.00@n@s
 b'Predicting Phenotype from Genotype with Machine Learning'@b'Hung Do'@M@1.00@n@s
 b'The Demeshening: The Next Generation of Particle Support in yt'@b'Nathan Goldbaum'@M@0.99@n@s
 b'The Demeshening: The Next Generation of Particle Support in yt'@b'Meagan Lang'@F@1.00@n@s
@@ -96,7 +96,7 @@ b'Introducing JOSS: The Journal of Open Source Software'@b'Daniel Katz'@M@0.99@n
 b'Introducing JOSS: The Journal of Open Source Software'@b'Christopher Madan'@M@0.99@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Abigail Cabunoc Mayes'@F@1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Kevin Moerman'@M@0.99@n@s
-b'Introducing JOSS: The Journal of Open Source Software'@b'Pjotr Prins'@U@-1.00@n@s
+b'Introducing JOSS: The Journal of Open Source Software'@b'Pjotr Prins'@M@-1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Karthik Ram'@M@1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Ariel Rokem'@M@-1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Tracy Teal'@F@0.90@n@s
@@ -121,17 +121,17 @@ b'PyGBe: Python, GPUs and Boundary Elements for Biomolecular Electrostatics'@b'G
 b'PyGBe: Python, GPUs and Boundary Elements for Biomolecular Electrostatics'@b'Lorena Barba'@F@0.99@n@s
 b'Scientific Analysis at Scale: a Comparison of Five Systems'@b'Jake VanderPlas'@M@1.00@n@s
 b'NEXT: Machine Learning, Crowdsourcing, and Cartoons'@b'Scott Sievert'@M@0.99@n@s
-b'LabbookDB'@b'Horea-Ioan Ioanas'@U@-1.00@n@s
+b'LabbookDB'@b'Horea-Ioan Ioanas'@M@-1.00@n@s
 b'Learning in Cycles: Implementing Sustainable Machine Learning Models in Production'@b'Andrew Therriault'@M@0.99@n@s
 b'MetPy\xe2\x80\x99s Choice of Unit Support: A Descent into Madness'@b'Ryan May'@M@0.98@n@s
 b'MetPy\xe2\x80\x99s Choice of Unit Support: A Descent into Madness'@b'John Leeman'@M@0.99@n@s
 b'A Fast Template Periodogram for Finding Periodic (Non-Sinusoidal) Waveforms in Noisy, Irregularly-Sampled Time Series Data'@b'John Hoffman'@M@0.99@n@s
-b'Fully Convolutional Networks for Image Segmentation'@b'Daniil Pakhomov'@U@-1.00@n@s
+b'Fully Convolutional Networks for Image Segmentation'@b'Daniil Pakhomov'@M@-1.00@n@s
 b'Deep Learning with Geospatial Data'@b'Shane Grigsby'@M@0.98@n@s
 b'Vizic: A Jupyter-Based Interactive Visualization Tool for Astronomical Catalogs'@b'Weixiang Yu'@M@-1.00@n@s
 b'hybrid-vocal-classifier (HVC): a Python Package to Automate Labeling of Birdsong for Behavioral Experiments'@b'David Nicholson'@M@0.99@n@s
 b'WARNO: Multi-platform Monitoring Framework for Remote Sensing Instrumentation.'@b'Joseph Hardin'@M@0.99@n@s
-b'Stingray : A Library of Time Series Methods for Astronomical X-Ray Data'@b'Himanshu Mishra'@U@-1.00@n@s
+b'Stingray : A Library of Time Series Methods for Astronomical X-Ray Data'@b'Himanshu Mishra'@M@-1.00@n@s
 b'Stingray : A Library of Time Series Methods for Astronomical X-Ray Data'@b'Daniela Huppenkothen'@F@0.98@n@s
 b'Stingray : A Library of Time Series Methods for Astronomical X-Ray Data'@b'Usman Khan'@M@1.00@n@s
 b'Efficient Image Search and Identification: The Making of Wine-O.AI'@b'Michelle Gill'@F@1.00@n@s
@@ -174,5 +174,5 @@ b'Network Science and Statistics: Fundamentals and Applications (Intermediate)'@
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Alexandre Gramfort'@M@0.89@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Mark Wickert'@M@0.99@t@s
-b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@U@-1.00@t@s
-##2017 158  32 126  19 Pexpect: 0.240000 Nexpect: 38 Pobs: 0.114300 Pover: 0.524744
+b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@M@-1.00@t@s
+##2017 173  35 138   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.103901 Pover: 0.495242

@@ -12,5 +12,5 @@
 ##2013 161  15 146   5 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898
 ##2014 189  20 169   0 Pexpect: 0.240000 Nexpect: 46 Pobs: 0.000001 Pover: 0.484593
 ##2015 171  18 153   0 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055
-##2016 175  21 154   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000021 Pover: 0.529161
-##2017 158  32 126  19 Pexpect: 0.240000 Nexpect: 38 Pobs: 0.114300 Pover: 0.524744
+##2016 176  21 155   3 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000018 Pover: 0.475610
+##2017 173  35 138   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.103901 Pover: 0.495242

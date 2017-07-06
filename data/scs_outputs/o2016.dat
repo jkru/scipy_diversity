@@ -93,7 +93,7 @@ b'JupyterLab: Building Blocks for Interactive Computing'@b'Sylvain Corlay'@M@-1.
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Chris Colbert'@M@0.92@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Cameron Oelsen'@M@0.88@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'David Willmer'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Afshin Darian'@U@-1.00@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Afshin Darian'@M@-1.00@n@s
 b"A String Theorist's Journey with Python"@b'Chan Park'@M@0.54@n@s
 b'Give Your Data an Entrance Exam: Tools from Psychometrics for Data Quality Evaluation'@b'Katie Malone'@F@1.00@n@s
 b'Keynote: Machine Learning for Social Science'@b'Hanna Wallach'@F@0.95@k@s
@@ -177,4 +177,4 @@ b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0
 b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@M@0.99@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@M@1.00@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@F@0.91@t@s
-##2016 175  21 154   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000021 Pover: 0.529161
+##2016 176  21 155   3 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000018 Pover: 0.475610
