@@ -45,7 +45,7 @@ b'Python and Machine Learning enabling Space Weather Applications'@b'Josef Kolle
 b'Generating Realistic Damage Models for Composite Materials using the Python Programming Language'@b'Mark Benedict'@M@0.99@n@s
 b'Open Knowledge Packages and CKAN, an Archive Network|  '@b'Bryan Bishop'@M@1.00@n@s
 b'Do Google, Bing, & Yahoo Differ? Contingency Table Analysis on Search Engines'@b'Anthony M. Scopatz'@M@0.99@n@s
-b'Building Web Gateways to Scientific Computing in Python'@b'Shreyas Cholia'@U@-1.00@n@s
+b'Building Web Gateways to Scientific Computing in Python'@b'Shreyas Cholia'@M@-1.00@n@s
 b'luban: uses pure python to write web application'@b'Video 2'@M@-1.00@n@s
 b'Keynote: '@b'Travis Oliphant'@M@0.99@k@s
 b'Unusual Relationships : Python and Weaver Birds'@b'Kadambari Devarajan'@F@-1.00@n@s
@@ -88,7 +88,7 @@ b'Uncertainty Quantifications in mystic'@b'Mike McKerns'@M@0.99@l@s
 b'Serialization of Python Objects with dill '@b'Mike McKerns'@M@0.99@l@s
 b'Bayesian Estimation Example Using PyMC'@b'Dan Williams'@M@0.99@l@s
 b'Python/NumPy for Epigenetics'@b'Brent Pedersen'@M@0.99@l@s
-b'Scikits.image'@b'S. Chris Colbert & St\xc3\x83\xc2\xa9fan van der Walt'@U@-1.00@l@s
+b'Scikits.image'@b'Stefan van der Walt'@M@1.00@l@s
 b'Fwrap: Wrap Fortran in C, Cython & Python. Automagically.'@b'Kurt Smith'@M@1.00@l@s
 b'Apple Push Notification with Python'@b'Mark Benedict'@M@0.99@l@s
 b'TEAL: A New Parameter GUI for Python Tasks'@b'Warren Hack'@M@0.99@l@s
@@ -100,4 +100,4 @@ b'Python in Geophysical Hazard Prediction'@b'Kyle Mandli'@M@0.97@l@s
 b'Radar Emulation Using NumPy'@b'Baseem Ali'@M@-1.00@l@s
 b'Matplotlib Gallery Improvements'@b'Josh Hemann'@M@1.00@l@s
 b'Python Evangelism 101'@b'Peter Wang'@M@1.00@l@s
-##2010  98   4  94   4 Pexpect: 0.240000 Nexpect: 24 Pobs: 0.000000 Pover: 0.493656
+##2010 100   4  96   2 Pexpect: 0.240000 Nexpect: 24 Pobs: 0.000000 Pover: 0.538551

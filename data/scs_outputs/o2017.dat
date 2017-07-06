@@ -85,7 +85,7 @@ b'Tomviz: A Platform for Reproducible Materials Tomography'@b'Marcus Hanwell'@M@
 b'Make Your Observational Study an Experiment'@b'Peter Skipper'@M@0.99@n@s
 b'Deploying Interactive Jupyter Dashboards for Visualizing Hundreds of Millions of Datapoints, in 30 Lines of Python'@b'Philipp Rudiger'@M@1.00@n@s
 b'Deploying Interactive Jupyter Dashboards for Visualizing Hundreds of Millions of Datapoints, in 30 Lines of Python'@b'James A. Bednar'@M@0.99@n@s
-b'Deploying Interactive Jupyter Dashboards for Visualizing Hundreds of Millions of Datapoints, in 30 Lines of Python'@b'Jean-Luc Stevens'@U@-1.00@n@s
+b'Deploying Interactive Jupyter Dashboards for Visualizing Hundreds of Millions of Datapoints, in 30 Lines of Python'@b'Jean-Luc Stevens'@M@-1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Kyle Niemeyer'@M@0.98@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Arfon Smith'@M@-1.00@n@s
 b'Introducing JOSS: The Journal of Open Source Software'@b'Lorena Barba'@F@0.99@n@s
@@ -107,7 +107,7 @@ b'Creating Reproducible Experiments with ReproZip'@b'Vicky Steeves'@F@0.98@n@s
 b'Creating Reproducible Experiments with ReproZip'@b'Fernando Chirigati'@M@0.99@n@s
 b'Creating Reproducible Experiments with ReproZip'@b'R\xc3\xa9mi Rampin'@U@-1.00@n@s
 b'Efficient Array Computing in C++ with xtensor and Apache Arrow'@b'Johan Mabille'@M@1.00@n@s
-b'Efficient Array Computing in C++ with xtensor and Apache Arrow'@b'Sylvain Corlay'@U@-1.00@n@s
+b'Efficient Array Computing in C++ with xtensor and Apache Arrow'@b'Sylvain Corlay'@M@-1.00@n@s
 b'Hunting for Emerging Trends in Music Using Bayesian Inference'@b'Alex Companioni'@M@0.98@n@s
 b'Sacred: How I Learned to Stop Worrying and Love the Research'@b'Klaus Greff'@M@1.00@n@s
 b'Keynote: Drilling the Chicxulub Impact Structure: Study of Large Impact Formation and Effects on Life during IODP/ICDP Expedition 364'@b'Sean Gulick'@M@0.99@k@s
@@ -150,11 +150,11 @@ b'Modern Optimization Methods in Python (Intermediate/Advanced)'@b'Michael McKer
 b'Software Carpentry Scientific Python Course Part 2 (Beginner)'@b'Maxim Belkin'@M@1.00@t@s
 b'Computational Statistics (Beginner)'@b'Allen Downey'@M@0.99@t@s
 b'The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)'@b'Matt Craig'@M@1.00@n@s
-b'The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)'@b'Sylvain Corlay'@U@-1.00@n@s
+b'The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)'@b'Sylvain Corlay'@M@-1.00@n@s
 b'The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)'@b'Jason Grout'@M@0.99@n@s
 b'HDF5 take 2: h5py & PyTables (Intermediate/Advanced)'@b'Tom Kooij'@M@1.00@n@s
 b'Interactive Data Visualization with HoloViews & Bokeh (Advanced)'@b'Philipp Rudiger'@M@1.00@t@s
-b'Interactive Data Visualization with HoloViews & Bokeh (Advanced)'@b'Jean-Luc Stevens'@U@-1.00@t@s
+b'Interactive Data Visualization with HoloViews & Bokeh (Advanced)'@b'Jean-Luc Stevens'@M@-1.00@t@s
 b'Interactive Data Visualization with HoloViews & Bokeh (Advanced)'@b'Bryan Van de Ven'@M@0.99@t@s
 b'Introduction to Numerical Computing with NumPy (Beginner)'@b'Dillon Niederhut'@M@1.00@t@s
 b'Pandas for Data Analysis (Beginner)'@b'Daniel Chen'@M@0.99@t@s
@@ -167,7 +167,7 @@ b'Parallel Data Analysis in Python (Intermediate)'@b'Matthew Rocklin'@M@0.99@t@s
 b'Parallel Data Analysis in Python (Intermediate)'@b'Ben Zaitlen'@M@0.98@t@s
 b'Parallel Data Analysis in Python (Intermediate)'@b'Aron Ahmadia'@M@0.94@t@s
 b'Anatomy of Matplotlib (Beginner)'@b'Ben Root'@M@0.98@t@s
-b'scikit-image: Image Processing for Python (Intermediate)'@b'St\xc3\xa9fan van der Walt'@M@-1.00@t@s
+b'scikit-image: Image Processing for Python (Intermediate)'@b'Stefan van der Walt'@M@1.00@t@s
 b'scikit-image: Image Processing for Python (Intermediate)'@b'Emmanuelle Gouillart'@F@0.60@t@s
 b'scikit-image: Image Processing for Python (Intermediate)'@b'Claire McQuin'@F@1.00@t@s
 b'Network Science and Statistics: Fundamentals and Applications (Intermediate)'@b'Eric Ma'@M@0.99@t@s
@@ -175,4 +175,4 @@ b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Andreas Mueller'
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Alexandre Gramfort'@M@0.89@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Mark Wickert'@M@0.99@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@U@-1.00@t@s
-##2017 154  32 122  23 Pexpect: 0.240000 Nexpect: 37 Pobs: 0.151113 Pover: 0.528073
+##2017 158  32 126  19 Pexpect: 0.240000 Nexpect: 38 Pobs: 0.114300 Pover: 0.524744

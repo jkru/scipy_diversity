@@ -14,7 +14,7 @@ b'State of SciPy'@b'Jarrod Millman'@M@1.00@n@s
 b'Exploring network structure, dynamics, and function using NetworkX'@b'Aric Hagberg'@M@1.00@n@s
 b'Interval arithmetic: Python implementation and applications'@b'Stefano Taschini'@M@1.00@n@s
 b'Experiences Using Scipy for Computer Vision Research'@b'Damian Eads'@M@0.97@n@s
-b'The new NumPy documentation framework'@b'St\xc3\x83\xc2\xa9fan Van der Walt'@U@-1.00@n@s
+b'The new NumPy documentation framework'@b'Stefan van der Walt'@M@1.00@n@s
 b'Matplotlib solves the riddle of the sphinx'@b'Michael Droettboom'@M@0.99@n@s
 b'The SciPy documentation project'@b'Joe Harrington'@M@0.98@n@s
 b'Sage: creating a viable free Python-based open source alternative to Magma, Maple, Mathematica and Matlab'@b'William Stein'@M@0.99@n@s
@@ -22,7 +22,7 @@ b'How the Large Synoptic Survey Telescope (LSST) is using Python'@b'Robert Lupto
 b'Real-time Astronomical Time-series Classification and Broadcast Pipeline'@b'Dan Starr'@M@0.99@n@s
 b'Analysis and Visualization of Multi-Scale Astrophysical Simulations using Python and NumPy'@b'Matthew Turk'@M@1.00@n@s
 b'Mayavi: Making 3D data visualization reusable'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'Mayavi: Making 3D data visualization reusable'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@n@s
+b'Mayavi: Making 3D data visualization reusable'@b'Gael Varoquaux'@M@-1.00@n@s
 b'Finite Element Modeling of Contact and Impact Problems Using Python'@b'Ryan Krauss'@M@0.99@n@s
 b'PyCircuitScape: A Tool for Landscape Ecology'@b'Viral Shah'@M@-1.00@n@s
 b'Summarizing Complexity in High Dimensional Spaces'@b'Karl Young'@M@0.97@n@s
@@ -31,4 +31,4 @@ b'NumPy Optimization: Manual tuning and automated approaches'@b'Evan Patterson'@
 b'Converting Python functions to dynamically-compiled C'@b'Ilan Schnell'@M@1.00@n@s
 b'unPython: Converting Python numerical programs into C'@b'Rahul Garg'@M@1.00@n@s
 b'Implementing the Grammar of Graphics for Python'@b'Robert Kern'@M@0.99@n@s
-##2008  31   0  31   2 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.475178
+##2008  33   0  33   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.553916

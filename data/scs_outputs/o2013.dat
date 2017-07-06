@@ -92,7 +92,7 @@ b'Accessing the Virtual Observatory from Python'@b'Doug Tody'@M@1.00@n@s
 b'LarvaMap - A python powered larval transport modeling system'@b'Kyle Wilcox'@M@0.97@n@s
 b'LarvaMap - A python powered larval transport modeling system'@b'Alex Crosby'@M@0.99@n@s
 b'SCI-WMS: A Python Based Web Map Service For Met-Ocean Data Accessible Over OpenDAP Or As NetCDF'@b'Alexander Crosby'@M@0.99@n@s
-b'Optimizing Geographic Processing and Analysis for Big Data'@b'GeoDecisions Carissa'@F@-1.00@n@s
+b'Optimizing Geographic Processing and Analysis for Big Data'@b'Carissa Brittain'@F@1.00@n@s
 b'Optimizing Geographic Processing and Analysis for Big Data'@b'Jason Gleason'@M@0.99@n@s
 b'The Production of a Multi-Resolution Global Index for Geographic Information Systems'@b'Kytt MacManus'@M@-1.00@n@s
 b'Streamed Clustering of Lightning Mapping Data in Python Using sklearn'@b'Bruning, Eric C., Texas Tech University'@M@-1.00@n@s
@@ -159,9 +159,9 @@ b'Anatomy of Matplotlib'@b'Benjamin Root'@M@0.99@t@s
 b'IPython in depth'@b'Fernando Perez'@M@0.99@t@s
 b'Cython: Speed up Python and NumPy, Pythonize C, C++, and Fortran'@b'Kurt Smith'@M@1.00@t@s
 b'Version Control and Unit Testing for Scientific Software'@b'Matt Davis'@M@1.00@t@s
-b'An Introduction to scikit-learn (I)'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@t@s
+b'An Introduction to scikit-learn (I)'@b'Gael Varoquaux'@M@-1.00@t@s
 b'Diving into NumPy code'@b'David Cournapeau'@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@M@-1.00@t@s
-b'An Introduction to scikit-learn (II)'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@t@s
-##2013 159  15 144   7 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000001 Pover: 0.468446
+b'An Introduction to scikit-learn (II)'@b'Gael Varoquaux'@M@-1.00@t@s
+##2013 161  15 146   5 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898

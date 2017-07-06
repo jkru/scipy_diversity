@@ -35,7 +35,7 @@ b'Scientific Data Analysis and Visualization with VTK and ParaView'@b'Cory Quamm
 b'Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration'@b'Matthias Bussonnier'@M@1.00@n@s
 b'Jupyter / Ipython, State Of Multiuser And Real-Time Collaboration'@b'Kester Tong'@M@-1.00@n@s
 b'PyStruct - Structured Prediction in Python'@b'Andreas Mueller'@M@0.94@n@s
-b'A Better Default Colormap for Matplotlib'@b'St\xc3\xa9fan van der Walt'@M@-1.00@n@s
+b'A Better Default Colormap for Matplotlib'@b'Stefan van der Walt'@M@1.00@n@s
 b'A Better Default Colormap for Matplotlib'@b'Nathaniel Smith'@M@0.99@n@s
 b'Librosa: Audio and Music Signal Analysis in Python'@b'Brian McFee'@M@0.99@n@s
 b'pgmpy: Probabilistic Graphical Models using Python'@b'Ankur Ankan'@M@1.00@n@s
@@ -49,9 +49,6 @@ b'Visualizing Physiological Signals in Real Time'@b'Sebastian Sepulveda'@M@0.97@
 b'xray: N-D Labeled Arrays and Datasets'@b'Stephan Hoyer'@M@1.00@n@s
 b'Scientific Computing for Undergraduates: Getting Students into the Kitchen'@b'Amelia McBee Henriksen'@F@1.00@n@s
 b'Statistical Learning of Human Brain Structure in DIPY'@b'Ariel Rokem'@M@-1.00@n@s
-b'Statistical Learning of Human Brain Structure in DIPY'@b'Franco Pestilli'@M@1.00@n@s
-b'Statistical Learning of Human Brain Structure in DIPY'@b'Bagrat Amirbekian'@M@-1.00@n@s
-b'Statistical Learning of Human Brain Structure in DIPY'@b'Stefan van der Walt'@M@1.00@n@s
 b'Statistical Learning of Human Brain Structure in DIPY'@b'Brian Wandell'@M@0.99@n@s
 b'Statistical Learning of Human Brain Structure in DIPY'@b'Eleftherios Garyfallidis'@M@1.00@n@s
 b'Examining Malware with Python'@b'Phil Roth'@M@1.00@n@s
@@ -149,8 +146,7 @@ b'Introduction to NumPy (Beginner)'@b'Eric Jones'@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Intermediate) (Monday Session)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Intermediate) (Monday Session)'@b'Kyle Kastner'@M@0.97@t@s
 b'Cython: Blend the Best of Python and C/++ (Intermediate)'@b'Kurt Smith'@M@1.00@t@s
-b'Image Analysis in Python with SciPy and Scikit-Image (Intermediate)'@b'Joshua Warner'@M@0.99@t@s
-b'Image Analysis in Python with SciPy and Scikit-Image (Intermediate)'@b'St\xc3\xa9fan van der Walt'@M@-1.00@t@s
+b'Image Analysis in Python with SciPy and Scikit-Image (Intermediate)'@b'JoStefan van der Walt'@M@-1.00@t@s
 b'Image Analysis in Python with SciPy and Scikit-Image (Intermediate)'@b'Steven Silvester'@M@0.99@t@s
 b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Advanced)(Monday Session)'@b'Andreas Mueller'@M@0.94@t@s
@@ -173,4 +169,4 @@ b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Matthias Bussonnier'@M@1.00@t@s
 b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Thomas Kluyver'@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Andreas Mueller'@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Kyle Kastner'@M@0.97@t@s
-##2015 175  18 157   0 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000001 Pover: 0.529161
+##2015 171  18 153   0 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055

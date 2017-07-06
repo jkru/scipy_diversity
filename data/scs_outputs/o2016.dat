@@ -8,7 +8,7 @@ b'A Simulation Framework for Studying the Code Acquisition and Tracking Function
 b'Bootstrapping an Open Source Library: How MetPy Got Up and Running with Lazy Developers'@b'Ryan May'@M@0.98@n@s
 b'JupyterHub as an Interactive Supercomputing Gateway'@b'Michael Milligan'@M@0.99@n@s
 b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Bryan Weber'@M@0.99@n@s
-b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Chih-Jen Sung'@U@-1.00@n@s
+b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Chih-Jen Sung'@M@-1.00@n@s
 b'Getting More from Your Core: Processing and Analysis of Core CT Data'@b'Brendon Hall'@M@1.00@n@s
 b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Sean Seyler'@M@0.99@n@s
 b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'David Dotson'@M@0.99@n@s
@@ -58,18 +58,18 @@ b'Sharing Reproducible Environments with Binder'@b'Andrew Osheroff'@M@0.99@n@s
 b'Computational Supply Chain Risk Management for Open Source Software'@b'Sebastian Benthall'@M@1.00@n@s
 b'Out with the Old and in with the New: Embedding Python in Old Fortran HPC Code'@b'Brendan Smithyman'@M@1.00@n@s
 b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Patrick Huck'@M@0.99@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Anubhav Jain'@U@-1.00@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Anubhav Jain'@M@-1.00@n@s
 b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Daniel Gunter'@M@0.99@n@s
 b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Donald Winston'@M@0.99@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Shreyas Cholia'@U@-1.00@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Shreyas Cholia'@M@-1.00@n@s
 b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Kristin Persson'@F@0.99@n@s
 b'Community Powered Packaging with conda-forge'@b'Philip Elson'@M@0.99@n@s
-b'Running Python Apps in the Browser'@b'Almar Klein'@U@-1.00@n@s
+b'Running Python Apps in the Browser'@b'Almar Klein'@M@-1.00@n@s
 b'Composable Multi-Threading for Python Libraries'@b'Anton Malakhov'@M@1.00@n@s
 b'Machine Learning for Time Series Data in Python'@b'Brett Naul'@M@0.98@n@s
 b"Governing Open Source Projects at Scale: Lessons from Wikipedia's Growing Pains"@b'Stuart Geiger'@M@1.00@n@s
-b'GT-Py: Accelerating NumPy programs on CPU&GPU with Minimal Programming Effort'@b'Chi-keung Luk'@U@-1.00@n@s
-b'"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud'@b'Demba Ba'@U@-1.00@n@s
+b'GT-Py: Accelerating NumPy programs on CPU&GPU with Minimal Programming Effort'@b'Chi-keung Luk'@M@-1.00@n@s
+b'"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud'@b'Demba Ba'@M@-1.00@n@s
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Samuel Skillman'@M@0.99@n@s
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Michael Warren'@M@0.99@n@s
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Steven Brumby'@M@0.99@n@s
@@ -81,15 +81,15 @@ b'Processing a Petabyte of Planetary Pixels with Python'@b'Tim Kelton'@M@1.00@n@
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Caitlin Kontgis'@F@0.99@n@s
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Mark Mathis'@M@0.99@n@s
 b'Processing a Petabyte of Planetary Pixels with Python'@b'Daniela Moody'@F@1.00@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Xander Rudelis'@U@-1.00@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Xander Rudelis'@M@-1.00@n@s
 b'HoloViews: Let your Data Reveal Itself'@b'Philipp Rudiger'@M@1.00@n@s
-b'HoloViews: Let your Data Reveal Itself'@b'Jean-Luc Stevens'@U@-1.00@n@s
+b'HoloViews: Let your Data Reveal Itself'@b'Jean-Luc Stevens'@M@-1.00@n@s
 b'HoloViews: Let your Data Reveal Itself'@b'James A. Bednar'@M@0.99@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Brian Granger'@M@0.99@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Steven Silvester'@M@0.99@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Jason Grout'@M@0.99@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Fernando Perez'@M@0.98@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Sylvain Corlay'@U@-1.00@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Sylvain Corlay'@M@-1.00@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Chris Colbert'@M@0.92@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'Cameron Oelsen'@M@0.88@n@s
 b'JupyterLab: Building Blocks for Interactive Computing'@b'David Willmer'@M@0.99@n@s
@@ -97,14 +97,14 @@ b'JupyterLab: Building Blocks for Interactive Computing'@b'Afshin Darian'@U@-1.0
 b"A String Theorist's Journey with Python"@b'Chan Park'@M@0.54@n@s
 b'Give Your Data an Entrance Exam: Tools from Psychometrics for Data Quality Evaluation'@b'Katie Malone'@F@1.00@n@s
 b'Keynote: Machine Learning for Social Science'@b'Hanna Wallach'@F@0.95@k@s
-b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Matar Haller'@U@-1.00@n@s
+b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Matar Haller'@F@-1.00@n@s
 b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Jaya Narasimhan'@F@1.00@n@s
 b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Juan Shishido'@M@0.99@n@s
 b"What's new in Spyder 3.0"@b'Gonzalo Pe\xc3\xb1a-Castellanos'@M@1.00@n@s
 b"What's new in Spyder 3.0"@b'Carlos Cordoba'@M@0.99@n@s
 b'Generalized Earthquake Focal Mechanism Classification'@b'Ben Lasscock'@M@0.99@n@s
 b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Stanley Seibert'@M@0.99@n@s
-b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Siu Kwan Lam'@F@1.00@n@s
+b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Siu Kwan Lam'@M@-1.00@n@s
 b'3D drawing in Python: Reviving Visual'@b'Catherine Holloway'@F@1.00@n@s
 b'Democratizing Geostats'@b'Nicholas Ronnei'@M@0.99@n@s
 b'QCDB: Database Tools for Managing and Harmonizing Quantum Chemistry'@b'Lori Burns'@F@1.00@n@s
@@ -117,13 +117,13 @@ b'Datashader: Revealing the Structure of Genuinely Big Data'@b'James A. Bednar'@
 b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Jim Crist'@M@1.00@n@s
 b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Joseph Cottam'@M@0.99@n@s
 b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Peter Wang'@M@0.99@n@s
-b'Launching Python Applications on Peta-scale Massively Parallel Systems'@b'Yu Feng'@F@0.55@n@s
+b'Launching Python Applications on Peta-scale Massively Parallel Systems'@b'Yu Feng'@M@-1.00@n@s
 b'Emperor, Interactive Beta-diversity Exploration'@b'Yoshiki Vazquez-Baeza'@M@-1.00@n@s
 b'The FOSSEE Python Project'@b'Prabhu Ramachandran'@M@-1.00@n@s
 b'SymEngine: A Fast Symbolic Manipulation Library'@b'Ond\xc5\x99ej \xc4\x8cert\xc3\xadk'@U@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Isuru Fernando'@U@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Thilina Rathnayake'@U@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Abhinav Agarwal'@U@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Isuru Fernando'@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Thilina Rathnayake'@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Abhinav Agarwal'@M@-1.00@n@s
 b'DyND Callables'@b'Mark Wiebe'@M@0.99@n@s
 b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Cathryn Carson'@F@1.00@n@s
 b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Sam Lau'@M@1.00@n@s
@@ -143,8 +143,8 @@ b'Symbolic Compution with Python using SymPy (Beginner)'@b'Ond\xc5\x99ej \xc4\x8
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Amit Kumar'@M@1.00@t@s
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Jason Moore'@M@0.99@t@s
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Aaron Meurer'@M@0.99@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Sartaj Singh'@U@-1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Harsh Gupta'@U@-1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Sartaj Singh'@M@-1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Harsh Gupta'@M@-1.00@t@s
 b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matthias Bussonnier'@M@1.00@t@s
 b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matt Davis'@M@1.00@t@s
 b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Jessica Hamrick'@F@1.00@t@s
@@ -177,4 +177,4 @@ b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0
 b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@M@0.99@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@M@1.00@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@F@0.91@t@s
-##2016 160  22 138  19 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000461 Pover: 0.486201
+##2016 175  21 154   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000021 Pover: 0.529161

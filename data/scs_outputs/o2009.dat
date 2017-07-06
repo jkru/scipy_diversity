@@ -26,11 +26,7 @@ b'PaPy: Parallel and distributed data-processing pipelines in  Python'@b'Marcin 
 b'PaPy: Parallel and distributed data-processing pipelines in  Python'@b'University of Virginia'@U@-1.00@n@s
 b'High-Performance Code Generation Using CorePy'@b'Andrew Friedley'@M@1.00@n@s
 b'High-Performance Code Generation Using CorePy'@b'Indiana University'@U@-1.00@n@s
-b'Panel discussion'@b'Python and Parallel computing'@U@-1.00@n@s
-b'Panel discussion'@b'Michael Aivazis'@M@0.99@n@s
-b'Panel discussion'@b'Brian Granger'@M@1.00@n@s
-b'Panel discussion'@b'Nicolas Pinto'@M@1.00@n@s
-b'Panel discussion'@b'Ga\xc3\x83\xc2\xabl Varoquaux'@U@-1.00@n@s
+b'Panel discussion'@b'Python and Parallel computinGael Varoquaux'@U@-1.00@n@s
 b'Sherpa: 1D/2D modeling and fitting in Python'@b'Brian Refsdal'@M@1.00@n@s
 b'Sherpa: 1D/2D modeling and fitting in Python'@b'Harvard Smithsonian Center for Astrophysics'@U@-1.00@n@s
 b'Multiprocess System for Virtual Instruments in Python'@b"Brian D'Urso"@M@1.00@n@s
@@ -89,4 +85,4 @@ b'Python in science and engineering education in India'@b'India'@U@-1.00@n@s
 b'Next challenges for Python in Science'@b'Jarrod Millman'@M@0.99@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
 b'Sprints'@b'Rooms Powell Booth 100 and Powell Booth 120 -map'@U@-1.00@n@s
-##2009  47   0  47  44 Pexpect: 0.240000 Nexpect: 12 Pobs: 0.000000 Pover: 0.458287
+##2009  44   0  44  43 Pexpect: 0.240000 Nexpect: 11 Pobs: 0.000000 Pover: 0.496055

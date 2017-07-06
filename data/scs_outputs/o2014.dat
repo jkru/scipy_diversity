@@ -96,7 +96,7 @@ b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Taylor Oshan'@M@
 b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Stewart Fotheringham'@M@1.00@n@s
 b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Mark Wiebe'@M@0.99@n@s
 b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Matthew Rocklin'@M@1.00@n@s
-b'IPython-Reveal.js attacks again, but now... it is alive!'@b'Dami\xc3\x83\xc2\xa1n Avila'@U@-1.00@n@s
+b'IPython-Reveal.js attacks again, but now... it is alive!'@b'Damian Avila'@M@0.98@n@s
 b'Activity detection from GPS tracker data'@b'Jan Vandrol'@M@-1.00@n@s
 b'Zero Dependency Python'@b'Matthew Turk'@M@1.00@n@s
 b'Zero Dependency Python'@b'Kester Tong'@M@-1.00@n@s
@@ -175,7 +175,7 @@ b'NumFOCUS'@b'Leah Silen'@F@1.00@b@s
 b'NumFOCUS'@b'Perry Greenfield'@M@0.97@b@s
 b'IPython'@b'Thomas Kluyver'@M@0.99@b@s
 b'IPython'@b'Brian Granger'@M@0.99@b@s
-b'IPython'@b'Dami\xc3\x83\xc2\xa1n Avila'@U@-1.00@b@s
+b'IPython'@b'Damian Avila'@M@0.98@b@s
 b'IPython'@b'Fernando Perez'@M@0.99@b@s
 b'IPython'@b'Jonathan Frederic'@M@0.99@b@s
 b'IPython'@b'Matthias Bussonnier'@M@1.00@b@s
@@ -187,4 +187,4 @@ b'Geospatial Data and Analysis Stack'@b'Serge Rey'@M@1.00@b@s
 b'Emacs and Python BoF'@b'Julien Chastang'@M@1.00@b@s
 b'NumPy'@b'Kyle Mandli'@M@0.97@b@s
 b'Interactive visualization in the browser'@b'David I. Ketcheson'@M@0.99@b@s
-##2014 187  20 167   2 Pexpect: 0.240000 Nexpect: 45 Pobs: 0.000001 Pover: 0.520017
+##2014 189  20 169   0 Pexpect: 0.240000 Nexpect: 46 Pobs: 0.000001 Pover: 0.484593
