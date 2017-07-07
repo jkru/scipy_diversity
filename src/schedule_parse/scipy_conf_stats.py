@@ -103,7 +103,6 @@ talk_df = pd.DataFrame();
 for talk in talks:
     title,author,talk_type,talk_source = talk
 
-#    print (author.encode('utf-8'))
     author = re.sub('g\w+?l\s+varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
     author = re.sub('s\w+?n\s+van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
     author = re.sub('d\w+?n\s+avila','Damian Avila', author, flags=re.IGNORECASE)
@@ -114,7 +113,6 @@ for talk in talks:
     author = re.sub('R.+?i\s+?Rampin','Remi Rampin', author) #, flags=re.IGNORECASE)
     author = re.sub('Jean-R\w+?mi\s+King','Jean-Remi King', author) #, flags=re.IGNORECASE)
     author = re.sub('s\w+?n buchoux','Sebastien Buchoux', author, flags=re.IGNORECASE)
-#    print (author.encode('utf-8'))
 
     authors = name_class.author_class(author,year)
     for author_index in range(0,len(authors)):
