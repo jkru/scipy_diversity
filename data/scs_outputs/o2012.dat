@@ -1,61 +1,61 @@
-b'matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.'@b'John Hunter'@M@0.99@n@s
-b'Unlock: A Python-based framework for rapid development of practical brain-computer interface applications'@b'Byron Galbraith'@M@0.99@n@s
-b'Numba Python bytecode to LLVM translator'@b'Travis Oliphant'@M@0.99@n@s
-b'Self-driving Lego Mindstorms Robot'@b'Iqbal Mohomed'@M@-1.00@n@s
-b'Copperhead: Data Parallel Python'@b'Bryan Catanzaro'@M@0.99@n@s
-b'PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation'@b'Sergio Rey'@M@0.99@n@s
-b'Solving the import problem: Scalable Dynamic Loading Network File Systems'@b'Aron Ahmadia'@M@0.93@n@s
-b'QNDArray: A Numpy Clone for C++/Qt'@b'Glen Mabey'@M@1.00@n@s
-b'Implicit Multicore Parallelism using CnC-Python'@b'Shams Imam'@M@-1.00@n@s
-b'Julia: A Fast Dynamic Language for Technical Computing'@b'Jeff Bezanson'@M@0.99@n@s
-b'OpenMG: A New Multigrid Implementation in Python'@b'Akand Islam'@M@-1.00@n@s
-b'Performance Python Panel Discussion'@b'Travis Oliphant'@M@0.99@n@s
-b'Time Series Manipulation with pandas'@b'Wes McKinney'@M@1.00@n@s
-b'SciPy + MapReduce with Disco'@b'Al Barrentine'@M@1.00@n@s
-b'SymPy Stats - Uncertainty Modeling'@b'Matthew Rocklin'@M@0.99@n@s
-b'Bringing High Performance to Python/Numpy Without Changing a Single Line of Code.'@b'Andreas Frimann Lund'@M@1.00@n@s
-b'Parallel High Performance Statistical Bootstrapping in Python'@b'Aakash Prasad'@M@-1.00@n@s
-b'*** CANCELLED *** Zen: Introducing a pythonic, high-performance network analysis library'@b'Derek Ruths'@M@0.99@n@s
-b'A tale of four libraries'@b'Alejandro Weinstein'@M@0.99@n@s
-b'ROFL: a functional Python dialect for science'@b'Jonathan Riehl'@M@0.99@n@s
-b'ALGES: Geostatistics and Python'@b'Felipe Lema'@M@1.00@n@s
-b'Parallel Computational Methods and Simulation for Coastal and Hydraulic Applications Using the Proteus Toolkit'@b'Chris Kees'@M@0.90@n@s
-b'Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations'@b'Kyle Mandli'@M@0.98@n@s
-b'Domain Specific Languages for Partial Differential Equations using Ignition'@b'Andy Terrel'@M@0.99@n@s
-b'Astropy - Herding Snakes or Astronomers: which is more difficult?'@b'Perry Greenfield'@M@0.96@n@s
-b'A Unified Release of Python & IRAF software for astronomy'@b'James E.H. Turner'@M@0.99@n@s
-b'AstroML: data mining and machine learning for Astronomy'@b'Jake Vanderplas'@M@0.99@n@s
-b'yt: An Integrated Science Environment for Astrophysical Simulations'@b'Matthew Turk'@M@0.99@n@s
-b'Python as Super Glue for the Modern Scientific Workflow'@b'Joshua Bloom'@M@0.99@n@s
-b'IPython: tools for the entire lifecycle of research computing'@b'Fernando Perez'@M@0.99@n@s
-b'Interactive Visualization Widgets Using Chaco and Enable'@b'Corran Webster'@M@-1.00@n@s
-b'Total Recall: flmake and the Quest for Reproducibility'@b'Anthony Scopatz'@M@0.99@n@s
-b'Bokeh: An Extensible Implementation of the Grammar of Graphics for Python'@b'Peter Wang'@M@0.99@n@s
-b'nD image segmentation using learned region agglomeration with the Ray Python library'@b'Juan Nunez-Iglesias'@M@0.99@n@s
-b"luban: a minimalist UI 'language'"@b'Jiao Lin'@M@-1.00@n@s
-b'PythonTeX: Fast Access to Python from within LaTeX'@b'Geoffrey Poore'@M@1.00@n@s
-b"Python's role in VisIt"@b'Cyrus Harrison'@M@1.00@n@s
-b'Forking your way to success and happiness: how GitHub style collaboration is ushering in a new era of amateur led innovation.'@b'Tim Clem'@M@1.00@n@s
-b'Param: Declarative programming using Parameters'@b'James Bednar'@M@0.99@n@s
-b'Enaml - A Framework for Building Declarative User Interfaces'@b'Chris Colbert'@M@0.90@n@s
-b'Object Oriented Finite Elements at NIST'@b'Andrew Reid'@M@1.00@n@s
-b'Surface Subdivision Schemes for Python'@b'Stephen McQuay'@M@0.99@n@s
-b'QuTiP: An open-source Python framework for the dynamics of open quantum systems'@b'Robert Johansson'@M@0.99@n@s
-b'Fcm - A python library for flow cytometry'@b'Jacob Frelinger'@M@0.99@n@s
-b'TuLiP: a toolbox for hybrid and reactive systems research'@b'Scott Livingston'@M@1.00@n@s
-b'nmrglue: a Python Module for Working with NMR Data.'@b'Jonathan Helmus'@M@0.99@n@s
-b'Utilizing Python in a Real-Time, Quasi-Operational Meteorological Environment'@b'Patrick Marsh'@M@0.99@n@s
-b'Py-ART: Python for remote sensing science'@b'Scott Collis'@M@1.00@n@s
-b"Can Python's web and science communities run concurrently?"@b'Eric Bruning'@M@0.99@n@s
-b'Python @ Life'@b'Daniel Williams'@M@0.99@n@s
-b'How Sequencing Saved Python'@b'Chris Mueller'@M@0.90@n@s
-b'Domain Analysis of Mosaic Proteins in Purple Sea Urchin'@b'Adam Hughes'@M@0.99@n@s
-b'Introduction to NumPy and Matplotlib'@b'Eric Jones'@M@0.99@t@s
-b'scikit-learn'@b'Jake Vanderplas'@M@0.99@t@s
-b'HDF5 is for lovers'@b'Anthony Scopatz'@M@0.99@t@s
-b'Advanced Matplotlib'@b'Ryan May'@M@0.98@t@s
-b'Efficient Parallel Python for High-Performance Computing'@b'Kurt Smith'@M@1.00@t@s
-b'Time Series Data Analysis with pandas'@b'Wes McKinney'@M@1.00@t@s
-b'IPython in-depth: Interactive Tools for Scientific Computing'@b'Fernando Perez'@M@0.99@t@s
-b'statsmodels'@b'Skipper Seabold'@M@1.00@t@s
+b'matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.'@b'John Hunter'@0@M@0.99@n@s
+b'Unlock: A Python-based framework for rapid development of practical brain-computer interface applications'@b'Byron Galbraith'@0@M@0.99@n@s
+b'Numba Python bytecode to LLVM translator'@b'Travis Oliphant'@0@M@0.99@n@s
+b'Self-driving Lego Mindstorms Robot'@b'Iqbal Mohomed'@0@M@-1.00@n@s
+b'Copperhead: Data Parallel Python'@b'Bryan Catanzaro'@0@M@0.99@n@s
+b'PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation'@b'Sergio Rey'@0@M@0.99@n@s
+b'Solving the import problem: Scalable Dynamic Loading Network File Systems'@b'Aron Ahmadia'@0@M@0.93@n@s
+b'QNDArray: A Numpy Clone for C++/Qt'@b'Glen Mabey'@0@M@1.00@n@s
+b'Implicit Multicore Parallelism using CnC-Python'@b'Shams Imam'@0@M@-1.00@n@s
+b'Julia: A Fast Dynamic Language for Technical Computing'@b'Jeff Bezanson'@0@M@0.99@n@s
+b'OpenMG: A New Multigrid Implementation in Python'@b'Akand Islam'@0@M@-1.00@n@s
+b'Performance Python Panel Discussion'@b'Travis Oliphant'@0@M@0.99@n@s
+b'Time Series Manipulation with pandas'@b'Wes McKinney'@0@M@1.00@n@s
+b'SciPy + MapReduce with Disco'@b'Al Barrentine'@0@M@1.00@n@s
+b'SymPy Stats - Uncertainty Modeling'@b'Matthew Rocklin'@0@M@0.99@n@s
+b'Bringing High Performance to Python/Numpy Without Changing a Single Line of Code.'@b'Andreas Frimann Lund'@0@M@1.00@n@s
+b'Parallel High Performance Statistical Bootstrapping in Python'@b'Aakash Prasad'@0@M@-1.00@n@s
+b'*** CANCELLED *** Zen: Introducing a pythonic, high-performance network analysis library'@b'Derek Ruths'@0@M@0.99@n@s
+b'A tale of four libraries'@b'Alejandro Weinstein'@0@M@0.99@n@s
+b'ROFL: a functional Python dialect for science'@b'Jonathan Riehl'@0@M@0.99@n@s
+b'ALGES: Geostatistics and Python'@b'Felipe Lema'@0@M@1.00@n@s
+b'Parallel Computational Methods and Simulation for Coastal and Hydraulic Applications Using the Proteus Toolkit'@b'Chris Kees'@0@M@0.90@n@s
+b'Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations'@b'Kyle Mandli'@0@M@0.98@n@s
+b'Domain Specific Languages for Partial Differential Equations using Ignition'@b'Andy Terrel'@0@M@0.99@n@s
+b'Astropy - Herding Snakes or Astronomers: which is more difficult?'@b'Perry Greenfield'@0@M@0.96@n@s
+b'A Unified Release of Python & IRAF software for astronomy'@b'James E.H. Turner'@0@M@0.99@n@s
+b'AstroML: data mining and machine learning for Astronomy'@b'Jake Vanderplas'@0@M@0.99@n@s
+b'yt: An Integrated Science Environment for Astrophysical Simulations'@b'Matthew Turk'@0@M@0.99@n@s
+b'Python as Super Glue for the Modern Scientific Workflow'@b'Joshua Bloom'@0@M@0.99@n@s
+b'IPython: tools for the entire lifecycle of research computing'@b'Fernando Perez'@0@M@0.99@n@s
+b'Interactive Visualization Widgets Using Chaco and Enable'@b'Corran Webster'@0@M@-1.00@n@s
+b'Total Recall: flmake and the Quest for Reproducibility'@b'Anthony Scopatz'@0@M@0.99@n@s
+b'Bokeh: An Extensible Implementation of the Grammar of Graphics for Python'@b'Peter Wang'@0@M@0.99@n@s
+b'nD image segmentation using learned region agglomeration with the Ray Python library'@b'Juan Nunez-Iglesias'@0@M@0.99@n@s
+b"luban: a minimalist UI 'language'"@b'Jiao Lin'@0@M@-1.00@n@s
+b'PythonTeX: Fast Access to Python from within LaTeX'@b'Geoffrey Poore'@0@M@1.00@n@s
+b"Python's role in VisIt"@b'Cyrus Harrison'@0@M@1.00@n@s
+b'Forking your way to success and happiness: how GitHub style collaboration is ushering in a new era of amateur led innovation.'@b'Tim Clem'@0@M@1.00@n@s
+b'Param: Declarative programming using Parameters'@b'James Bednar'@0@M@0.99@n@s
+b'Enaml - A Framework for Building Declarative User Interfaces'@b'Chris Colbert'@0@M@0.90@n@s
+b'Object Oriented Finite Elements at NIST'@b'Andrew Reid'@0@M@1.00@n@s
+b'Surface Subdivision Schemes for Python'@b'Stephen McQuay'@0@M@0.99@n@s
+b'QuTiP: An open-source Python framework for the dynamics of open quantum systems'@b'Robert Johansson'@0@M@0.99@n@s
+b'Fcm - A python library for flow cytometry'@b'Jacob Frelinger'@0@M@0.99@n@s
+b'TuLiP: a toolbox for hybrid and reactive systems research'@b'Scott Livingston'@0@M@1.00@n@s
+b'nmrglue: a Python Module for Working with NMR Data.'@b'Jonathan Helmus'@0@M@0.99@n@s
+b'Utilizing Python in a Real-Time, Quasi-Operational Meteorological Environment'@b'Patrick Marsh'@0@M@0.99@n@s
+b'Py-ART: Python for remote sensing science'@b'Scott Collis'@0@M@1.00@n@s
+b"Can Python's web and science communities run concurrently?"@b'Eric Bruning'@0@M@0.99@n@s
+b'Python @ Life'@b'Daniel Williams'@0@M@0.99@n@s
+b'How Sequencing Saved Python'@b'Chris Mueller'@0@M@0.90@n@s
+b'Domain Analysis of Mosaic Proteins in Purple Sea Urchin'@b'Adam Hughes'@0@M@0.99@n@s
+b'Introduction to NumPy and Matplotlib'@b'Eric Jones'@0@M@0.99@t@s
+b'scikit-learn'@b'Jake Vanderplas'@0@M@0.99@t@s
+b'HDF5 is for lovers'@b'Anthony Scopatz'@0@M@0.99@t@s
+b'Advanced Matplotlib'@b'Ryan May'@0@M@0.98@t@s
+b'Efficient Parallel Python for High-Performance Computing'@b'Kurt Smith'@0@M@1.00@t@s
+b'Time Series Data Analysis with pandas'@b'Wes McKinney'@0@M@1.00@t@s
+b'IPython in-depth: Interactive Tools for Scientific Computing'@b'Fernando Perez'@0@M@0.99@t@s
+b'statsmodels'@b'Skipper Seabold'@0@M@1.00@t@s
 ##2012  60   0  60   0 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.000000 Pover: 0.477430

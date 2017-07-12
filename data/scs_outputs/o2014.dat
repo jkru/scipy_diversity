@@ -1,185 +1,185 @@
-b'Keynote'@b'Lorena Barba'@F@0.99@k@s
-b"Frequentism and Bayesianim: What's the Big Deal?"@b'Jake VanderPlas'@M@1.00@n@s
-b'GeoPandas: Geospatial data + pandas'@b'Kelsey Jordahl'@M@-1.00@n@s
-b'Python backends for climate science web-apps'@b'Nicolas Fauchereau'@M@0.99@n@s
-b'A Common Scientific Compute Environment for Research and Education'@b'Dav Clark'@M@-1.00@n@s
-b'Fast Algorithms for Binary Spatial Adjacency Measures'@b'Jason Laura'@M@0.99@n@s
-b'Fast Algorithms for Binary Spatial Adjacency Measures'@b'Serge Rey'@M@1.00@n@s
-b'Integrating pylearn2 and hyperopt: taking deep learning further with hyperparameter optimization'@b'David Warde-Farley'@M@0.99@n@s
-b'Project-based introduction to scientific computing for physics majors'@b'Jennifer Klay'@F@1.00@n@s
-b'CANCELLED: The PlaceIQ Location-Based Analytic Platform:'@b'Eliza Chang'@F@1.00@n@s
-b'CANCELLED: The PlaceIQ Location-Based Analytic Platform:'@b'Juan Huerta'@M@0.99@n@s
-b'SociaLite: Python-integrated query language for data analysis'@b'Jiwon Seo'@M@-1.00@n@s
-b'Practical experience in teaching numerical methods with IPython notebooks'@b'David I. Ketcheson'@M@0.99@n@s
-b'Light-weight real-time event detection with Python'@b'Carson Farmer'@M@0.90@n@s
-b'the failure of python object serialization: why HPC in python is broken, and how to fix it'@b'Michael McKerns'@M@0.99@n@s
-b'Taking Control - Enabling Mathematicians and Scientists'@b'Matthew Rocklin'@M@1.00@n@s
-b'Spatial-Temporal Prediction of Climate Change Impacts using pyimpute, scikit-learn and GDAL'@b'Matthew Perry'@M@1.00@n@s
-b'WCSAxes: a framework for plotting astronomical and geospatial data'@b'Thomas Robitaille'@M@0.99@n@s
-b'Creating a browser-based virtual computer lab for classroom instruction'@b'Ramalingam Saravanan'@M@-1.00@n@s
-b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Aashish Chaudhary'@M@-1.00@n@s
-b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Benjamin Koziol'@M@0.99@n@s
-b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Charles Doutriaux'@M@0.99@n@s
-b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Chris Harris'@M@0.91@n@s
-b'PyViennaCL: Very easy GPGPU linear algebra'@b'Toby St Clere Smithe'@M@0.92@n@s
-b'Zeke: A Python Platform for Teaching Mathematical Modeling of Infectious Diseases'@b'Eric Lofgren'@M@0.99@n@s
-b'Cartopy'@b'Richard Hattersley'@M@0.99@n@s
-b'airspeed velocity: tracking performance of Python projects over their lifetime'@b'Michael Droettboom'@M@0.99@n@s
-b'Scientific Computing in the Undergraduate Meteorology Curriculum at Millersville University'@b'Alex DeCaria'@M@0.99@n@s
-b'Ocean Model Assessment for Everyone'@b'Richard Signell'@M@0.99@n@s
-b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'ArOndrej Certik'@U@-1.00@n@s
-b'Keynote'@b'Nick Coghlan'@M@1.00@k@s
-b'Python for economists (and other social scientists!)'@b'David Pugh'@M@0.99@n@s
-b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@b'Tyler Erickson'@M@0.97@n@s
-b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@b'Randy Sargent'@M@0.99@n@s
-b'PyMC: Markov chain Monte Carlo in Python'@b'Chris Fonnesbeck'@M@0.91@n@s
-b'Teaching Python to undergraduate students'@b'Dominik Klaes'@M@1.00@n@s
-b'Rasterio: Geospatial Raster Data Access for Programmers and Future Programmers'@b'Sean Gillies'@M@0.99@n@s
-b'Object-oriented programming with NumPy using CPython & PyPy; comparison with C++ & modern Fortran'@b'Dorota Jarecka'@F@-1.00@n@s
-b'Behind the Scenes of the University and Supplier Relationship'@b'Alexis Perez'@F@0.75@n@s
-b'Using PyNIO and MPI for Python to help solve a big data problem for the CESM'@b'David Brown'@M@0.99@n@s
-b'Bokeh: Interactive Visualizations in the Browser'@b'Bryan Van de Ven'@M@0.99@n@s
-b'The Berkeley Institute for Data Science: a place for people like us'@b'Fernando Perez'@M@0.99@n@s
-b'Deploying Python tools to GIS users'@b'Shaun Walbridge'@M@0.98@n@s
-b'Conda: a cross-platform package manager for any binary distribution'@b'Aaron Meurer'@M@0.99@n@s
-b'Conda: a cross-platform package manager for any binary distribution'@b'Ilan Schnell'@M@1.00@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'J Gregory Caporaso'@M@-1.00@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Adam Robbins-Pianka'@M@0.99@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Daniel McDonald'@M@0.99@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Emily TerAvest'@F@1.00@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jai Ram Rideout'@M@0.79@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'John Chase'@M@0.99@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jorge Ca\xc3\x83\xc2\xb1ardo Alastuey'@M@0.99@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jose Antonio Navas Molina'@M@0.99@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Rob Knight'@M@1.00@n@s
-b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Yoshiki V\xc3\x83\xc2\xa1zquez-Baeza'@M@-1.00@n@s
-b'Software for Panoptes:  A Citizen Science Observatory'@b'Josh Walawender'@M@1.00@n@s
-b'Software for Panoptes:  A Citizen Science Observatory'@b'Michael Butterfield'@M@0.99@n@s
-b'The road to Modelr: building a commercial web application on an open source foundation'@b'Matt Hall'@M@1.00@n@s
-b'Enhancements to Ginga: an Astronomical Image Viewer and Toolkit'@b'Eric Jeschke'@M@0.99@n@s
-b'The KBase Narrative: Bioinformatics for the 99%'@b'Stephen Chan'@M@0.99@n@s
-b'Advanced 3D Seismic Visualization in Python'@b'Joe Kington'@M@0.99@n@s
-b'Simulating X-ray Observations with Python'@b'John ZuHone'@M@0.99@n@s
-b'Building petabyte-scale comparative genomics pipelines'@b'Chris Cope'@M@0.91@n@s
-b'Building petabyte-scale comparative genomics pipelines'@b'Jim DeLeo'@M@1.00@n@s
-b"Astropy in 2014; What's new, where we are headed"@b'Perry Greenfield'@M@0.97@n@s
-b"Astropy in 2014; What's new, where we are headed"@b'Erik Tollerud'@M@1.00@n@s
-b"Astropy in 2014; What's new, where we are headed"@b'Thomas Robitaille'@M@0.99@n@s
-b"Astropy in 2014; What's new, where we are headed"@b'Tom Aldcroft'@M@1.00@n@s
-b'The history and design behind the Python Geophysical Modelling and Interpretation (PyGMI) package'@b'Patrick Cole'@M@0.99@n@s
-b'yt: volumetric data analysis'@b'Nathan Goldbaum'@M@0.99@n@s
-b'yt: volumetric data analysis'@b'Anthony Scopatz'@M@0.99@n@s
-b'yt: volumetric data analysis'@b'Cameron Hummels'@M@0.89@n@s
-b'yt: volumetric data analysis'@b'John ZuHone'@M@0.99@n@s
-b'yt: volumetric data analysis'@b'Matthew Turk'@M@1.00@n@s
-b'yt: volumetric data analysis'@b'Sam Skillman'@M@0.98@n@s
-b'Clustering of high-content screen images to discover off-target phenotypes'@b'Juan Nunez-Iglesias'@M@0.99@n@s
-b'Prototyping a Geophysical Algorithm in Python'@b'Karl Schleicher'@M@0.98@n@s
-b'Transient detection and image analysis pipeline for TOROS project'@b'Martin Beroiz'@M@0.99@n@s
-b'Keynote'@b'Greg Wilson'@M@1.00@k@s
-b'MASA: A Tool for the Verification of Scientific Software'@b'Nicholas Malaya'@M@0.99@n@s
-b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Scott Collis'@M@0.99@n@s
-b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Ann Fridlind'@F@1.00@n@s
-b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Jonathan Helmus'@M@0.99@n@s
-b'Time Series Analysis for Network Security'@b'Phil Roth'@M@1.00@n@s
-b'Campaign for IT literacy through FOSS and Spoken Tutorials'@b'Kannan Moudgalya'@M@-1.00@n@s
-b'TracPy: Wrapping the FORTRAN Lagrangian trajectory model TRACMASS'@b'Kristen M. Thyng'@F@0.99@n@s
-b'A Python Framework for 3D Gamma Ray Imaging'@b'Ross Barnowski'@M@0.99@n@s
-b'A Python Framework for 3D Gamma Ray Imaging'@b'Andrew Haefner'@M@0.99@n@s
-b'putting the v in IPython: vim-ipython and ipython-vimception'@b'Paul Ivanov'@M@0.99@n@s
-b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Taylor Oshan'@M@0.75@n@s
-b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Stewart Fotheringham'@M@1.00@n@s
-b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Mark Wiebe'@M@0.99@n@s
-b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Matthew Rocklin'@M@1.00@n@s
-b'IPython-Reveal.js attacks again, but now... it is alive!'@b'Damian Avila'@M@0.98@n@s
-b'Activity detection from GPS tracker data'@b'Jan Vandrol'@M@-1.00@n@s
-b'Zero Dependency Python'@b'Matthew Turk'@M@1.00@n@s
-b'Zero Dependency Python'@b'Kester Tong'@M@-1.00@n@s
-b'A success story in using Python in a graduate chemical engineering course'@b'John Kitchin'@M@0.99@n@s
-b'Mapping Networks of Violence'@b'Evan Misshula'@M@0.98@n@s
-b'Mapping Networks of Violence'@b'Sheyla Delgado'@F@1.00@n@s
-b'SimpleITK - Advanced Image Analysis for Python'@b'Bradley Lowekamp'@M@1.00@n@s
-b'SimpleITK - Advanced Image Analysis for Python'@b'Luis Ibanez'@M@0.98@n@s
-b'SimpleITK - Advanced Image Analysis for Python'@b'Matthew McCormick'@M@1.00@n@s
-b'HoloPy: Holograpy and Light Scattering in Python'@b'Tom Dimiduk'@M@1.00@n@s
-b'HoloPy: Holograpy and Light Scattering in Python'@b'Rebecca Perry'@F@1.00@n@s
-b'HoloPy: Holograpy and Light Scattering in Python'@b'Vinothan Manoharan'@M@-1.00@n@s
-b'Synthesis and analysis of circuits in the IPython notebook'@b'Nikolas Tezak'@M@1.00@n@s
-b'The PlaceIQ Location-Based Analytic Platform'@b'Eliza Chang'@F@1.00@n@s
-b'The PlaceIQ Location-Based Analytic Platform'@b'Juan Huerta'@M@0.99@n@s
-b'Multi-Purpose Particle Tracking'@b'Daniel B. Allan'@M@0.99@n@s
-b'Epipy: Visualization of emerging zoonoses through temporal networks'@b'Caitlin Rivers'@F@1.00@n@s
-b'CodaLab \xc3\xa2\xc2\x80\xc2\x93 a new service for data exchange, code execution, benchmarks and reproducible research'@b'Evelyne Viegas'@F@1.00@n@s
-b'Reflexive data science on SciPy communities'@b'Sebastian Benthall'@M@1.00@n@s
-b'How interactive visualization led to insights in digital holographic microscopy'@b'Rebecca Perry'@F@1.00@n@s
-b'How interactive visualization led to insights in digital holographic microscopy'@b'Gholamreza Keshavarzi'@M@-1.00@n@s
-b'How interactive visualization led to insights in digital holographic microscopy'@b'Ray Griner'@M@0.98@n@s
-b'How interactive visualization led to insights in digital holographic microscopy'@b'Tom Dimiduk'@M@1.00@n@s
-b'How interactive visualization led to insights in digital holographic microscopy'@b'Vinothan Manoharan'@M@-1.00@n@s
-b'How to choose a good colour map'@b'Damon McDougall'@M@0.99@n@s
-b'Scientific Knowledge Management with Web of Trails'@b'Jon Riehl'@M@0.99@n@s
-b'Plasticity in OOF'@b'Andrew Reid'@M@0.99@n@s
-b'Perceptions of Matplotlib colormaps'@b'Kristen M. Thyng'@F@0.99@n@s
-b'The wonderful world of scientific computing with Python'@b'David P. Sanders'@M@0.99@t@s
-b'Fundamentals of the IPython Display Architecture and Interactive Widgets'@b'Brian Granger'@M@0.99@t@s
-b'Fundamentals of the IPython Display Architecture and Interactive Widgets'@b'Jonathan Frederic'@M@0.99@t@s
-b'HDF5 is for Lovers'@b'Anthony Scopatz'@M@0.99@t@s
-b'Astropy and astronomical tools Part I'@b'Perry Greenfield'@M@0.97@t@s
-b'Astropy and astronomical tools Part I'@b'Erik Bray'@M@1.00@t@s
-b'Astropy and astronomical tools Part I'@b'Thomas Robitaille'@M@0.99@t@s
-b'Astropy and astronomical tools Part I'@b'Tom Aldcroft'@M@1.00@t@s
-b'SymPy'@b'Aaron Meurer'@M@0.99@t@s
-b'SymPy'@b'Jason K. Moore'@M@0.99@t@s
-b'SymPy'@b'Matthew Rocklin'@M@1.00@t@s
-b'Bayesian Statistical Analysis using Python'@b'Chris Fonnesbeck'@M@0.91@t@s
-b'Interactive Parallel Computing with IPython'@b'Min RK'@F@0.50@t@s
-b'Interactive Parallel Computing with IPython'@b'Fernando Perez'@M@0.99@t@s
-b'Geospatial data in Python: Database, desktop, and the web'@b'Carson Farmer'@M@0.90@t@s
-b'Anatomy of Matplotlib'@b'Benjamin Root'@M@0.99@t@s
-b'Birds in Random Kaggle Forests'@b'Matt Wescott'@M@1.00@t@s
-b'Multibody Dynamics and Control with Python'@b'Jason K. Moore'@M@0.99@t@s
-b'Reproducible Science - Walking the Walk'@b'Matthew McCormick'@M@1.00@t@s
-b'Reproducible Science - Walking the Walk'@b'Aashish Chaudhary'@M@-1.00@t@s
-b'Reproducible Science - Walking the Walk'@b'Ana Nelson'@F@0.99@t@s
-b'Reproducible Science - Walking the Walk'@b'Arfon Smith'@M@-1.00@t@s
-b'Reproducible Science - Walking the Walk'@b'Jean-Christophe Fillion-Robin'@M@-1.00@t@s
-b'Reproducible Science - Walking the Walk'@b'Jeffrey Spies'@M@0.99@t@s
-b'Reproducible Science - Walking the Walk'@b'Luis Ibanez'@M@0.98@t@s
-b'Introduction to Julia'@b'David P. Sanders'@M@0.99@t@s
-b'Image analysis in Python with scipy and scikit-image'@b'Juan Nunez-Iglesias'@M@0.99@t@s
-b'Image analysis in Python with scipy and scikit-image'@b'Tony Yu'@M@0.98@t@s
-b'Integrating Python and C++ with Boost.Python'@b'Austin Bingham'@M@0.97@t@s
-b'Teaching numerical methods with IPython notebooks'@b'David I. Ketcheson'@M@0.99@t@s
-b'Teaching numerical methods with IPython notebooks'@b'Aron Ahmadia'@M@0.94@t@s
-b'You Win or You SciPy'@b'Anthony Scopatz'@M@0.99@b@s
-b'Programmers in Research: their place in Universities'@b'James Hetherington'@M@0.99@b@s
-b'Matplotlib Enhancement Proposal discussion'@b'Damon McDougall'@M@0.99@b@s
-b'Python 3 and the SciPy ecosystem'@b'Thomas Kluyver'@M@0.99@b@s
-b'Python in the Atmospheric and Oceanic Sciences'@b'Jonathan Helmus'@M@0.99@b@s
-b'Tools for Open and Reproducible Workflows'@b'Jeffrey Spies'@M@0.99@b@s
-b'Tools for Open and Reproducible Workflows'@b'Ana Nelson'@F@0.99@b@s
-b'Tools for Open and Reproducible Workflows'@b'Joshua Carp'@M@0.99@b@s
-b'Volunteer SciPy2015!'@b'Andy Terrel'@M@0.99@b@s
-b'Volunteer SciPy2015!'@b'Kelsey Jordahl'@M@-1.00@b@s
-b'Visualization'@b'Michael Droettboom'@M@0.99@b@s
-b'Python in Bioinformatics'@b'Nelle Varoquaux'@F@-1.00@b@s
-b'NumFOCUS'@b'Andy Terrel'@M@0.99@b@s
-b'NumFOCUS'@b'Anthony Scopatz'@M@0.99@b@s
-b'NumFOCUS'@b'Fernando Perez'@M@0.99@b@s
-b'NumFOCUS'@b'Leah Silen'@F@1.00@b@s
-b'NumFOCUS'@b'Perry Greenfield'@M@0.97@b@s
-b'IPython'@b'Thomas Kluyver'@M@0.99@b@s
-b'IPython'@b'Brian Granger'@M@0.99@b@s
-b'IPython'@b'Damian Avila'@M@0.98@b@s
-b'IPython'@b'Fernando Perez'@M@0.99@b@s
-b'IPython'@b'Jonathan Frederic'@M@0.99@b@s
-b'IPython'@b'Matthias Bussonnier'@M@1.00@b@s
-b'IPython'@b'Paul Ivanov'@M@0.99@b@s
-b'SymPy'@b'Matthew Rocklin'@M@1.00@b@s
-b'Teaching spatial analysis using python'@b'David Folch'@M@0.99@b@s
-b'Teaching the SciPy Stack'@b'Christopher Barker'@M@0.99@b@s
-b'Geospatial Data and Analysis Stack'@b'Serge Rey'@M@1.00@b@s
-b'Emacs and Python BoF'@b'Julien Chastang'@M@1.00@b@s
-b'NumPy'@b'Kyle Mandli'@M@0.97@b@s
-b'Interactive visualization in the browser'@b'David I. Ketcheson'@M@0.99@b@s
+b'Keynote'@b'Lorena Barba'@0@F@0.99@k@s
+b"Frequentism and Bayesianim: What's the Big Deal?"@b'Jake VanderPlas'@0@M@1.00@n@s
+b'GeoPandas: Geospatial data + pandas'@b'Kelsey Jordahl'@0@M@-1.00@n@s
+b'Python backends for climate science web-apps'@b'Nicolas Fauchereau'@0@M@0.99@n@s
+b'A Common Scientific Compute Environment for Research and Education'@b'Dav Clark'@0@M@-1.00@n@s
+b'Fast Algorithms for Binary Spatial Adjacency Measures'@b'Jason Laura'@0@M@0.99@n@s
+b'Fast Algorithms for Binary Spatial Adjacency Measures'@b'Serge Rey'@1@M@1.00@n@s
+b'Integrating pylearn2 and hyperopt: taking deep learning further with hyperparameter optimization'@b'David Warde-Farley'@0@M@0.99@n@s
+b'Project-based introduction to scientific computing for physics majors'@b'Jennifer Klay'@0@F@1.00@n@s
+b'CANCELLED: The PlaceIQ Location-Based Analytic Platform:'@b'Eliza Chang'@0@F@1.00@n@s
+b'CANCELLED: The PlaceIQ Location-Based Analytic Platform:'@b'Juan Huerta'@1@M@0.99@n@s
+b'SociaLite: Python-integrated query language for data analysis'@b'Jiwon Seo'@0@M@-1.00@n@s
+b'Practical experience in teaching numerical methods with IPython notebooks'@b'David I. Ketcheson'@0@M@0.99@n@s
+b'Light-weight real-time event detection with Python'@b'Carson Farmer'@0@M@0.90@n@s
+b'the failure of python object serialization: why HPC in python is broken, and how to fix it'@b'Michael McKerns'@0@M@0.99@n@s
+b'Taking Control - Enabling Mathematicians and Scientists'@b'Matthew Rocklin'@0@M@1.00@n@s
+b'Spatial-Temporal Prediction of Climate Change Impacts using pyimpute, scikit-learn and GDAL'@b'Matthew Perry'@0@M@1.00@n@s
+b'WCSAxes: a framework for plotting astronomical and geospatial data'@b'Thomas Robitaille'@0@M@0.99@n@s
+b'Creating a browser-based virtual computer lab for classroom instruction'@b'Ramalingam Saravanan'@0@M@-1.00@n@s
+b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Aashish Chaudhary'@0@M@-1.00@n@s
+b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Benjamin Koziol'@1@M@0.99@n@s
+b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Charles Doutriaux'@2@M@0.99@n@s
+b'Climate & GIS: User friendly data access, workflows, manipulation, analysis and visualization of cli'@b'Chris Harris'@3@M@0.91@n@s
+b'PyViennaCL: Very easy GPGPU linear algebra'@b'Toby St Clere Smithe'@0@M@0.92@n@s
+b'Zeke: A Python Platform for Teaching Mathematical Modeling of Infectious Diseases'@b'Eric Lofgren'@0@M@0.99@n@s
+b'Cartopy'@b'Richard Hattersley'@0@M@0.99@n@s
+b'airspeed velocity: tracking performance of Python projects over their lifetime'@b'Michael Droettboom'@0@M@0.99@n@s
+b'Scientific Computing in the Undergraduate Meteorology Curriculum at Millersville University'@b'Alex DeCaria'@0@M@0.99@n@s
+b'Ocean Model Assessment for Everyone'@b'Richard Signell'@0@M@0.99@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'ArOndrej Certik'@0@U@-1.00@n@s
+b'Keynote'@b'Nick Coghlan'@0@M@1.00@k@s
+b'Python for economists (and other social scientists!)'@b'David Pugh'@0@M@0.99@n@s
+b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@b'Tyler Erickson'@0@M@0.97@n@s
+b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@b'Randy Sargent'@1@M@0.99@n@s
+b'PyMC: Markov chain Monte Carlo in Python'@b'Chris Fonnesbeck'@0@M@0.91@n@s
+b'Teaching Python to undergraduate students'@b'Dominik Klaes'@0@M@1.00@n@s
+b'Rasterio: Geospatial Raster Data Access for Programmers and Future Programmers'@b'Sean Gillies'@0@M@0.99@n@s
+b'Object-oriented programming with NumPy using CPython & PyPy; comparison with C++ & modern Fortran'@b'Dorota Jarecka'@0@F@-1.00@n@s
+b'Behind the Scenes of the University and Supplier Relationship'@b'Alexis Perez'@0@F@0.75@n@s
+b'Using PyNIO and MPI for Python to help solve a big data problem for the CESM'@b'David Brown'@0@M@0.99@n@s
+b'Bokeh: Interactive Visualizations in the Browser'@b'Bryan Van de Ven'@0@M@0.99@n@s
+b'The Berkeley Institute for Data Science: a place for people like us'@b'Fernando Perez'@0@M@0.99@n@s
+b'Deploying Python tools to GIS users'@b'Shaun Walbridge'@0@M@0.98@n@s
+b'Conda: a cross-platform package manager for any binary distribution'@b'Aaron Meurer'@0@M@0.99@n@s
+b'Conda: a cross-platform package manager for any binary distribution'@b'Ilan Schnell'@1@M@1.00@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'J Gregory Caporaso'@0@M@-1.00@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Adam Robbins-Pianka'@1@M@0.99@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Daniel McDonald'@2@M@0.99@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Emily TerAvest'@3@F@1.00@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jai Ram Rideout'@4@M@0.79@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'John Chase'@5@M@0.99@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jorge Ca\xc3\x83\xc2\xb1ardo Alastuey'@6@M@0.99@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Jose Antonio Navas Molina'@7@M@0.99@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Rob Knight'@8@M@1.00@n@s
+b'scikit-bio: core bioinformatics data structures and algorithms in Python'@b'Yoshiki V\xc3\x83\xc2\xa1zquez-Baeza'@9@M@-1.00@n@s
+b'Software for Panoptes:  A Citizen Science Observatory'@b'Josh Walawender'@0@M@1.00@n@s
+b'Software for Panoptes:  A Citizen Science Observatory'@b'Michael Butterfield'@1@M@0.99@n@s
+b'The road to Modelr: building a commercial web application on an open source foundation'@b'Matt Hall'@0@M@1.00@n@s
+b'Enhancements to Ginga: an Astronomical Image Viewer and Toolkit'@b'Eric Jeschke'@0@M@0.99@n@s
+b'The KBase Narrative: Bioinformatics for the 99%'@b'Stephen Chan'@0@M@0.99@n@s
+b'Advanced 3D Seismic Visualization in Python'@b'Joe Kington'@0@M@0.99@n@s
+b'Simulating X-ray Observations with Python'@b'John ZuHone'@0@M@0.99@n@s
+b'Building petabyte-scale comparative genomics pipelines'@b'Chris Cope'@0@M@0.91@n@s
+b'Building petabyte-scale comparative genomics pipelines'@b'Jim DeLeo'@1@M@1.00@n@s
+b"Astropy in 2014; What's new, where we are headed"@b'Perry Greenfield'@0@M@0.97@n@s
+b"Astropy in 2014; What's new, where we are headed"@b'Erik Tollerud'@1@M@1.00@n@s
+b"Astropy in 2014; What's new, where we are headed"@b'Thomas Robitaille'@2@M@0.99@n@s
+b"Astropy in 2014; What's new, where we are headed"@b'Tom Aldcroft'@3@M@1.00@n@s
+b'The history and design behind the Python Geophysical Modelling and Interpretation (PyGMI) package'@b'Patrick Cole'@0@M@0.99@n@s
+b'yt: volumetric data analysis'@b'Nathan Goldbaum'@0@M@0.99@n@s
+b'yt: volumetric data analysis'@b'Anthony Scopatz'@1@M@0.99@n@s
+b'yt: volumetric data analysis'@b'Cameron Hummels'@2@M@0.89@n@s
+b'yt: volumetric data analysis'@b'John ZuHone'@3@M@0.99@n@s
+b'yt: volumetric data analysis'@b'Matthew Turk'@4@M@1.00@n@s
+b'yt: volumetric data analysis'@b'Sam Skillman'@5@M@0.98@n@s
+b'Clustering of high-content screen images to discover off-target phenotypes'@b'Juan Nunez-Iglesias'@0@M@0.99@n@s
+b'Prototyping a Geophysical Algorithm in Python'@b'Karl Schleicher'@0@M@0.98@n@s
+b'Transient detection and image analysis pipeline for TOROS project'@b'Martin Beroiz'@0@M@0.99@n@s
+b'Keynote'@b'Greg Wilson'@0@M@1.00@k@s
+b'MASA: A Tool for the Verification of Scientific Software'@b'Nicholas Malaya'@0@M@0.99@n@s
+b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Scott Collis'@0@M@0.99@n@s
+b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Ann Fridlind'@1@F@1.00@n@s
+b'Measuring rainshafts: Bringing python to bear on remote sensing data.'@b'Jonathan Helmus'@2@M@0.99@n@s
+b'Time Series Analysis for Network Security'@b'Phil Roth'@0@M@1.00@n@s
+b'Campaign for IT literacy through FOSS and Spoken Tutorials'@b'Kannan Moudgalya'@0@M@-1.00@n@s
+b'TracPy: Wrapping the FORTRAN Lagrangian trajectory model TRACMASS'@b'Kristen M. Thyng'@0@F@0.99@n@s
+b'A Python Framework for 3D Gamma Ray Imaging'@b'Ross Barnowski'@0@M@0.99@n@s
+b'A Python Framework for 3D Gamma Ray Imaging'@b'Andrew Haefner'@1@M@0.99@n@s
+b'putting the v in IPython: vim-ipython and ipython-vimception'@b'Paul Ivanov'@0@M@0.99@n@s
+b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Taylor Oshan'@0@M@0.75@n@s
+b'pySI: A Python Framework for Spatial Interaction Modelling'@b'Stewart Fotheringham'@1@M@1.00@n@s
+b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Mark Wiebe'@0@M@0.99@n@s
+b'Blaze: Building a Foundation for Array-Oriented Computing in Python'@b'Matthew Rocklin'@1@M@1.00@n@s
+b'IPython-Reveal.js attacks again, but now... it is alive!'@b'Damian Avila'@0@M@0.98@n@s
+b'Activity detection from GPS tracker data'@b'Jan Vandrol'@0@M@-1.00@n@s
+b'Zero Dependency Python'@b'Matthew Turk'@0@M@1.00@n@s
+b'Zero Dependency Python'@b'Kester Tong'@1@M@-1.00@n@s
+b'A success story in using Python in a graduate chemical engineering course'@b'John Kitchin'@0@M@0.99@n@s
+b'Mapping Networks of Violence'@b'Evan Misshula'@0@M@0.98@n@s
+b'Mapping Networks of Violence'@b'Sheyla Delgado'@1@F@1.00@n@s
+b'SimpleITK - Advanced Image Analysis for Python'@b'Bradley Lowekamp'@0@M@1.00@n@s
+b'SimpleITK - Advanced Image Analysis for Python'@b'Luis Ibanez'@1@M@0.98@n@s
+b'SimpleITK - Advanced Image Analysis for Python'@b'Matthew McCormick'@2@M@1.00@n@s
+b'HoloPy: Holograpy and Light Scattering in Python'@b'Tom Dimiduk'@0@M@1.00@n@s
+b'HoloPy: Holograpy and Light Scattering in Python'@b'Rebecca Perry'@1@F@1.00@n@s
+b'HoloPy: Holograpy and Light Scattering in Python'@b'Vinothan Manoharan'@2@M@-1.00@n@s
+b'Synthesis and analysis of circuits in the IPython notebook'@b'Nikolas Tezak'@0@M@1.00@n@s
+b'The PlaceIQ Location-Based Analytic Platform'@b'Eliza Chang'@0@F@1.00@n@s
+b'The PlaceIQ Location-Based Analytic Platform'@b'Juan Huerta'@1@M@0.99@n@s
+b'Multi-Purpose Particle Tracking'@b'Daniel B. Allan'@0@M@0.99@n@s
+b'Epipy: Visualization of emerging zoonoses through temporal networks'@b'Caitlin Rivers'@0@F@1.00@n@s
+b'CodaLab \xc3\xa2\xc2\x80\xc2\x93 a new service for data exchange, code execution, benchmarks and reproducible research'@b'Evelyne Viegas'@0@F@1.00@n@s
+b'Reflexive data science on SciPy communities'@b'Sebastian Benthall'@0@M@1.00@n@s
+b'How interactive visualization led to insights in digital holographic microscopy'@b'Rebecca Perry'@0@F@1.00@n@s
+b'How interactive visualization led to insights in digital holographic microscopy'@b'Gholamreza Keshavarzi'@1@M@-1.00@n@s
+b'How interactive visualization led to insights in digital holographic microscopy'@b'Ray Griner'@2@M@0.98@n@s
+b'How interactive visualization led to insights in digital holographic microscopy'@b'Tom Dimiduk'@3@M@1.00@n@s
+b'How interactive visualization led to insights in digital holographic microscopy'@b'Vinothan Manoharan'@4@M@-1.00@n@s
+b'How to choose a good colour map'@b'Damon McDougall'@0@M@0.99@n@s
+b'Scientific Knowledge Management with Web of Trails'@b'Jon Riehl'@0@M@0.99@n@s
+b'Plasticity in OOF'@b'Andrew Reid'@0@M@0.99@n@s
+b'Perceptions of Matplotlib colormaps'@b'Kristen M. Thyng'@0@F@0.99@n@s
+b'The wonderful world of scientific computing with Python'@b'David P. Sanders'@0@M@0.99@t@s
+b'Fundamentals of the IPython Display Architecture and Interactive Widgets'@b'Brian Granger'@0@M@0.99@t@s
+b'Fundamentals of the IPython Display Architecture and Interactive Widgets'@b'Jonathan Frederic'@1@M@0.99@t@s
+b'HDF5 is for Lovers'@b'Anthony Scopatz'@0@M@0.99@t@s
+b'Astropy and astronomical tools Part I'@b'Perry Greenfield'@0@M@0.97@t@s
+b'Astropy and astronomical tools Part I'@b'Erik Bray'@1@M@1.00@t@s
+b'Astropy and astronomical tools Part I'@b'Thomas Robitaille'@2@M@0.99@t@s
+b'Astropy and astronomical tools Part I'@b'Tom Aldcroft'@3@M@1.00@t@s
+b'SymPy'@b'Aaron Meurer'@0@M@0.99@t@s
+b'SymPy'@b'Jason K. Moore'@1@M@0.99@t@s
+b'SymPy'@b'Matthew Rocklin'@2@M@1.00@t@s
+b'Bayesian Statistical Analysis using Python'@b'Chris Fonnesbeck'@0@M@0.91@t@s
+b'Interactive Parallel Computing with IPython'@b'Min RK'@0@F@0.50@t@s
+b'Interactive Parallel Computing with IPython'@b'Fernando Perez'@1@M@0.99@t@s
+b'Geospatial data in Python: Database, desktop, and the web'@b'Carson Farmer'@0@M@0.90@t@s
+b'Anatomy of Matplotlib'@b'Benjamin Root'@0@M@0.99@t@s
+b'Birds in Random Kaggle Forests'@b'Matt Wescott'@0@M@1.00@t@s
+b'Multibody Dynamics and Control with Python'@b'Jason K. Moore'@0@M@0.99@t@s
+b'Reproducible Science - Walking the Walk'@b'Matthew McCormick'@0@M@1.00@t@s
+b'Reproducible Science - Walking the Walk'@b'Aashish Chaudhary'@1@M@-1.00@t@s
+b'Reproducible Science - Walking the Walk'@b'Ana Nelson'@2@F@0.99@t@s
+b'Reproducible Science - Walking the Walk'@b'Arfon Smith'@3@M@-1.00@t@s
+b'Reproducible Science - Walking the Walk'@b'Jean-Christophe Fillion-Robin'@4@M@-1.00@t@s
+b'Reproducible Science - Walking the Walk'@b'Jeffrey Spies'@5@M@0.99@t@s
+b'Reproducible Science - Walking the Walk'@b'Luis Ibanez'@6@M@0.98@t@s
+b'Introduction to Julia'@b'David P. Sanders'@0@M@0.99@t@s
+b'Image analysis in Python with scipy and scikit-image'@b'Juan Nunez-Iglesias'@0@M@0.99@t@s
+b'Image analysis in Python with scipy and scikit-image'@b'Tony Yu'@1@M@0.98@t@s
+b'Integrating Python and C++ with Boost.Python'@b'Austin Bingham'@0@M@0.97@t@s
+b'Teaching numerical methods with IPython notebooks'@b'David I. Ketcheson'@0@M@0.99@t@s
+b'Teaching numerical methods with IPython notebooks'@b'Aron Ahmadia'@1@M@0.94@t@s
+b'You Win or You SciPy'@b'Anthony Scopatz'@0@M@0.99@b@s
+b'Programmers in Research: their place in Universities'@b'James Hetherington'@0@M@0.99@b@s
+b'Matplotlib Enhancement Proposal discussion'@b'Damon McDougall'@0@M@0.99@b@s
+b'Python 3 and the SciPy ecosystem'@b'Thomas Kluyver'@0@M@0.99@b@s
+b'Python in the Atmospheric and Oceanic Sciences'@b'Jonathan Helmus'@0@M@0.99@b@s
+b'Tools for Open and Reproducible Workflows'@b'Jeffrey Spies'@0@M@0.99@b@s
+b'Tools for Open and Reproducible Workflows'@b'Ana Nelson'@1@F@0.99@b@s
+b'Tools for Open and Reproducible Workflows'@b'Joshua Carp'@2@M@0.99@b@s
+b'Volunteer SciPy2015!'@b'Andy Terrel'@0@M@0.99@b@s
+b'Volunteer SciPy2015!'@b'Kelsey Jordahl'@1@M@-1.00@b@s
+b'Visualization'@b'Michael Droettboom'@0@M@0.99@b@s
+b'Python in Bioinformatics'@b'Nelle Varoquaux'@0@F@-1.00@b@s
+b'NumFOCUS'@b'Andy Terrel'@0@M@0.99@b@s
+b'NumFOCUS'@b'Anthony Scopatz'@1@M@0.99@b@s
+b'NumFOCUS'@b'Fernando Perez'@2@M@0.99@b@s
+b'NumFOCUS'@b'Leah Silen'@3@F@1.00@b@s
+b'NumFOCUS'@b'Perry Greenfield'@4@M@0.97@b@s
+b'IPython'@b'Thomas Kluyver'@0@M@0.99@b@s
+b'IPython'@b'Brian Granger'@1@M@0.99@b@s
+b'IPython'@b'Damian Avila'@2@M@0.98@b@s
+b'IPython'@b'Fernando Perez'@3@M@0.99@b@s
+b'IPython'@b'Jonathan Frederic'@4@M@0.99@b@s
+b'IPython'@b'Matthias Bussonnier'@5@M@1.00@b@s
+b'IPython'@b'Paul Ivanov'@6@M@0.99@b@s
+b'SymPy'@b'Matthew Rocklin'@0@M@1.00@b@s
+b'Teaching spatial analysis using python'@b'David Folch'@0@M@0.99@b@s
+b'Teaching the SciPy Stack'@b'Christopher Barker'@0@M@0.99@b@s
+b'Geospatial Data and Analysis Stack'@b'Serge Rey'@0@M@1.00@b@s
+b'Emacs and Python BoF'@b'Julien Chastang'@0@M@1.00@b@s
+b'NumPy'@b'Kyle Mandli'@0@M@0.97@b@s
+b'Interactive visualization in the browser'@b'David I. Ketcheson'@0@M@0.99@b@s
 ##2014 183  20 163   1 Pexpect: 0.240000 Nexpect: 44 Pobs: 0.000002 Pover: 0.522996

@@ -1,180 +1,180 @@
-b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Cyrus Harrison'@M@1.00@n@s
-b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Brian Ryujin'@M@0.99@n@s
-b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Adam Kunen'@M@1.00@n@s
-b'PyTeCK: A Python-based Automatic Testing Package for Chemical Kinetic Models'@b'Kyle Niemeyer'@M@0.98@n@s
-b'Modeling Rate-and-State Friction with Python'@b'John Leeman'@M@0.99@n@s
-b'Psi4: A Case Study on Modernizing and Modularizing Quantum Chemistry with Python and C++'@b'Daniel Smith'@M@0.99@n@s
-b'A Simulation Framework for Studying the Code Acquisition and Tracking Functions of a Global Positioning System (GPS) Receiver'@b'Mark Wickert'@M@0.99@n@s
-b'Bootstrapping an Open Source Library: How MetPy Got Up and Running with Lazy Developers'@b'Ryan May'@M@0.98@n@s
-b'JupyterHub as an Interactive Supercomputing Gateway'@b'Michael Milligan'@M@0.99@n@s
-b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Bryan Weber'@M@0.99@n@s
-b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Chih-Jen Sung'@M@-1.00@n@s
-b'Getting More from Your Core: Processing and Analysis of Core CT Data'@b'Brendon Hall'@M@1.00@n@s
-b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Sean Seyler'@M@0.99@n@s
-b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'David Dotson'@M@0.99@n@s
-b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Max Linke'@M@1.00@n@s
-b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Richard Gowers'@M@0.99@n@s
-b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Oliver Beckstein'@M@0.99@n@s
-b'Large Scale Geospatial Analytics with Python, Spark, and Impala'@b'Evan Wyse'@M@0.97@n@s
-b'Experiments as Iterators: asyncio in Science'@b'Daniel Allan'@M@0.99@n@s
-b'Experiments as Iterators: asyncio in Science'@b'Thomas Caswell'@M@0.99@n@s
-b'Experiments as Iterators: asyncio in Science'@b'Kenneth Lauer'@M@0.99@n@s
-b'Analysis and Visualization of 3D Data with yt'@b'Matthew Turk'@M@1.00@n@s
-b'Python at the Intersection of Data Science, Machine Learning and Cyber Anomaly Detection'@b'Randy Paffenroth'@M@0.99@n@s
-b'Reproducible, One-Button Workflows with the Jupyter Notebook and Scons'@b'Jessica Hamrick'@F@1.00@n@s
-b'Proselint: The Linting of Science Prose, and the Science of Prose Linting'@b'Michael Pacer'@M@0.99@n@s
-b'Proselint: The Linting of Science Prose, and the Science of Prose Linting'@b'Jordan Suchow'@M@0.86@n@s
-b'Python and R Together at Last: Writing Cross-Language Tools'@b'Bill Lattner'@M@1.00@n@s
-b'HistomicsTK: Seamless Analytics for Biomedical Microscopy'@b'Brian Helba'@M@0.99@n@s
-b'Reinventing the .whl: New Developments in the Upstream Python Packaging Ecosystem'@b'Nathaniel Smith'@M@0.99@n@s
-b'How to \xe2\x80\x9cScrape\xe2\x80\x9d Together a Great Dataset Using Things You Find on the Internet: Using Python & SciPy to Predict Oscar Winners & Box Office Hits'@b'Deborah Hanus'@F@1.00@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Oliver Beckstein'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Richard Gowers'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Max Linke'@M@1.00@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Jonathan Barnoud'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Tyler Reddy'@M@0.97@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Manuel Melo'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sean Seyler'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Jan Dom\xc3\xa1nski'@F@0.58@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'David Dotson'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sebastien Buchoux'@M@1.00@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Ian Kenney'@M@1.00@n@s
-b'Keynote: # High Performance with Python: Architectures, Approaches, and Applications'@b'Andreas Kl\xc3\xb6ckner'@M@1.00@k@s
-b'Dask: Parallel and Distributed Computing'@b'Matthew Rocklin'@M@1.00@n@s
-b'Dask: Parallel and Distributed Computing'@b'Jim Crist'@M@1.00@n@s
-b'HyperSpy - How to Easily Bend Multi-dimension Data to your (Analytical) Will.'@b'Tomas Ostasevicius'@M@1.00@n@s
-b'HOPE: A Python Just-In-Time Compiler for Astrophysical Computations'@b'Joel Akeret'@M@0.99@n@s
-b'Communicating Model Results'@b'Bargava Subramanian'@M@-1.00@n@s
-b'GR: Plotting with Python or Julia'@b'Josef Heinen'@M@1.00@n@s
-b'MONTE Python for Deep Space Navigation'@b'Jonathon Smith'@M@1.00@n@s
-b'High Quality, High Performance Clustering with HDBSCAN*'@b'Leland McInnes'@M@1.00@n@s
-b'High Quality, High Performance Clustering with HDBSCAN*'@b'John Healy'@M@0.99@n@s
-b'SymPy Code Generation'@b'Aaron Meurer'@M@0.99@n@s
-b'SymPy Code Generation'@b'Anthony Scopatz'@M@0.99@n@s
-b'Using Open Source Tools to Refactor Geoscience Education'@b'Lindsey Heagy'@F@0.98@n@s
-b'Integrating Scripting into Commercial Applications'@b'Eric Jones'@M@0.99@n@s
-b'PySPH: A Reproducible and High-performance Framework for Smoothed Particle Hydrodynamics'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'Sharing Reproducible Environments with Binder'@b'Andrew Osheroff'@M@0.99@n@s
-b'Computational Supply Chain Risk Management for Open Source Software'@b'Sebastian Benthall'@M@1.00@n@s
-b'Out with the Old and in with the New: Embedding Python in Old Fortran HPC Code'@b'Brendan Smithyman'@M@1.00@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Patrick Huck'@M@0.99@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Anubhav Jain'@M@-1.00@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Daniel Gunter'@M@0.99@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Donald Winston'@M@0.99@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Shreyas Cholia'@M@-1.00@n@s
-b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Kristin Persson'@F@0.99@n@s
-b'Community Powered Packaging with conda-forge'@b'Philip Elson'@M@0.99@n@s
-b'Running Python Apps in the Browser'@b'Almar Klein'@M@-1.00@n@s
-b'Composable Multi-Threading for Python Libraries'@b'Anton Malakhov'@M@1.00@n@s
-b'Machine Learning for Time Series Data in Python'@b'Brett Naul'@M@0.98@n@s
-b"Governing Open Source Projects at Scale: Lessons from Wikipedia's Growing Pains"@b'Stuart Geiger'@M@1.00@n@s
-b'GT-Py: Accelerating NumPy programs on CPU&GPU with Minimal Programming Effort'@b'Chi-keung Luk'@M@-1.00@n@s
-b'"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud'@b'Demba Ba'@M@-1.00@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Samuel Skillman'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Michael Warren'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Steven Brumby'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Rick Chartrand'@M@0.98@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Eric Chisolm'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Eduardo Franco'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Ryan Keisler'@M@0.98@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Tim Kelton'@M@1.00@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Caitlin Kontgis'@F@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Mark Mathis'@M@0.99@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Daniela Moody'@F@1.00@n@s
-b'Processing a Petabyte of Planetary Pixels with Python'@b'Xander Rudelis'@M@-1.00@n@s
-b'HoloViews: Let your Data Reveal Itself'@b'Philipp Rudiger'@M@1.00@n@s
-b'HoloViews: Let your Data Reveal Itself'@b'Jean-Luc Stevens'@M@-1.00@n@s
-b'HoloViews: Let your Data Reveal Itself'@b'James A. Bednar'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Brian Granger'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Steven Silvester'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Jason Grout'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Fernando Perez'@M@0.98@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Sylvain Corlay'@M@-1.00@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Chris Colbert'@M@0.92@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Cameron Oelsen'@M@0.88@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'David Willmer'@M@0.99@n@s
-b'JupyterLab: Building Blocks for Interactive Computing'@b'Afshin Darian'@M@-1.00@n@s
-b"A String Theorist's Journey with Python"@b'Chan Park'@M@0.54@n@s
-b'Give Your Data an Entrance Exam: Tools from Psychometrics for Data Quality Evaluation'@b'Katie Malone'@F@1.00@n@s
-b'Keynote: Machine Learning for Social Science'@b'Hanna Wallach'@F@0.95@k@s
-b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Matar Haller'@F@-1.00@n@s
-b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Jaya Narasimhan'@F@1.00@n@s
-b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Juan Shishido'@M@0.99@n@s
-b"What's new in Spyder 3.0"@b'Gonzalo Pe\xc3\xb1a-Castellanos'@M@1.00@n@s
-b"What's new in Spyder 3.0"@b'Carlos Cordoba'@M@0.99@n@s
-b'Generalized Earthquake Focal Mechanism Classification'@b'Ben Lasscock'@M@0.99@n@s
-b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Stanley Seibert'@M@0.99@n@s
-b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Siu Kwan Lam'@M@-1.00@n@s
-b'3D drawing in Python: Reviving Visual'@b'Catherine Holloway'@F@1.00@n@s
-b'Democratizing Geostats'@b'Nicholas Ronnei'@M@0.99@n@s
-b'QCDB: Database Tools for Managing and Harmonizing Quantum Chemistry'@b'Lori Burns'@F@1.00@n@s
-b'Hacking the CPython Interpreter'@b'James Powell'@M@0.99@n@s
-b'Working towards all the Geophysics, but Backwards'@b'Rowan Cockett'@M@0.77@n@s
-b'Constructing Models to Deal with Missing Data'@b'Deborah Hanus'@F@1.00@n@s
-b'A "BLAS" for Tensors with Portable High Performance'@b'Devin Matthews'@M@0.78@n@s
-b'QIIME 2: Self-documenting, Extensible, and Reproducible Microbiome Analysis in Python 3.'@b'Greg Caporaso'@M@1.00@n@s
-b'Datashader: Revealing the Structure of Genuinely Big Data'@b'James A. Bednar'@M@0.99@n@s
-b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Jim Crist'@M@1.00@n@s
-b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Joseph Cottam'@M@0.99@n@s
-b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Peter Wang'@M@0.99@n@s
-b'Launching Python Applications on Peta-scale Massively Parallel Systems'@b'Yu Feng'@M@-1.00@n@s
-b'Emperor, Interactive Beta-diversity Exploration'@b'Yoshiki Vazquez-Baeza'@M@-1.00@n@s
-b'The FOSSEE Python Project'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Ondrej Certik'@M@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Isuru Fernando'@M@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Thilina Rathnayake'@M@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Abhinav Agarwal'@M@-1.00@n@s
-b'DyND Callables'@b'Mark Wiebe'@M@0.99@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Cathryn Carson'@F@1.00@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Sam Lau'@M@1.00@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Chris Holdgraf'@M@0.92@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Elaine Angelino'@F@1.00@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'David Culler'@M@0.99@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'John DeNero'@M@0.99@n@s
-b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Ryan Lovett'@M@0.98@n@s
-b'Automating Machine Learning?'@b'Andreas Mueller'@M@1.00@n@s
-b'Diffing and Merging Jupyter Notebooks with nbdime'@b'Min Ragan-Kelley'@M@-1.00@n@s
-b'Software Carpentry Instructor Training Room 108 (July 11 and 12)'@b'Ariel Rokem'@M@-1.00@n@s
-b'Software Carpentry Instructor Training Room 108 (July 11 and 12)'@b'Greg Wilson'@M@1.00@n@s
-b'Network Science and Statistics: Fundamentals and Applications (Intermediate) (Monday Session)'@b'Eric Ma'@M@0.99@t@s
-b'Deep Learning for Image Recognition (Beginner)'@b'Bargava Subramanian'@M@-1.00@t@s
-b'NumPy (Beginner)'@b'Alexandre Chabot-LeClerc'@M@1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Ondrej Certik'@M@-1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Amit Kumar'@M@1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Jason Moore'@M@0.99@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Aaron Meurer'@M@0.99@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Sartaj Singh'@M@-1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Harsh Gupta'@M@-1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matthias Bussonnier'@M@1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matt Davis'@M@1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Jessica Hamrick'@F@1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Ted Hart'@M@1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Kathryn Huff'@F@1.00@t@s
-b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Greg Wilson'@M@1.00@t@s
-b'Bokeh for Data Applications and Visualization (Intermediate)'@b'Bryan Van de Ven'@M@0.99@t@s
-b'Bokeh for Data Applications and Visualization (Intermediate)'@b'James A. Bednar'@M@0.99@t@s
-b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Jason Moore'@M@0.99@t@s
-b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Robert McMurry'@M@0.99@t@s
-b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Brandon Milam'@M@0.99@t@s
-b'Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)'@b'Peter Bull'@M@0.99@t@s
-b'Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)'@b'Isaac Slavitt'@M@1.00@t@s
-b'Numba: Tell those C++ bullies to get lost (Intermediate)'@b'Lorena Barba'@F@0.99@t@s
-b'Numba: Tell those C++ bullies to get lost (Intermediate)'@b'Gil Forsyth'@M@1.00@t@s
-b'Time Series Analysis with Python (Intermediate)'@b'Aileen Nielsen'@F@1.00@t@s
-b'Machine Learning with scikit-learn Part 1(Intermediate)'@b'Andreas Mueller'@M@1.00@t@s
-b'Machine Learning with scikit-learn Part 1(Intermediate)'@b'Sebastian Raschka'@M@1.00@t@s
-b'Matplotlib Tutorial (Beginner)'@b'Nicolas Rougier'@M@1.00@t@s
-b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Matthew Rocklin'@M@1.00@t@s
-b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Min RK'@M@0.53@t@s
-b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Ben Zaitlen'@M@0.99@t@s
-b'Network Science and Statistics: Fundamentals and Applications (Intermediate) (Tuesday Session)'@b'Eric Ma'@M@0.99@t@s
-b'Scikit-image: Image analysis in Python (Intermediate)'@b'Stefan van der Walt'@M@1.00@t@s
-b'Scikit-image: Image analysis in Python (Intermediate)'@b'Andreas Mueller'@M@1.00@t@s
-b'Scikit-image: Image analysis in Python (Intermediate)'@b'Juan Nunez-Iglesias'@M@0.99@t@s
-b'Machine Learning with scikit-learn Part 2(Intermediate)'@b'Andreas Mueller'@M@1.00@t@s
-b'Machine Learning with scikit-learn Part 2(Intermediate)'@b'Sebastian Raschka'@M@1.00@t@s
-b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0.99@t@s
-b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@M@0.99@t@s
-b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@M@1.00@t@s
-b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@F@0.91@t@s
+b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Cyrus Harrison'@0@M@1.00@n@s
+b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Brian Ryujin'@1@M@0.99@n@s
+b'Conduit: A Scientific Data Exchange Library for HPC Simulations'@b'Adam Kunen'@2@M@1.00@n@s
+b'PyTeCK: A Python-based Automatic Testing Package for Chemical Kinetic Models'@b'Kyle Niemeyer'@0@M@0.98@n@s
+b'Modeling Rate-and-State Friction with Python'@b'John Leeman'@0@M@0.99@n@s
+b'Psi4: A Case Study on Modernizing and Modularizing Quantum Chemistry with Python and C++'@b'Daniel Smith'@0@M@0.99@n@s
+b'A Simulation Framework for Studying the Code Acquisition and Tracking Functions of a Global Positioning System (GPS) Receiver'@b'Mark Wickert'@0@M@0.99@n@s
+b'Bootstrapping an Open Source Library: How MetPy Got Up and Running with Lazy Developers'@b'Ryan May'@0@M@0.98@n@s
+b'JupyterHub as an Interactive Supercomputing Gateway'@b'Michael Milligan'@0@M@0.99@n@s
+b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Bryan Weber'@0@M@0.99@n@s
+b'UConnRCMPy: Python-based data analysis for Rapid Compression Machines'@b'Chih-Jen Sung'@1@M@-1.00@n@s
+b'Getting More from Your Core: Processing and Analysis of Core CT Data'@b'Brendon Hall'@0@M@1.00@n@s
+b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Sean Seyler'@0@M@0.99@n@s
+b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'David Dotson'@1@M@0.99@n@s
+b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Max Linke'@2@M@1.00@n@s
+b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Richard Gowers'@3@M@0.99@n@s
+b'datreant: Persistent, Pythonic Trees for Heterogeneous Data'@b'Oliver Beckstein'@4@M@0.99@n@s
+b'Large Scale Geospatial Analytics with Python, Spark, and Impala'@b'Evan Wyse'@0@M@0.97@n@s
+b'Experiments as Iterators: asyncio in Science'@b'Daniel Allan'@0@M@0.99@n@s
+b'Experiments as Iterators: asyncio in Science'@b'Thomas Caswell'@1@M@0.99@n@s
+b'Experiments as Iterators: asyncio in Science'@b'Kenneth Lauer'@2@M@0.99@n@s
+b'Analysis and Visualization of 3D Data with yt'@b'Matthew Turk'@0@M@1.00@n@s
+b'Python at the Intersection of Data Science, Machine Learning and Cyber Anomaly Detection'@b'Randy Paffenroth'@0@M@0.99@n@s
+b'Reproducible, One-Button Workflows with the Jupyter Notebook and Scons'@b'Jessica Hamrick'@0@F@1.00@n@s
+b'Proselint: The Linting of Science Prose, and the Science of Prose Linting'@b'Michael Pacer'@0@M@0.99@n@s
+b'Proselint: The Linting of Science Prose, and the Science of Prose Linting'@b'Jordan Suchow'@1@M@0.86@n@s
+b'Python and R Together at Last: Writing Cross-Language Tools'@b'Bill Lattner'@0@M@1.00@n@s
+b'HistomicsTK: Seamless Analytics for Biomedical Microscopy'@b'Brian Helba'@0@M@0.99@n@s
+b'Reinventing the .whl: New Developments in the Upstream Python Packaging Ecosystem'@b'Nathaniel Smith'@0@M@0.99@n@s
+b'How to \xe2\x80\x9cScrape\xe2\x80\x9d Together a Great Dataset Using Things You Find on the Internet: Using Python & SciPy to Predict Oscar Winners & Box Office Hits'@b'Deborah Hanus'@0@F@1.00@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Oliver Beckstein'@0@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Richard Gowers'@1@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Max Linke'@2@M@1.00@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Jonathan Barnoud'@3@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Tyler Reddy'@4@M@0.97@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Manuel Melo'@5@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sean Seyler'@6@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Jan Dom\xc3\xa1nski'@7@F@0.58@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'David Dotson'@8@M@0.99@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sebastien Buchoux'@9@M@1.00@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Ian Kenney'@10@M@1.00@n@s
+b'Keynote: # High Performance with Python: Architectures, Approaches, and Applications'@b'Andreas Kl\xc3\xb6ckner'@0@M@1.00@k@s
+b'Dask: Parallel and Distributed Computing'@b'Matthew Rocklin'@0@M@1.00@n@s
+b'Dask: Parallel and Distributed Computing'@b'Jim Crist'@1@M@1.00@n@s
+b'HyperSpy - How to Easily Bend Multi-dimension Data to your (Analytical) Will.'@b'Tomas Ostasevicius'@0@M@1.00@n@s
+b'HOPE: A Python Just-In-Time Compiler for Astrophysical Computations'@b'Joel Akeret'@0@M@0.99@n@s
+b'Communicating Model Results'@b'Bargava Subramanian'@0@M@-1.00@n@s
+b'GR: Plotting with Python or Julia'@b'Josef Heinen'@0@M@1.00@n@s
+b'MONTE Python for Deep Space Navigation'@b'Jonathon Smith'@0@M@1.00@n@s
+b'High Quality, High Performance Clustering with HDBSCAN*'@b'Leland McInnes'@0@M@1.00@n@s
+b'High Quality, High Performance Clustering with HDBSCAN*'@b'John Healy'@1@M@0.99@n@s
+b'SymPy Code Generation'@b'Aaron Meurer'@0@M@0.99@n@s
+b'SymPy Code Generation'@b'Anthony Scopatz'@1@M@0.99@n@s
+b'Using Open Source Tools to Refactor Geoscience Education'@b'Lindsey Heagy'@0@F@0.98@n@s
+b'Integrating Scripting into Commercial Applications'@b'Eric Jones'@0@M@0.99@n@s
+b'PySPH: A Reproducible and High-performance Framework for Smoothed Particle Hydrodynamics'@b'Prabhu Ramachandran'@0@M@-1.00@n@s
+b'Sharing Reproducible Environments with Binder'@b'Andrew Osheroff'@0@M@0.99@n@s
+b'Computational Supply Chain Risk Management for Open Source Software'@b'Sebastian Benthall'@0@M@1.00@n@s
+b'Out with the Old and in with the New: Embedding Python in Old Fortran HPC Code'@b'Brendan Smithyman'@0@M@1.00@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Patrick Huck'@0@M@0.99@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Anubhav Jain'@1@M@-1.00@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Daniel Gunter'@2@M@0.99@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Donald Winston'@3@M@0.99@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Shreyas Cholia'@4@M@-1.00@n@s
+b'MPCite: Continuous and High-throughput Allocation of Digital Object Identifiers for Calculated and Contributed Data in the Materials Project'@b'Kristin Persson'@5@F@0.99@n@s
+b'Community Powered Packaging with conda-forge'@b'Philip Elson'@0@M@0.99@n@s
+b'Running Python Apps in the Browser'@b'Almar Klein'@0@M@-1.00@n@s
+b'Composable Multi-Threading for Python Libraries'@b'Anton Malakhov'@0@M@1.00@n@s
+b'Machine Learning for Time Series Data in Python'@b'Brett Naul'@0@M@0.98@n@s
+b"Governing Open Source Projects at Scale: Lessons from Wikipedia's Growing Pains"@b'Stuart Geiger'@0@M@1.00@n@s
+b'GT-Py: Accelerating NumPy programs on CPU&GPU with Minimal Programming Effort'@b'Chi-keung Luk'@0@M@-1.00@n@s
+b'"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud'@b'Demba Ba'@0@M@-1.00@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Samuel Skillman'@0@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Michael Warren'@1@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Steven Brumby'@2@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Rick Chartrand'@3@M@0.98@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Eric Chisolm'@4@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Eduardo Franco'@5@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Ryan Keisler'@6@M@0.98@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Tim Kelton'@7@M@1.00@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Caitlin Kontgis'@8@F@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Mark Mathis'@9@M@0.99@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Daniela Moody'@10@F@1.00@n@s
+b'Processing a Petabyte of Planetary Pixels with Python'@b'Xander Rudelis'@11@M@-1.00@n@s
+b'HoloViews: Let your Data Reveal Itself'@b'Philipp Rudiger'@0@M@1.00@n@s
+b'HoloViews: Let your Data Reveal Itself'@b'Jean-Luc Stevens'@1@M@-1.00@n@s
+b'HoloViews: Let your Data Reveal Itself'@b'James A. Bednar'@2@M@0.99@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Brian Granger'@0@M@0.99@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Steven Silvester'@1@M@0.99@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Jason Grout'@2@M@0.99@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Fernando Perez'@3@M@0.98@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Sylvain Corlay'@4@M@-1.00@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Chris Colbert'@5@M@0.92@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Cameron Oelsen'@6@M@0.88@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'David Willmer'@7@M@0.99@n@s
+b'JupyterLab: Building Blocks for Interactive Computing'@b'Afshin Darian'@8@M@-1.00@n@s
+b"A String Theorist's Journey with Python"@b'Chan Park'@0@M@0.54@n@s
+b'Give Your Data an Entrance Exam: Tools from Psychometrics for Data Quality Evaluation'@b'Katie Malone'@0@F@1.00@n@s
+b'Keynote: Machine Learning for Social Science'@b'Hanna Wallach'@0@F@0.95@k@s
+b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Matar Haller'@0@F@-1.00@n@s
+b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Jaya Narasimhan'@1@F@1.00@n@s
+b"Tell Me Something I Don't Know: Analyzing OkCupid Profiles"@b'Juan Shishido'@2@M@0.99@n@s
+b"What's new in Spyder 3.0"@b'Gonzalo Pe\xc3\xb1a-Castellanos'@0@M@1.00@n@s
+b"What's new in Spyder 3.0"@b'Carlos Cordoba'@1@M@0.99@n@s
+b'Generalized Earthquake Focal Mechanism Classification'@b'Ben Lasscock'@0@M@0.99@n@s
+b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Stanley Seibert'@0@M@0.99@n@s
+b'Scaling Up and Out: Programming GPU Clusters with Numba and Dask'@b'Siu Kwan Lam'@1@M@-1.00@n@s
+b'3D drawing in Python: Reviving Visual'@b'Catherine Holloway'@0@F@1.00@n@s
+b'Democratizing Geostats'@b'Nicholas Ronnei'@0@M@0.99@n@s
+b'QCDB: Database Tools for Managing and Harmonizing Quantum Chemistry'@b'Lori Burns'@0@F@1.00@n@s
+b'Hacking the CPython Interpreter'@b'James Powell'@0@M@0.99@n@s
+b'Working towards all the Geophysics, but Backwards'@b'Rowan Cockett'@0@M@0.77@n@s
+b'Constructing Models to Deal with Missing Data'@b'Deborah Hanus'@0@F@1.00@n@s
+b'A "BLAS" for Tensors with Portable High Performance'@b'Devin Matthews'@0@M@0.78@n@s
+b'QIIME 2: Self-documenting, Extensible, and Reproducible Microbiome Analysis in Python 3.'@b'Greg Caporaso'@0@M@1.00@n@s
+b'Datashader: Revealing the Structure of Genuinely Big Data'@b'James A. Bednar'@0@M@0.99@n@s
+b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Jim Crist'@1@M@1.00@n@s
+b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Joseph Cottam'@2@M@0.99@n@s
+b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Peter Wang'@3@M@0.99@n@s
+b'Launching Python Applications on Peta-scale Massively Parallel Systems'@b'Yu Feng'@0@M@-1.00@n@s
+b'Emperor, Interactive Beta-diversity Exploration'@b'Yoshiki Vazquez-Baeza'@0@M@-1.00@n@s
+b'The FOSSEE Python Project'@b'Prabhu Ramachandran'@0@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Ondrej Certik'@0@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Isuru Fernando'@1@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Thilina Rathnayake'@2@M@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Abhinav Agarwal'@3@M@-1.00@n@s
+b'DyND Callables'@b'Mark Wiebe'@0@M@0.99@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Cathryn Carson'@0@F@1.00@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Sam Lau'@1@M@1.00@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Chris Holdgraf'@2@M@0.92@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Elaine Angelino'@3@F@1.00@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'David Culler'@4@M@0.99@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'John DeNero'@5@M@0.99@n@s
+b'A Whirlwind Tour of UC Berkeley\xe2\x80\x99s Data Science Education Program'@b'Ryan Lovett'@6@M@0.98@n@s
+b'Automating Machine Learning?'@b'Andreas Mueller'@0@M@1.00@n@s
+b'Diffing and Merging Jupyter Notebooks with nbdime'@b'Min Ragan-Kelley'@0@M@-1.00@n@s
+b'Software Carpentry Instructor Training Room 108 (July 11 and 12)'@b'Ariel Rokem'@0@M@-1.00@n@s
+b'Software Carpentry Instructor Training Room 108 (July 11 and 12)'@b'Greg Wilson'@1@M@1.00@n@s
+b'Network Science and Statistics: Fundamentals and Applications (Intermediate) (Monday Session)'@b'Eric Ma'@0@M@0.99@t@s
+b'Deep Learning for Image Recognition (Beginner)'@b'Bargava Subramanian'@0@M@-1.00@t@s
+b'NumPy (Beginner)'@b'Alexandre Chabot-LeClerc'@0@M@1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Ondrej Certik'@0@M@-1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Amit Kumar'@1@M@1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Jason Moore'@2@M@0.99@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Aaron Meurer'@3@M@0.99@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Sartaj Singh'@4@M@-1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Harsh Gupta'@5@M@-1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matthias Bussonnier'@0@M@1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Matt Davis'@1@M@1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Jessica Hamrick'@2@F@1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Ted Hart'@3@M@1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Kathryn Huff'@4@F@1.00@t@s
+b'Software Carpentry Scientific Python Course Part 1 (Beginner)'@b'Greg Wilson'@5@M@1.00@t@s
+b'Bokeh for Data Applications and Visualization (Intermediate)'@b'Bryan Van de Ven'@0@M@0.99@t@s
+b'Bokeh for Data Applications and Visualization (Intermediate)'@b'James A. Bednar'@1@M@0.99@t@s
+b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Jason Moore'@0@M@0.99@t@s
+b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Robert McMurry'@1@M@0.99@t@s
+b'Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)'@b'Brandon Milam'@2@M@0.99@t@s
+b'Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)'@b'Peter Bull'@0@M@0.99@t@s
+b'Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)'@b'Isaac Slavitt'@1@M@1.00@t@s
+b'Numba: Tell those C++ bullies to get lost (Intermediate)'@b'Lorena Barba'@0@F@0.99@t@s
+b'Numba: Tell those C++ bullies to get lost (Intermediate)'@b'Gil Forsyth'@1@M@1.00@t@s
+b'Time Series Analysis with Python (Intermediate)'@b'Aileen Nielsen'@0@F@1.00@t@s
+b'Machine Learning with scikit-learn Part 1(Intermediate)'@b'Andreas Mueller'@0@M@1.00@t@s
+b'Machine Learning with scikit-learn Part 1(Intermediate)'@b'Sebastian Raschka'@1@M@1.00@t@s
+b'Matplotlib Tutorial (Beginner)'@b'Nicolas Rougier'@0@M@1.00@t@s
+b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Matthew Rocklin'@0@M@1.00@t@s
+b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Min RK'@1@M@0.53@t@s
+b'Parallel Python: Analyzing Large Datasets (Intermediate)'@b'Ben Zaitlen'@2@M@0.99@t@s
+b'Network Science and Statistics: Fundamentals and Applications (Intermediate) (Tuesday Session)'@b'Eric Ma'@0@M@0.99@t@s
+b'Scikit-image: Image analysis in Python (Intermediate)'@b'Stefan van der Walt'@0@M@1.00@t@s
+b'Scikit-image: Image analysis in Python (Intermediate)'@b'Andreas Mueller'@1@M@1.00@t@s
+b'Scikit-image: Image analysis in Python (Intermediate)'@b'Juan Nunez-Iglesias'@2@M@0.99@t@s
+b'Machine Learning with scikit-learn Part 2(Intermediate)'@b'Andreas Mueller'@0@M@1.00@t@s
+b'Machine Learning with scikit-learn Part 2(Intermediate)'@b'Sebastian Raschka'@1@M@1.00@t@s
+b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@0@M@0.99@t@s
+b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@0@M@0.99@t@s
+b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@0@M@1.00@t@s
+b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@1@F@0.91@t@s
 ##2016 179  21 158   0 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000011 Pover: 0.526043

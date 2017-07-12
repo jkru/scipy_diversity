@@ -1,34 +1,34 @@
-b'Flight Software Code Generaton Tools for the Mars Science Laboratory'@b'Leonard J. Reder'@M@0.99@l@s
-b'Climate Data Analysis Tools'@b'C. Doutriaux'@M@-1.00@l@s
-b'Climate Data Analysis Tools'@b'D.N. Williams'@M@-1.00@l@s
-b'The Numenta Platform for Intelligent Computing'@b'Inc. Numenta'@U@-1.00@l@s
-b'Teaching Scientific Computing with Python'@b'Rick Wagner'@M@1.00@l@s
-b'PyStream: Stream and GPU computing in Python'@b'Brian Granger'@M@1.00@l@s
-b'TVTK and MayaVi2'@b'Prabhu Ramachandran'@M@-1.00@l@s
-b'MLab'@b'Gael Varoquaux'@M@-1.00@l@s
-b'TConfig - Traits-based declarative configuration for programs'@b'Fernando Perez'@M@1.00@l@s
-b'A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package'@b'Bill Spotz'@M@1.00@l@s
-b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Fernando Perez'@M@1.00@t@s
-b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Brian Granger'@M@1.00@t@s
-b'Idiomatic Python'@b'Titus Brown'@M@1.00@t@s
-b'Wrapping Code with Python'@b'Bill Spotz'@M@1.00@t@s
-b'Wrapping Code with Python'@b'Eric Jones'@M@0.99@t@s
-b'SciPy for Signal Processing and Image Processing'@b'Travis E. Oliphant'@M@0.99@t@s
-b'Keynote'@b'Ivan Krstic'@M@0.99@k@s
-b'Python buffer interface'@b'Travis Oliphant'@M@0.99@n@s
-b"CorePy: Using Python on IBM's Cell/B.E."@b'Chris Mueller'@M@0.93@n@s
-b'Python and the Mock LISA Data Challenges'@b'Michele Vallisneri'@M@-1.00@n@s
-b'Interactive Plotting for Fun and Profit'@b'Peter Wang'@M@1.00@n@s
-b'Pygr: The Python Graph Database Framework for Bioinformatics'@b'Chris Lee'@M@0.93@n@s
-b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Enrico Vesperini'@M@1.00@n@s
-b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Doug Jones'@M@1.00@n@s
-b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Dave Goldberg'@M@1.00@n@s
-b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Steve McMillan'@M@0.99@n@s
-b'Evolving Wavelets using Scipy: Analysis of Controlled Plasma Transients'@b'Terence Yeoh'@M@0.99@n@s
-b'The Cartwheel Project: Python tools for regulatory genomics'@b'Titus Brown'@M@1.00@n@s
-b'The Galaxy platform for accessible and reproducible scientific research'@b'James Taylor'@M@0.99@n@s
-b'Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)'@b'Christfried Webers'@M@-1.00@n@s
-b'Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation'@b'Ondrej Certik'@M@-1.00@n@s
-b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Gregory Benson'@M@1.00@n@s
-b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Alexey S. Fedosov'@M@-1.00@n@s
+b'Flight Software Code Generaton Tools for the Mars Science Laboratory'@b'Leonard J. Reder'@0@M@0.99@l@s
+b'Climate Data Analysis Tools'@b'C. Doutriaux'@0@M@-1.00@l@s
+b'Climate Data Analysis Tools'@b'D.N. Williams'@1@M@-1.00@l@s
+b'The Numenta Platform for Intelligent Computing'@b'Inc. Numenta'@0@U@-1.00@l@s
+b'Teaching Scientific Computing with Python'@b'Rick Wagner'@0@M@1.00@l@s
+b'PyStream: Stream and GPU computing in Python'@b'Brian Granger'@0@M@1.00@l@s
+b'TVTK and MayaVi2'@b'Prabhu Ramachandran'@0@M@-1.00@l@s
+b'MLab'@b'Gael Varoquaux'@0@M@-1.00@l@s
+b'TConfig - Traits-based declarative configuration for programs'@b'Fernando Perez'@0@M@1.00@l@s
+b'A plug for numpy.i (swig interface file), and release 8.0 of Trilinos, including the PyTrilinos package'@b'Bill Spotz'@0@M@1.00@l@s
+b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Fernando Perez'@0@M@1.00@t@s
+b'Scientific Computing using IPython/!NumPy/!SciPy/matplotlib/etc.'@b'Brian Granger'@1@M@1.00@t@s
+b'Idiomatic Python'@b'Titus Brown'@0@M@1.00@t@s
+b'Wrapping Code with Python'@b'Bill Spotz'@0@M@1.00@t@s
+b'Wrapping Code with Python'@b'Eric Jones'@1@M@0.99@t@s
+b'SciPy for Signal Processing and Image Processing'@b'Travis E. Oliphant'@0@M@0.99@t@s
+b'Keynote'@b'Ivan Krstic'@0@M@0.99@k@s
+b'Python buffer interface'@b'Travis Oliphant'@0@M@0.99@n@s
+b"CorePy: Using Python on IBM's Cell/B.E."@b'Chris Mueller'@0@M@0.93@n@s
+b'Python and the Mock LISA Data Challenges'@b'Michele Vallisneri'@0@M@-1.00@n@s
+b'Interactive Plotting for Fun and Profit'@b'Peter Wang'@0@M@1.00@n@s
+b'Pygr: The Python Graph Database Framework for Bioinformatics'@b'Chris Lee'@0@M@0.93@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Enrico Vesperini'@0@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Doug Jones'@1@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Dave Goldberg'@2@M@1.00@n@s
+b'Beowulf Analysis Symbolic INterface-BASIN: a multi-user environment for parallel data analysis and visualization'@b'Steve McMillan'@3@M@0.99@n@s
+b'Evolving Wavelets using Scipy: Analysis of Controlled Plasma Transients'@b'Terence Yeoh'@0@M@0.99@n@s
+b'The Cartwheel Project: Python tools for regulatory genomics'@b'Titus Brown'@0@M@1.00@n@s
+b'The Galaxy platform for accessible and reproducible scientific research'@b'James Taylor'@0@M@0.99@n@s
+b'Elefant (Efficient Learning, Large-scale, Inference, and Optimization Toolkit)'@b'Christfried Webers'@0@M@-1.00@n@s
+b'Using Python for electronic structure calculations, nonlinear solvers, FEM and symbolic manipulation'@b'Ondrej Certik'@0@M@-1.00@n@s
+b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Gregory Benson'@0@M@1.00@n@s
+b'River: A Foundation for the Rapid Development of Reliable Parallel Programming Systems'@b'Alexey S. Fedosov'@1@M@-1.00@n@s
 ##2007  32   0  32   1 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.000000 Pover: 0.515090

@@ -1,19 +1,19 @@
-b'Biological Sciences Libraries'@b'Michel Sanner'@M@0.70@t@s
-b'Lightning Talks I'@b'Travis Vaught'@M@0.98@l@s
-b'Lightning Talks II'@b'Travis Vaught'@M@0.98@l@s
-b'NumArray'@b'Perry Greenfield'@M@0.98@t@s
-b'PMV and underlying components'@b'Michel Sanner'@M@0.70@t@s
-b'Faster Python Weave, Accelerate'@b'Eric Jones'@M@0.99@n@s
-b'Faster Python Weave, Accelerate'@b'Patrick Miller'@M@0.99@n@s
-b'Astronomy'@b'Perry Greenfield'@M@0.98@b@s
-b'Biology'@b'Michel Sanner'@M@0.70@b@s
-b'Intro to Numeric'@b'Eric Jones'@M@0.99@t@s
-b'Intro to SciPy'@b'Travis Oliphant'@M@0.98@t@s
-b'Graphics'@b'Dave Morrill'@M@0.99@t@s
-b'Graphics'@b'Eric Jones'@M@0.99@t@s
-b'Parallel Computing'@b'Patrick Miller'@M@0.99@t@s
-b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Michael Aivazis'@M@1.00@b@s
-b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Travis Vaught'@M@0.98@b@s
-b'SciPy Library Development'@b'Travis Oliphant'@M@0.98@n@s
-b'Visual Programming Components'@b'Michel Sanner'@M@0.70@n@s
+b'Biological Sciences Libraries'@b'Michel Sanner'@0@M@0.70@t@s
+b'Lightning Talks I'@b'Travis Vaught'@0@M@0.98@l@s
+b'Lightning Talks II'@b'Travis Vaught'@0@M@0.98@l@s
+b'NumArray'@b'Perry Greenfield'@0@M@0.98@t@s
+b'PMV and underlying components'@b'Michel Sanner'@0@M@0.70@t@s
+b'Faster Python Weave, Accelerate'@b'Eric Jones'@0@M@0.99@n@s
+b'Faster Python Weave, Accelerate'@b'Patrick Miller'@1@M@0.99@n@s
+b'Astronomy'@b'Perry Greenfield'@0@M@0.98@b@s
+b'Biology'@b'Michel Sanner'@0@M@0.70@b@s
+b'Intro to Numeric'@b'Eric Jones'@0@M@0.99@t@s
+b'Intro to SciPy'@b'Travis Oliphant'@0@M@0.98@t@s
+b'Graphics'@b'Dave Morrill'@0@M@0.99@t@s
+b'Graphics'@b'Eric Jones'@1@M@0.99@t@s
+b'Parallel Computing'@b'Patrick Miller'@0@M@0.99@t@s
+b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Michael Aivazis'@0@M@1.00@b@s
+b'Community Development - Standards, Peer Review, etc.(SciPy.org)'@b'Travis Vaught'@1@M@0.98@b@s
+b'SciPy Library Development'@b'Travis Oliphant'@0@M@0.98@n@s
+b'Visual Programming Components'@b'Michel Sanner'@0@M@0.70@n@s
 ##2002  18   0  18   0 Pexpect: 0.240000 Nexpect: 5 Pobs: 0.000000 Pover: 0.441367

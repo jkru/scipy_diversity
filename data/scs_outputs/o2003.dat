@@ -1,27 +1,27 @@
-b'NumArray: A status update'@b'Perry Greenfield'@M@0.99@n@s
-b'The Chaco plotting library: A status report'@b'Dave Morrill'@M@1.00@n@s
-b'The Chaco plotting library: A status report'@b'Eric Jones'@M@1.00@n@s
-b'Something Biological 1'@b'Michel Sanner'@M@0.68@n@s
-b'Parallel Programming'@b'Konrad Hinsen'@M@1.00@n@s
-b'Pyre'@b'Michael Aivazis'@M@0.99@n@s
-b'Grid Computing'@b'Keith Jackson'@M@0.99@n@s
-b'MayaVi'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'Accelerate Python'@b'Patrick Miller'@M@0.99@n@s
-b'Wavelet Library'@b'Chad Netzer'@M@1.00@n@s
-b'Exploratory space-time data analysis with Python'@b'Serge Rey'@M@1.00@n@s
-b'Exploratory space-time data analysis with Python'@b'Mark Janikas'@M@1.00@n@s
-b'Exploratory space-time data analysis with Python'@b'Boris Dev'@M@1.00@n@s
-b'Exploratory space-time data analysis with Python'@b'Young Sik-Kim'@M@1.00@n@s
-b'Ipython --An interactive shell for Python'@b'Fernando Perez'@M@0.99@n@s
-b'HippoDraw'@b'James Chiang'@M@0.99@n@s
-b'HippoDraw'@b'Paul Kunz'@M@0.99@n@s
-b'Large Scale Interoperability Framework with Python'@b'Matt Knepley'@M@1.00@n@s
-b'Python as a Key for the Development of a Large Numerical Model'@b'Mike Mueller'@M@0.99@n@s
-b'pyMPI'@b'Patrick Miller'@M@0.99@l@s
-b'NumArray Extensions'@b'Todd Miller'@M@1.00@l@s
-b'Sparse Matrices'@b'Travis Oliphant'@M@0.99@l@s
-b'Kiva'@b'Eric Jones'@M@1.00@l@s
-b'Augmented Reality Talk'@b'Michel Sanner'@M@0.68@l@s
-b'Systems Biology with Python'@b'Jeff Sosserman'@M@1.00@l@s
-b'Wrapping with SWIG and Boost: a comparison'@b'Prabhu Ramachandran'@M@-1.00@l@s
+b'NumArray: A status update'@b'Perry Greenfield'@0@M@0.99@n@s
+b'The Chaco plotting library: A status report'@b'Dave Morrill'@0@M@1.00@n@s
+b'The Chaco plotting library: A status report'@b'Eric Jones'@1@M@1.00@n@s
+b'Something Biological 1'@b'Michel Sanner'@0@M@0.68@n@s
+b'Parallel Programming'@b'Konrad Hinsen'@0@M@1.00@n@s
+b'Pyre'@b'Michael Aivazis'@0@M@0.99@n@s
+b'Grid Computing'@b'Keith Jackson'@0@M@0.99@n@s
+b'MayaVi'@b'Prabhu Ramachandran'@0@M@-1.00@n@s
+b'Accelerate Python'@b'Patrick Miller'@0@M@0.99@n@s
+b'Wavelet Library'@b'Chad Netzer'@0@M@1.00@n@s
+b'Exploratory space-time data analysis with Python'@b'Serge Rey'@0@M@1.00@n@s
+b'Exploratory space-time data analysis with Python'@b'Mark Janikas'@1@M@1.00@n@s
+b'Exploratory space-time data analysis with Python'@b'Boris Dev'@2@M@1.00@n@s
+b'Exploratory space-time data analysis with Python'@b'Young Sik-Kim'@3@M@1.00@n@s
+b'Ipython --An interactive shell for Python'@b'Fernando Perez'@0@M@0.99@n@s
+b'HippoDraw'@b'James Chiang'@0@M@0.99@n@s
+b'HippoDraw'@b'Paul Kunz'@1@M@0.99@n@s
+b'Large Scale Interoperability Framework with Python'@b'Matt Knepley'@0@M@1.00@n@s
+b'Python as a Key for the Development of a Large Numerical Model'@b'Mike Mueller'@0@M@0.99@n@s
+b'pyMPI'@b'Patrick Miller'@0@M@0.99@l@s
+b'NumArray Extensions'@b'Todd Miller'@0@M@1.00@l@s
+b'Sparse Matrices'@b'Travis Oliphant'@0@M@0.99@l@s
+b'Kiva'@b'Eric Jones'@0@M@1.00@l@s
+b'Augmented Reality Talk'@b'Michel Sanner'@0@M@0.68@l@s
+b'Systems Biology with Python'@b'Jeff Sosserman'@0@M@1.00@l@s
+b'Wrapping with SWIG and Boost: a comparison'@b'Prabhu Ramachandran'@0@M@-1.00@l@s
 ##2003  26   0  26   0 Pexpect: 0.240000 Nexpect: 7 Pobs: 0.000000 Pover: 0.436860

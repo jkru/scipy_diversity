@@ -1,61 +1,61 @@
-b'Advanced topics in matplotlib'@b'John Hunter'@M@0.99@t@s
-b'Symbolic computing with sympy'@b'Ondrej Certik'@M@-1.00@t@s
-b'Statistics with Scipy'@b'Robert Kern'@M@0.99@t@s
-b'Cython'@b'Dag Sverre Seljebotn'@M@-1.00@t@s
-b'Using GPUs with PyCUDA'@b'Nicolas Pinto'@M@1.00@t@s
-b'Designing scientific interfaces with Traits'@b'Enthought'@M@-1.00@t@s
-b'Mayavi/TVTK'@b'Prabhu Ramachandran'@M@-1.00@t@s
-b'Advanced numpy'@b'David Cournapeau'@M@0.99@t@s
-b'Advanced numpy'@b'Stefan van der Walt'@M@1.00@t@s
-b'Introductory to Scientific computing with Python'@b'Gael Varoquaux'@M@-1.00@n@s
-b'Introductory to Scientific computing with Python'@b'Stefan van der Walt'@M@1.00@n@s
-b'Introductory to Scientific computing with Python'@b'Christopher Burns'@M@0.99@n@s
-b'Introductory to Scientific computing with Python'@b'Mike Droettboom'@M@0.99@n@s
-b'Introductory to Scientific computing with Python'@b'Perry Greenfield'@M@0.97@n@s
-b'Introductory to Scientific computing with Python'@b'David Cournapeau'@M@0.99@n@s
-b'Introductory to Scientific computing with Python'@b'Eric Jones'@M@0.99@n@s
-b'Update on the core projects'@b'Charles Harrison'@M@0.99@k@s
-b'Update on the core projects'@b'Fernando Perez'@M@0.99@k@s
-b'Update on the core projects'@b'John Hunter'@M@0.99@k@s
-b'Update on the core projects'@b'David Cournapeau'@M@0.99@k@s
-b"Keynote: What to demand from a Scientific Computing Language -- Even if you don't care about computing or languages"@b'Peter Norvig'@M@0.99@n@s
-b'nipy.timeseries: Neuroimaging time-series analysis'@b'Ariel Rokem'@M@-1.00@n@s
-b'Virtual reality: a tool for the highly quantitative study of animal behavior'@b'Andrew Straw'@M@1.00@n@s
-b'Parallel Kernels: An Architecture for Distributed Parallel Computing'@b'Nikunj Patel'@M@-1.00@n@s
-b'PaPy: Parallel and distributed data-processing pipelines in Python'@b'Marcin Cieslik'@M@-1.00@n@s
-b'High-Performance Code Generation Using CorePy'@b'Andrew Friedley'@M@1.00@n@s
-b'Sherpa: 1D/2D modeling and fitting in Python'@b'Brian Refsdal'@M@1.00@n@s
-b'Multiprocess System for Virtual Instruments in Python'@b"Brian D'Urso"@M@1.00@n@s
-b'ESPResSo++: A Python-controlled, Parallel Simulation Software for Soft Matter Research'@b'Olaf Lenz'@M@1.00@n@s
-b'Sympy'@b'Ondrej Certik'@M@-1.00@n@s
-b'Python implementation of weno interpolation and reconstruction'@b'Adrian Townsend'@M@0.90@n@s
-b'Writing Safer NumPy Extensions in C++ with Templates and TooN'@b'Damian Eads'@M@0.97@k@s
-b'Keynote: Modeling of Materials with Python'@b'Jonathan Guyer'@M@0.99@n@s
-b'The PyMca Application and Toolkit'@b'Armando Sole'@M@0.99@n@s
-b'Implementation of automatic script recording and network control for Mayavi'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'Fast numerical computations with Cython'@b'Dag Sverre Seljebotn'@M@-1.00@n@s
-b'Fwrap: The Next-Generation Fortran-to-Python Interface Generator'@b'Kurt Smith'@M@1.00@n@s
-b'PySAL: A Python Library for Spatial Analysis and Geocomputation'@b'Serge Rey'@M@1.00@n@s
-b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Piotr Zolnierczuk'@M@-1.00@n@s
-b'Exploring the future of bioinformatics data sharing and mining with Pygr and Worldbase'@b'Chris Lee'@M@0.92@n@s
-b'A full software stack for visualizing next-generation sequence information'@b'Titus Brown'@M@1.00@n@s
-b'Pyclaw - The Evolution of Clawpack into Python'@b'Kyle Mandli'@M@0.97@n@s
-b'NumPy and SciPy Documentation in 2009 and Beyond'@b'Joe Harrington'@M@0.98@n@s
-b'Python in science and engineering education in India'@b'Prabhu Ramachandran'@M@-1.00@b@s
-b'Next challenges for Python in Science'@b'Jarrod Millman'@M@0.99@b@s
-b'The view of the pioneers'@b'John Hunter'@M@0.99@b@s
-b'The view of the pioneers'@b'Eric Jones'@M@0.99@b@s
-b'The view of the pioneers'@b'Charles Harrison'@M@0.99@b@s
-b'The view of the pioneers'@b'Fernando Perez'@M@0.99@b@s
-b'The view of the pioneers'@b'Prabhu Ramachandran'@M@-1.00@b@s
-b'The view of the young generation'@b'David Cournapeau'@M@0.99@b@s
-b'The view of the young generation'@b'Pauli Virtanen'@M@-1.00@b@s
-b'The view of the young generation'@b'Gael Varoquaux'@M@-1.00@b@s
-b'The view of the young generation'@b'Stefan van der Walt'@M@1.00@b@s
-b'Python and Parallel computing'@b'Michael Aivazis'@M@0.99@b@s
-b'Python and Parallel computing'@b'Brian Gael Varoquaux'@M@1.00@b@s
-b'State of Python visualization tools'@b'John Hunter'@M@0.99@b@s
-b'State of Python visualization tools'@b'Prabhu Ramachandran'@M@-1.00@b@s
-b'State of Python visualization tools'@b'Peter Wang'@M@0.99@b@s
-b'State of Python visualization tools'@b'Stefan van der Walt'@M@1.00@b@s
+b'Advanced topics in matplotlib'@b'John Hunter'@0@M@0.99@t@s
+b'Symbolic computing with sympy'@b'Ondrej Certik'@0@M@-1.00@t@s
+b'Statistics with Scipy'@b'Robert Kern'@0@M@0.99@t@s
+b'Cython'@b'Dag Sverre Seljebotn'@0@M@-1.00@t@s
+b'Using GPUs with PyCUDA'@b'Nicolas Pinto'@0@M@1.00@t@s
+b'Designing scientific interfaces with Traits'@b'Enthought'@0@M@-1.00@t@s
+b'Mayavi/TVTK'@b'Prabhu Ramachandran'@0@M@-1.00@t@s
+b'Advanced numpy'@b'David Cournapeau'@0@M@0.99@t@s
+b'Advanced numpy'@b'Stefan van der Walt'@1@M@1.00@t@s
+b'Introductory to Scientific computing with Python'@b'Gael Varoquaux'@0@M@-1.00@n@s
+b'Introductory to Scientific computing with Python'@b'Stefan van der Walt'@1@M@1.00@n@s
+b'Introductory to Scientific computing with Python'@b'Christopher Burns'@2@M@0.99@n@s
+b'Introductory to Scientific computing with Python'@b'Mike Droettboom'@3@M@0.99@n@s
+b'Introductory to Scientific computing with Python'@b'Perry Greenfield'@4@M@0.97@n@s
+b'Introductory to Scientific computing with Python'@b'David Cournapeau'@5@M@0.99@n@s
+b'Introductory to Scientific computing with Python'@b'Eric Jones'@6@M@0.99@n@s
+b'Update on the core projects'@b'Charles Harrison'@0@M@0.99@k@s
+b'Update on the core projects'@b'Fernando Perez'@1@M@0.99@k@s
+b'Update on the core projects'@b'John Hunter'@2@M@0.99@k@s
+b'Update on the core projects'@b'David Cournapeau'@3@M@0.99@k@s
+b"Keynote: What to demand from a Scientific Computing Language -- Even if you don't care about computing or languages"@b'Peter Norvig'@0@M@0.99@n@s
+b'nipy.timeseries: Neuroimaging time-series analysis'@b'Ariel Rokem'@0@M@-1.00@n@s
+b'Virtual reality: a tool for the highly quantitative study of animal behavior'@b'Andrew Straw'@0@M@1.00@n@s
+b'Parallel Kernels: An Architecture for Distributed Parallel Computing'@b'Nikunj Patel'@0@M@-1.00@n@s
+b'PaPy: Parallel and distributed data-processing pipelines in Python'@b'Marcin Cieslik'@0@M@-1.00@n@s
+b'High-Performance Code Generation Using CorePy'@b'Andrew Friedley'@0@M@1.00@n@s
+b'Sherpa: 1D/2D modeling and fitting in Python'@b'Brian Refsdal'@0@M@1.00@n@s
+b'Multiprocess System for Virtual Instruments in Python'@b"Brian D'Urso"@0@M@1.00@n@s
+b'ESPResSo++: A Python-controlled, Parallel Simulation Software for Soft Matter Research'@b'Olaf Lenz'@0@M@1.00@n@s
+b'Sympy'@b'Ondrej Certik'@0@M@-1.00@n@s
+b'Python implementation of weno interpolation and reconstruction'@b'Adrian Townsend'@0@M@0.90@n@s
+b'Writing Safer NumPy Extensions in C++ with Templates and TooN'@b'Damian Eads'@0@M@0.97@k@s
+b'Keynote: Modeling of Materials with Python'@b'Jonathan Guyer'@0@M@0.99@n@s
+b'The PyMca Application and Toolkit'@b'Armando Sole'@0@M@0.99@n@s
+b'Implementation of automatic script recording and network control for Mayavi'@b'Prabhu Ramachandran'@0@M@-1.00@n@s
+b'Fast numerical computations with Cython'@b'Dag Sverre Seljebotn'@0@M@-1.00@n@s
+b'Fwrap: The Next-Generation Fortran-to-Python Interface Generator'@b'Kurt Smith'@0@M@1.00@n@s
+b'PySAL: A Python Library for Spatial Analysis and Geocomputation'@b'Serge Rey'@0@M@1.00@n@s
+b'Neutron Scattering Data Acquisition and Experiment Automation with Python'@b'Piotr Zolnierczuk'@0@M@-1.00@n@s
+b'Exploring the future of bioinformatics data sharing and mining with Pygr and Worldbase'@b'Chris Lee'@0@M@0.92@n@s
+b'A full software stack for visualizing next-generation sequence information'@b'Titus Brown'@0@M@1.00@n@s
+b'Pyclaw - The Evolution of Clawpack into Python'@b'Kyle Mandli'@0@M@0.97@n@s
+b'NumPy and SciPy Documentation in 2009 and Beyond'@b'Joe Harrington'@0@M@0.98@n@s
+b'Python in science and engineering education in India'@b'Prabhu Ramachandran'@0@M@-1.00@b@s
+b'Next challenges for Python in Science'@b'Jarrod Millman'@0@M@0.99@b@s
+b'The view of the pioneers'@b'John Hunter'@0@M@0.99@b@s
+b'The view of the pioneers'@b'Eric Jones'@1@M@0.99@b@s
+b'The view of the pioneers'@b'Charles Harrison'@2@M@0.99@b@s
+b'The view of the pioneers'@b'Fernando Perez'@3@M@0.99@b@s
+b'The view of the pioneers'@b'Prabhu Ramachandran'@4@M@-1.00@b@s
+b'The view of the young generation'@b'David Cournapeau'@0@M@0.99@b@s
+b'The view of the young generation'@b'Pauli Virtanen'@1@M@-1.00@b@s
+b'The view of the young generation'@b'Gael Varoquaux'@2@M@-1.00@b@s
+b'The view of the young generation'@b'Stefan van der Walt'@3@M@1.00@b@s
+b'Python and Parallel computing'@b'Michael Aivazis'@0@M@0.99@b@s
+b'Python and Parallel computing'@b'Brian Gael Varoquaux'@1@M@1.00@b@s
+b'State of Python visualization tools'@b'John Hunter'@0@M@0.99@b@s
+b'State of Python visualization tools'@b'Prabhu Ramachandran'@1@M@-1.00@b@s
+b'State of Python visualization tools'@b'Peter Wang'@2@M@0.99@b@s
+b'State of Python visualization tools'@b'Stefan van der Walt'@3@M@1.00@b@s
 ##2009  60   0  60   0 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.000000 Pover: 0.477430

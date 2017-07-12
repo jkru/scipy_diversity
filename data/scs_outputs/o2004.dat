@@ -1,32 +1,32 @@
-b'keynote'@b'Jim Hugunin'@M@0.99@k@s
-b'Elmer: glues Pythons to other animals'@b'Rick Ratzel'@M@1.00@l@s
-b'New Traits Mechanism in Python'@b'Eric Jones'@M@0.99@l@s
-b'PyNGL: Visualization for the geosciences'@b'Mary Haley'@F@0.99@l@s
-b'Numarray status'@b'Perry Greenfield'@M@0.98@l@s
-b'Envisage: A scientific application framework'@b'Eric Jones'@M@0.99@n@s
-b'Adaptive PDE solvers using multiwavelets'@b'Fernando Perez'@M@0.99@n@s
-b'Sparse Matrices, Iterative Tools, and Optimization'@b'Travis Oliphant'@M@0.99@n@s
-b'Building Python-based Scientific Computation Platform from LiveZope DVD'@b'Chu-Ching Huang'@F@-1.00@n@s
-b'Matplotlib --- a 2D graphics package'@b'John Hunter'@M@1.00@n@s
-b'Software Components for Structural Bio-informatics'@b'Michel Sanner'@M@0.65@n@s
-b'The Enable and Chaco Toolkit'@b'Dave Morill'@M@0.99@n@s
-b'Python in a scientific camera testing system'@b'Andrew Moore'@M@1.00@n@s
-b'Multidrizzle: Automated Image Combination and Cosmic-Ray Identification Software'@b'Robert Jedrzejewski'@M@0.99@n@s
-b'Special Session: Making Python attractive to General Scientists'@b'Joe Harrington'@M@0.98@b@s
-b'Special Session: Making Python attractive to General Scientists'@b'Perry Greenfield'@M@0.98@b@s
-b'Python for CFD: A Case Study'@b'Prahbu Ramachandran'@M@-1.00@n@s
-b'ExoPy: A Python Interface to a Finite Element Database'@b'Vincent Urias'@M@0.99@n@s
-b'ExoPy: A Python Interface to a Finite Element Database'@b'Phil Sackinger'@M@1.00@n@s
-b'High Performance Data Management with PyTables and Family'@b'Francesc Alted'@M@-1.00@n@s
-b"Interactive Work in Python: IPython's Present and Future"@b'Fernando Perez'@M@0.99@n@s
-b'NetworkX: Growing a Python-based Toolbox for Complex Networks'@b'Aric Hagberg'@M@1.00@n@s
-b'Vision: Visual Programming for Python'@b'Daniel Stoffler'@M@1.00@n@s
-b'Vision: Visual Programming for Python'@b'Michel Sanner'@M@0.65@n@s
-b'PyARTK: a Python interface to ARToolKit, with Application in Molecular Biology'@b'Alexandre Gillet'@M@1.00@n@s
-b'Python in the Flexibility Study of Biological Molecules'@b'Yong Zhao'@M@1.00@n@s
-b'Experience with Python-based Tools for Proteomics'@b'Randy Heiland'@M@0.99@n@s
-b'Experience with Python-based Tools for Proteomics'@b'Charles Moad'@M@0.99@n@s
-b'Experience with Python-based Tools for Proteomics'@b'Sean Mooney'@M@0.99@n@s
-b'NEAT: A NITF 2.1 File Explorer'@b'Pranab Banerjee'@M@-1.00@n@s
-b'A Python Configure Replacement'@b'Matt Knepley'@M@1.00@n@s
+b'keynote'@b'Jim Hugunin'@0@M@0.99@k@s
+b'Elmer: glues Pythons to other animals'@b'Rick Ratzel'@0@M@1.00@l@s
+b'New Traits Mechanism in Python'@b'Eric Jones'@0@M@0.99@l@s
+b'PyNGL: Visualization for the geosciences'@b'Mary Haley'@0@F@0.99@l@s
+b'Numarray status'@b'Perry Greenfield'@0@M@0.98@l@s
+b'Envisage: A scientific application framework'@b'Eric Jones'@0@M@0.99@n@s
+b'Adaptive PDE solvers using multiwavelets'@b'Fernando Perez'@0@M@0.99@n@s
+b'Sparse Matrices, Iterative Tools, and Optimization'@b'Travis Oliphant'@0@M@0.99@n@s
+b'Building Python-based Scientific Computation Platform from LiveZope DVD'@b'Chu-Ching Huang'@0@F@-1.00@n@s
+b'Matplotlib --- a 2D graphics package'@b'John Hunter'@0@M@1.00@n@s
+b'Software Components for Structural Bio-informatics'@b'Michel Sanner'@0@M@0.65@n@s
+b'The Enable and Chaco Toolkit'@b'Dave Morill'@0@M@0.99@n@s
+b'Python in a scientific camera testing system'@b'Andrew Moore'@0@M@1.00@n@s
+b'Multidrizzle: Automated Image Combination and Cosmic-Ray Identification Software'@b'Robert Jedrzejewski'@0@M@0.99@n@s
+b'Special Session: Making Python attractive to General Scientists'@b'Joe Harrington'@0@M@0.98@b@s
+b'Special Session: Making Python attractive to General Scientists'@b'Perry Greenfield'@1@M@0.98@b@s
+b'Python for CFD: A Case Study'@b'Prahbu Ramachandran'@0@M@-1.00@n@s
+b'ExoPy: A Python Interface to a Finite Element Database'@b'Vincent Urias'@0@M@0.99@n@s
+b'ExoPy: A Python Interface to a Finite Element Database'@b'Phil Sackinger'@1@M@1.00@n@s
+b'High Performance Data Management with PyTables and Family'@b'Francesc Alted'@0@M@-1.00@n@s
+b"Interactive Work in Python: IPython's Present and Future"@b'Fernando Perez'@0@M@0.99@n@s
+b'NetworkX: Growing a Python-based Toolbox for Complex Networks'@b'Aric Hagberg'@0@M@1.00@n@s
+b'Vision: Visual Programming for Python'@b'Daniel Stoffler'@0@M@1.00@n@s
+b'Vision: Visual Programming for Python'@b'Michel Sanner'@1@M@0.65@n@s
+b'PyARTK: a Python interface to ARToolKit, with Application in Molecular Biology'@b'Alexandre Gillet'@0@M@1.00@n@s
+b'Python in the Flexibility Study of Biological Molecules'@b'Yong Zhao'@0@M@1.00@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Randy Heiland'@0@M@0.99@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Charles Moad'@1@M@0.99@n@s
+b'Experience with Python-based Tools for Proteomics'@b'Sean Mooney'@2@M@0.99@n@s
+b'NEAT: A NITF 2.1 File Explorer'@b'Pranab Banerjee'@0@M@-1.00@n@s
+b'A Python Configure Replacement'@b'Matt Knepley'@0@M@1.00@n@s
 ##2004  31   2  29   0 Pexpect: 0.240000 Nexpect: 8 Pobs: 0.002179 Pover: 0.475178

@@ -10,16 +10,6 @@ import pandas as pd
 import scipy_conf_parsers
 import name_class
 
-# CZW: 2017-06-20 problems with the parsers:
-#  2009  unremoved affiliations
-#  2012  mis-class due to (ln, fn) arrangement
-#  2013  incomplete due to (name, name, name) arrangement
-# CZW: 2017-06-25 todo:
-#  - Update name_check.author_check to do a better job on 2009/2012/2013 name splits
-#    - This update should do that. It seems to work better on (ln, fn) ordering, without
-#      harm to other years where that isn't an issue.  Seems to work for all years.
-#  - Add additional author weightings for statistics.  Currently uses only first authors
-
 # Use the dataframe constructed from the talks to generate statistics
 def talk_statistics(df, stats_name=None, type_select=None):
     # # Methodology following:
@@ -67,16 +57,26 @@ def talk_statistics(df, stats_name=None, type_select=None):
 # Pull out the year to consider.
 parser = argparse.ArgumentParser()
 parser.add_argument('year', type=int)
+parser.add_argument('-P', '--p_expect',  type=float)
+parser.add_argument('-f', '--file',      type=str)
+#parser.add_argument('-s', '--stats_name', type=str)
+#parser.add_argument('-t', '--type_select', type=str)
 args = parser.parse_args()
 
 # Set things up
 P_female_expect = 0.24 # This is likely not correct.  
+if args.p_expect is not None:
+    P_female_expect = args.p_expect
 talks = list()
 
-# Parse the given year
+# Generate a dataframe from the list of talks:
+talk_df = pd.DataFrame();
 
-if args.year is not None:
-    year = args.year
+year = args.year
+
+
+# Parse the given year
+if args.year > 0:
 
     talks += scipy_conf_parsers.defined_content(year)
     if year in scipy_conf_parsers.urls:
@@ -94,37 +94,41 @@ if args.year is not None:
                     talks += scipy_conf_parsers.p2011(url,'inner-content')
                 elif year == 2010:
                     talks += scipy_conf_parsers.p2011(url,'content')
-#                elif year == 2009 or year == 2008:
-#                    talks += scipy_conf_parsers.p2009(url,'section')
+                    
+    for talk in talks:
+        title,author,talk_type,talk_source = talk
 
-# Generate a dataframe from the list of talks:
-talk_df = pd.DataFrame();
-
-for talk in talks:
-    title,author,talk_type,talk_source = talk
-
-    author = re.sub('g.+?l\s+varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
-    author = re.sub('s.+?n\s+van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
-    author = re.sub('d.+?n\s+avila','Damian Avila', author, flags=re.IGNORECASE)
-    author = re.sub('carissa, geodecisions','Carissa Brittain', author, flags=re.IGNORECASE)
-    author = re.sub('o.+?j\s+\w+?ert\w+?k','Ondrej Certik', author, flags=re.IGNORECASE)
-    author = re.sub('s.*?ren\s+sonnenburg','Soren Sonnenburg', author, flags=re.IGNORECASE)
-    author = re.sub('B.+?n\s+Dahlgren','Bjorn Dahlgren', author) #, flags=re.IGNORECASE)
-    author = re.sub('R.+?i\s+?Rampin','Remi Rampin', author) #, flags=re.IGNORECASE)
-    author = re.sub('Jean-R\w+?mi\s+King','Jean-Remi King', author) #, flags=re.IGNORECASE)
-    author = re.sub('s\w+?n buchoux','Sebastien Buchoux', author, flags=re.IGNORECASE)
-    author = re.sub('&',';',author)
-
-    authors = name_class.author_class(author,year)
-    for author_index in range(0,len(authors)):
-
-        talk_tmp = pd.DataFrame({'title' : talk[0], 'author' : authors[author_index][0], \
-                                 'gender' : authors[author_index][1], 'author_order' : author_index, \
-                                 'gender_frac' : authors[author_index][2], 'talk_type' : talk[2] }, index = [0])
-        talk_df = talk_df.append(talk_tmp, ignore_index = True)
-        print("%s@%s@%s@%.2f@%s@%s" % (str(talk[0]).encode('utf-8'), str(authors[author_index][0]).encode('utf-8'), \
-                                  authors[author_index][1], authors[author_index][2], talk[2], talk[3]))
-
+        author = re.sub('g.+?l\s+varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
+        author = re.sub('s.+?n\s+van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
+        author = re.sub('d.+?n\s+avila','Damian Avila', author, flags=re.IGNORECASE)
+        author = re.sub('carissa, geodecisions','Carissa Brittain', author, flags=re.IGNORECASE)
+        author = re.sub('o.+?j\s+\w+?ert\w+?k','Ondrej Certik', author, flags=re.IGNORECASE)
+        author = re.sub('s.*?ren\s+sonnenburg','Soren Sonnenburg', author, flags=re.IGNORECASE)
+        author = re.sub('B.+?n\s+Dahlgren','Bjorn Dahlgren', author) #, flags=re.IGNORECASE)
+        author = re.sub('R.+?i\s+?Rampin','Remi Rampin', author) #, flags=re.IGNORECASE)
+        author = re.sub('Jean-R\w+?mi\s+King','Jean-Remi King', author) #, flags=re.IGNORECASE)
+        author = re.sub('s\w+?n buchoux','Sebastien Buchoux', author, flags=re.IGNORECASE)
+        author = re.sub('&',';',author)
+        
+        authors = name_class.author_class(author,year)
+        for author_index in range(0,len(authors)):
+        
+            talk_tmp = pd.DataFrame({'title' : talk[0], 'author' : authors[author_index][0], \
+                                     'gender' : authors[author_index][1], 'author_order' : author_index, \
+                                     'gender_frac' : authors[author_index][2], 'talk_type' : talk[2] }, index = [0])
+            talk_df = talk_df.append(talk_tmp, ignore_index = True)
+            print("%s@%s@%d@%s@%.2f@%s@%s" % (str(talk[0]).encode('utf-8'), str(authors[author_index][0]).encode('utf-8'), \
+                                              author_index, authors[author_index][1], authors[author_index][2], talk[2], talk[3]))
+else:
+    input_file = open(args.file,"r")
+    for line in input_file:
+        if not line.startswith('#'):
+            title, author, author_index, gender, gender_frac, talk_type, talk_source = line.strip().split('@')
+            talk_tmp = pd.DataFrame({'title' : title, 'author' : author, \
+                                     'gender' : gender, 'author_order' : author_index, \
+                                     'gender_frac' : gender_frac, 'talk_type' : talk_type }, index = [0])
+            talk_df = talk_df.append(talk_tmp, ignore_index = True)
+        
         
 N_talks, N_female, N_male, N_female_expect, P_female_frac, P_female_overrep = talk_statistics(talk_df, stats_name="equal_weight")
 N_unclass = talk_df.shape[0] - N_talks
