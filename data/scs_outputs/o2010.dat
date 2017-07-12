@@ -21,7 +21,7 @@ b'Transparent GPU Computing with Theano'@b'Joseph Turian'@M@0.99@n@s
 b'Transparent GPU Computing with Theano'@b'Yoshua Bengio'@M@-1.00@n@s
 b'A High Performance Robot Vision Algorithm Implemented in Python'@b'S. Chris Colbert'@M@-1.00@n@s
 b'Audio-Visual Automatic Speech Recognition in Python'@b'Helge Reikeras'@M@-1.00@n@s
-b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'S\xc3\x83\xc2\xb6ren Sonnenburg'@U@-1.00@n@s
+b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Soren Sonnenburg'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Gunnar Raetsch'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Sebastian Henschel'@M@1.00@n@s
 b'SHOGUN - A Large Scale Machine Learning Toolbox'@b'Christian Widmer'@M@0.93@n@s
@@ -100,4 +100,4 @@ b'Python in Geophysical Hazard Prediction'@b'Kyle Mandli'@M@0.97@l@s
 b'Radar Emulation Using NumPy'@b'Baseem Ali'@M@-1.00@l@s
 b'Matplotlib Gallery Improvements'@b'Josh Hemann'@M@1.00@l@s
 b'Python Evangelism 101'@b'Peter Wang'@M@1.00@l@s
-##2010 100   4  96   2 Pexpect: 0.240000 Nexpect: 24 Pobs: 0.000000 Pover: 0.538551
+##2010 101   4  97   1 Pexpect: 0.240000 Nexpect: 25 Pobs: 0.000000 Pover: 0.467824

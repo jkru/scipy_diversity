@@ -31,6 +31,7 @@ b'Hyperopt: A Python library for optimizing the hyperparameters of machine learn
 b'Julia and Python: a dynamic duo for scientific computing'@b'Jeff Bezanson'@M@1.00@n@s
 b'Julia and Python: a dynamic duo for scientific computing'@b'Stefan Karpinski'@M@1.00@n@s
 b'GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization'@b'Ramalingam Saravanan'@M@-1.00@n@s
+b'GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization'@b'M University'@U@-1.00@n@s
 b'Using Python for Structured Prediction'@b'Rob Zinkov'@M@1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Serge Guelton'@M@1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Pierrick Brunet'@M@-1.00@n@s
@@ -39,7 +40,8 @@ b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Adrien 
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Mehdi Amini'@M@1.00@n@s
 b'The advantages of a scientific IDE'@b'Carlos Cordoba'@M@0.99@n@s
 b'Processing biggish data on commodity hardware: simple Python patterns'@b'Gael Varoquaux Institution: INRIA'@M@-1.00@n@s
-b'XDress - Type, But Verify'@b'Anthony, The University of Chicago & NumFOCUS, Inc. Scopatz'@M@-1.00@n@s
+b'XDress - Type, But Verify'@b'Anthony Scopatz'@M@0.99@n@s
+b'XDress - Type, But Verify'@b'NumFOCUS'@U@-1.00@n@s
 b'An efficient workflow for reproducible science'@b'Trevor Bekolay'@M@0.99@n@s
 b'Python Tools for Coding and Feature Learning'@b'Leif Johnson'@M@1.00@n@s
 b'Keynote: Trends in Machine Learning and the SciPy community'@b'Olivier Grisel'@M@1.00@k@s
@@ -164,4 +166,4 @@ b'Diving into NumPy code'@b'David Cournapeau'@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@M@-1.00@t@s
 b'An Introduction to scikit-learn (II)'@b'Gael Varoquaux'@M@-1.00@t@s
-##2013 161  15 146   5 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898
+##2013 161  15 146   7 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898

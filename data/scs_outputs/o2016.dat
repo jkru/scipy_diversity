@@ -37,7 +37,7 @@ b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simu
 b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sean Seyler'@M@0.99@n@s
 b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Jan Dom\xc3\xa1nski'@F@0.58@n@s
 b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'David Dotson'@M@0.99@n@s
-b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'S\xc3\xa9bastien Buchoux'@U@-1.00@n@s
+b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Sebastien Buchoux'@M@1.00@n@s
 b'MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations'@b'Ian Kenney'@M@1.00@n@s
 b'Keynote: # High Performance with Python: Architectures, Approaches, and Applications'@b'Andreas Kl\xc3\xb6ckner'@M@1.00@k@s
 b'Dask: Parallel and Distributed Computing'@b'Matthew Rocklin'@M@1.00@n@s
@@ -120,7 +120,7 @@ b'Datashader: Revealing the Structure of Genuinely Big Data'@b'Peter Wang'@M@0.9
 b'Launching Python Applications on Peta-scale Massively Parallel Systems'@b'Yu Feng'@M@-1.00@n@s
 b'Emperor, Interactive Beta-diversity Exploration'@b'Yoshiki Vazquez-Baeza'@M@-1.00@n@s
 b'The FOSSEE Python Project'@b'Prabhu Ramachandran'@M@-1.00@n@s
-b'SymEngine: A Fast Symbolic Manipulation Library'@b'Ond\xc5\x99ej \xc4\x8cert\xc3\xadk'@U@-1.00@n@s
+b'SymEngine: A Fast Symbolic Manipulation Library'@b'Ondrej Certik'@M@-1.00@n@s
 b'SymEngine: A Fast Symbolic Manipulation Library'@b'Isuru Fernando'@M@-1.00@n@s
 b'SymEngine: A Fast Symbolic Manipulation Library'@b'Thilina Rathnayake'@M@-1.00@n@s
 b'SymEngine: A Fast Symbolic Manipulation Library'@b'Abhinav Agarwal'@M@-1.00@n@s
@@ -139,7 +139,7 @@ b'Software Carpentry Instructor Training Room 108 (July 11 and 12)'@b'Greg Wilso
 b'Network Science and Statistics: Fundamentals and Applications (Intermediate) (Monday Session)'@b'Eric Ma'@M@0.99@t@s
 b'Deep Learning for Image Recognition (Beginner)'@b'Bargava Subramanian'@M@-1.00@t@s
 b'NumPy (Beginner)'@b'Alexandre Chabot-LeClerc'@M@1.00@t@s
-b'Symbolic Compution with Python using SymPy (Beginner)'@b'Ond\xc5\x99ej \xc4\x8cert\xc3\xadk'@U@-1.00@t@s
+b'Symbolic Compution with Python using SymPy (Beginner)'@b'Ondrej Certik'@M@-1.00@t@s
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Amit Kumar'@M@1.00@t@s
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Jason Moore'@M@0.99@t@s
 b'Symbolic Compution with Python using SymPy (Beginner)'@b'Aaron Meurer'@M@0.99@t@s
@@ -177,4 +177,4 @@ b'Analyzing and Manipulating Data with Pandas (Beginner)'@b'Jonathan Rocher'@M@0
 b'Scalable Hierarchical Parallel Computing (Intermediate)'@b'Michael McKerns'@M@0.99@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Serge Rey'@M@1.00@t@s
 b'Geographic Data Science with PySAL and the pydata stack (Beginner)'@b'Dani Arribas-Bel'@F@0.91@t@s
-##2016 176  21 155   3 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000018 Pover: 0.475610
+##2016 179  21 158   0 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000011 Pover: 0.526043

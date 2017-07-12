@@ -26,6 +26,30 @@ b'Astropy - Herding Snakes or Astronomers: which is more difficult?'@b'Perry Gre
 b'A Unified Release of Python & IRAF software for astronomy'@b'James E.H. Turner'@M@0.99@n@s
 b'AstroML: data mining and machine learning for Astronomy'@b'Jake Vanderplas'@M@0.99@n@s
 b'yt: An Integrated Science Environment for Astrophysical Simulations'@b'Matthew Turk'@M@0.99@n@s
+b'Python as Super Glue for the Modern Scientific Workflow'@b'Joshua Bloom'@M@0.99@n@s
+b'IPython: tools for the entire lifecycle of research computing'@b'Fernando Perez'@M@0.99@n@s
+b'Interactive Visualization Widgets Using Chaco and Enable'@b'Corran Webster'@M@-1.00@n@s
+b'Total Recall: flmake and the Quest for Reproducibility'@b'Anthony Scopatz'@M@0.99@n@s
+b'Bokeh: An Extensible Implementation of the Grammar of Graphics for Python'@b'Peter Wang'@M@0.99@n@s
+b'nD image segmentation using learned region agglomeration with the Ray Python library'@b'Juan Nunez-Iglesias'@M@0.99@n@s
+b"luban: a minimalist UI 'language'"@b'Jiao Lin'@M@-1.00@n@s
+b'PythonTeX: Fast Access to Python from within LaTeX'@b'Geoffrey Poore'@M@1.00@n@s
+b"Python's role in VisIt"@b'Cyrus Harrison'@M@1.00@n@s
+b'Forking your way to success and happiness: how GitHub style collaboration is ushering in a new era of amateur led innovation.'@b'Tim Clem'@M@1.00@n@s
+b'Param: Declarative programming using Parameters'@b'James Bednar'@M@0.99@n@s
+b'Enaml - A Framework for Building Declarative User Interfaces'@b'Chris Colbert'@M@0.90@n@s
+b'Object Oriented Finite Elements at NIST'@b'Andrew Reid'@M@1.00@n@s
+b'Surface Subdivision Schemes for Python'@b'Stephen McQuay'@M@0.99@n@s
+b'QuTiP: An open-source Python framework for the dynamics of open quantum systems'@b'Robert Johansson'@M@0.99@n@s
+b'Fcm - A python library for flow cytometry'@b'Jacob Frelinger'@M@0.99@n@s
+b'TuLiP: a toolbox for hybrid and reactive systems research'@b'Scott Livingston'@M@1.00@n@s
+b'nmrglue: a Python Module for Working with NMR Data.'@b'Jonathan Helmus'@M@0.99@n@s
+b'Utilizing Python in a Real-Time, Quasi-Operational Meteorological Environment'@b'Patrick Marsh'@M@0.99@n@s
+b'Py-ART: Python for remote sensing science'@b'Scott Collis'@M@1.00@n@s
+b"Can Python's web and science communities run concurrently?"@b'Eric Bruning'@M@0.99@n@s
+b'Python @ Life'@b'Daniel Williams'@M@0.99@n@s
+b'How Sequencing Saved Python'@b'Chris Mueller'@M@0.90@n@s
+b'Domain Analysis of Mosaic Proteins in Purple Sea Urchin'@b'Adam Hughes'@M@0.99@n@s
 b'Introduction to NumPy and Matplotlib'@b'Eric Jones'@M@0.99@t@s
 b'scikit-learn'@b'Jake Vanderplas'@M@0.99@t@s
 b'HDF5 is for lovers'@b'Anthony Scopatz'@M@0.99@t@s
@@ -34,4 +58,4 @@ b'Efficient Parallel Python for High-Performance Computing'@b'Kurt Smith'@M@1.00
 b'Time Series Data Analysis with pandas'@b'Wes McKinney'@M@1.00@t@s
 b'IPython in-depth: Interactive Tools for Scientific Computing'@b'Fernando Perez'@M@0.99@t@s
 b'statsmodels'@b'Skipper Seabold'@M@1.00@t@s
-##2012  36   0  36   0 Pexpect: 0.240000 Nexpect: 9 Pobs: 0.000000 Pover: 0.508033
+##2012  60   0  60   0 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.000000 Pover: 0.477430

@@ -67,6 +67,7 @@ external_authors = {
     'nikunj'    : 'M',
     'ondrej'    : 'M',
     'ond\xc5\x99ej' :'M',
+    'pauli' : 'M',
     'pavel' : 'M',
     'pierrick' : 'M', 
     'piotr' : 'M',
@@ -202,7 +203,7 @@ override_authors = {
     'horea-ioan ioanas' : 'M',
     'yongjun choi': 'M',
     'gautham dharuman': 'M',
-
+    'jiao lin' : 'M',
 
 
 #    'stéfan van der walt' : 'M',

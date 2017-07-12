@@ -5,11 +5,11 @@ b'Using Python to Process and Visualize Real-Time Atmospheric Data During VORTEX
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Alexandre Gramfort'@M@0.89@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Eric Larson'@M@0.99@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Denis Engemann'@M@0.88@n@s
-b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jaakko Lepp\xc3\xa4kangas'@U@-1.00@n@s
+b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jaakko Lepp\xc3\xa4kangas'@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Mainak Jas'@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Christian Brodbeck'@M@0.85@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Teon B Brooks'@M@1.00@n@s
-b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jean-R\xc3\xa9mi King'@U@-1.00@n@s
+b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jean-Remi King'@U@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Chris Holdgraf'@M@0.89@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Marijn van Vliet'@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Matti Hamalainen'@F@1.00@n@s
@@ -39,7 +39,7 @@ b'SciSheets: Providing the Power of Programming with the Simplicity of Spreadshe
 b'SciSheets: Providing the Power of Programming with the Simplicity of Spreadsheets'@b'Alicia Clark'@F@1.00@n@s
 b'The OOF Finite Element Tool for Materials Science'@b'Andrew Reid'@M@0.99@n@s
 b'Robust Color Matching of Geospatial Data: An Alternative to Histogram Matching'@b'Joe Kington'@M@0.99@n@s
-b'Using Mystic to Accelerate Data Science'@b'Michael McKerns'@M@0.99@n@s
+b'pomegranate: Fast and Flexible Probabilistic Modeling in Python'@b'Jacob Schreiber'@M@0.99@n@s
 b'Quantifying Plastic Deformation using Machine Learning'@b'Michail Tzimas'@M@1.00@n@s
 b'Berryconda : Scientific Python on the Raspberry Pi'@b'Jonathan Helmus'@M@0.99@n@s
 b'Reskit \xe2\x80\x94 A Library for Creating and Curating Reproducible Pipelines for Scientific Machine Learning'@b'Dmitry Petrov'@M@-1.00@n@s
@@ -50,7 +50,7 @@ b'MatchPy: A Pattern Matching Library'@b'Manuel Krebber'@M@0.99@n@s
 b'Distributed Convex Optimization for GLMs'@b'Chris White'@M@0.89@n@s
 b'Distributed Convex Optimization for GLMs'@b'Hussain Sultan'@M@1.00@n@s
 b'Designing a Python-based Monte Carlo Tool for Generating Non-Equilibrium Semi-Crystalline Polymer Configurations'@b'Tyler Martin'@M@0.97@n@s
-b'Keynote: Coding for Science and Innovation'@b'Ga\xc3\xabl Varoquaux'@M@-1.00@k@s
+b'Keynote: Coding for Science and Innovation'@b'Gael Varoquaux'@M@-1.00@k@s
 b'Composable Multiprocessing and Multithreading for Numeric Libraries'@b'Anton Malakhov'@M@1.00@n@s
 b'Composable Multiprocessing and Multithreading for Numeric Libraries'@b'Anton Gorshkov'@M@1.00@n@s
 b'Composable Multiprocessing and Multithreading for Numeric Libraries'@b'Terry Wilmarth'@M@0.92@n@s
@@ -105,7 +105,7 @@ b'Scientific MicroPython on Microcontrollers and IoT'@b'Roberto Colistete Jr'@M@
 b'HDF Data Services'@b'John Readey'@M@0.99@n@s
 b'Creating Reproducible Experiments with ReproZip'@b'Vicky Steeves'@F@0.98@n@s
 b'Creating Reproducible Experiments with ReproZip'@b'Fernando Chirigati'@M@0.99@n@s
-b'Creating Reproducible Experiments with ReproZip'@b'R\xc3\xa9mi Rampin'@U@-1.00@n@s
+b'Creating Reproducible Experiments with ReproZip'@b'Remi Rampin'@F@1.00@n@s
 b'Efficient Array Computing in C++ with xtensor and Apache Arrow'@b'Johan Mabille'@M@1.00@n@s
 b'Efficient Array Computing in C++ with xtensor and Apache Arrow'@b'Sylvain Corlay'@M@-1.00@n@s
 b'Hunting for Emerging Trends in Music Using Bayesian Inference'@b'Alex Companioni'@M@0.98@n@s
@@ -144,7 +144,7 @@ b'Numba: Tell Those C++ Bullies to Get Lost (Intermediate)'@b'Gil Forsyth'@M@1.0
 b'Numba: Tell Those C++ Bullies to Get Lost (Intermediate)'@b'Lorena Barba'@F@0.99@t@s
 b'Automatic Code Generation with SymPy (Advanced)'@b'Jason Moore'@M@0.99@t@s
 b'Automatic Code Generation with SymPy (Advanced)'@b'Aaron Meurer'@M@0.99@t@s
-b'Automatic Code Generation with SymPy (Advanced)'@b'Bj\xc3\xb6rn Dahlgren'@U@-1.00@t@s
+b'Automatic Code Generation with SymPy (Advanced)'@b'Bjorn Dahlgren'@M@1.00@t@s
 b'Automatic Code Generation with SymPy (Advanced)'@b'Kenneth Lyons'@M@0.99@t@s
 b'Modern Optimization Methods in Python (Intermediate/Advanced)'@b'Michael McKerns'@M@0.99@n@s
 b'Software Carpentry Scientific Python Course Part 2 (Beginner)'@b'Maxim Belkin'@M@1.00@t@s
@@ -175,4 +175,4 @@ b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Andreas Mueller'
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Alexandre Gramfort'@M@0.89@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Mark Wickert'@M@0.99@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@M@-1.00@t@s
-##2017 173  35 138   4 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.103901 Pover: 0.495242
+##2017 176  36 140   1 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.115671 Pover: 0.475610
