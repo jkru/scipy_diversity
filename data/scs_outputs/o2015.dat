@@ -1,3 +1,61 @@
+b'A Bioinformatic Pipeline to Search for Genetic Variants of Wood Frog Environmental Response Genes'@b'Jordan Brooker'@0@M@0.81@p@s
+b'A Web-based Visualization Platform for Microbiome Metaproteomics'@b'Sandip Chatterjee'@0@M@1.00@p@s
+b'Comparing and Evaluating Clustering Methods for Protein Simulations'@b'Jan H. Meinke'@0@M@-1.00@p@s
+b'Computational Astrophysical Hydrodynamics for Students'@b'Michael Zingale'@0@M@0.99@p@s
+b'Detecting Carcinogenic Somatic Mutations Using Scikit-learn'@b'Chak-Pong Chung'@0@U@-1.00@p@s
+b'Developing Robust and Maintainable PyQt GUI Applications for Neutron Scattering at a Large DOE User Facility'@b'Wenduo Zhou'@0@U@-1.00@p@s
+b'Developing Robust and Maintainable PyQt GUI Applications for Neutron Scattering at a Large DOE User Facility'@b'Ke An'@1@U@-1.00@p@s
+b'Developing Robust and Maintainable PyQt GUI Applications for Neutron Scattering at a Large DOE User Facility'@b'Jean-Christophe Bilheux'@2@M@-1.00@p@s
+b'Developing Robust and Maintainable PyQt GUI Applications for Neutron Scattering at a Large DOE User Facility'@b'Stephen D. Miller'@3@M@0.99@p@s
+b'Developing Robust and Maintainable PyQt GUI Applications for Neutron Scattering at a Large DOE User Facility'@b'Peter F. Peterson'@4@M@0.99@p@s
+b'Development of Large Image Analysis Workflows in the Context '@b'Dhanannjay Djay Deo'@0@U@-1.00@p@s
+b'Development of Large Image Analysis Workflows in the Context '@b'Brian Helba'@1@M@0.99@p@s
+b'Epithelial Tissue Simulation and with Initial Conditions Taken From In Vivo Images'@b'Melvyn Drag'@0@M@1.00@p@s
+b'ESPResSo++: A Parallel Python Module for Soft Matter Simulations'@b'Horacio Vargas Guzman'@0@M@1.00@p@s
+b'ESPResSo++: A Parallel Python Module for Soft Matter Simulations'@b'Torsten Stuehn'@1@U@-1.00@p@s
+b'MetOceanTrack: A Desktop GUI to Simulate The Dispersal of Invasive Species in Coastal and Continental Shelf Regions'@b'Andre Lobato'@0@M@0.98@p@s
+b'Patient Signals - Building and Deploying Predictive Apps in Healthcare'@b'Corey Chivers'@0@M@0.94@p@s
+b'Perceptual Colormaps in matplotlib with an Application in Oceanography'@b'Kristen Thyng'@0@F@0.99@p@s
+b'Performance of PyCUDA (Python in GPU High Performance Computing)'@b'Roberto Colistete Junior'@0@M@0.99@p@s
+b'Python Tool to Load, Process, and Plot Conductive Temperature Depth (CTD) data'@b'Filipe Fernandes'@0@M@1.00@p@s
+b'Reassortment Primes Influenza for Ecotype Switches'@b'Eric Ma'@0@M@0.99@p@s
+b'Relation: The Missing Container'@b'James Larkin'@0@M@0.99@p@s
+b'Relation: The Missing Container'@b'Scott James'@1@M@1.00@p@s
+b'Risk Analysis of Privacy Invasion in Social Network using Python with SciPy'@b'Jun-Bum Park'@0@U@-1.00@p@s
+b'rsfmodel - A Frictional Modeling Tool for Fault and Laboratory Data Analysis'@b'John Leeman'@0@M@0.99@p@s
+b'rsfmodel - A Frictional Modeling Tool for Fault and Laboratory Data Analysis'@b'Ryan May'@1@M@0.98@p@s
+b'The Use of Python in the Large-Scale Analysis and Identification of Potential Antimicrobial Peptides'@b'Shaylyn Scott'@0@F@1.00@p@s
+b'TLS Benchmarking with IPython'@b'Christopher Niemira'@0@M@0.99@p@s
+b'Toolset and Workflow for Verification, Validation and Uncertainty Quantification in Large-scale Engineering Applications'@b'Damon McDougall'@0@M@0.99@p@s
+b'Topological Data Analysis using Python'@b'Dan Dickinson'@0@M@0.98@p@s
+b'Using Python and Jupyter Notebooks for a Biomedical Imaging Phenotyping Service'@b'Brian Chapman'@0@M@0.99@p@s
+b'Using Python and Jupyter Notebooks for a Biomedical Imaging Phenotyping Service'@b'John Roberts'@1@M@0.99@p@s
+b'Using Python and Jupyter Notebooks for a Biomedical Imaging Phenotyping Service'@b'Stuart Schulthies'@2@M@1.00@p@s
+b'Using Python to Manage 800,000 WAAS Data Points per Second'@b'Benjamin Potter'@0@M@0.99@p@s
+b'Using Self Organizing Maps to Visualize and Cluster High Dimensional Data'@b'Richard Xie'@0@M@0.99@p@s
+b'Working with Matplotlib via PyQt/Qt Designer'@b'Jean Bilheux'@0@F@0.76@p@s
+b'Working with Matplotlib via PyQt/Qt Designer'@b'Steve Miller'@1@M@0.99@p@s
+b'Working with Matplotlib via PyQt/Qt Designer'@b'Wenduo Zhou'@2@U@-1.00@p@s
+b'An MR Spectroscopy Database Query and Visualization Engine as a Clinical Diagnostic Tool'@b'Justin Foong'@0@M@0.99@p@s
+b'Coupling Geophysical Terminology and Package Development'@b'Rowan Cockett'@0@M@0.61@p@s
+b'Creating a Real-Time Recommendation Engine using Modified K-Means Clustering and Remote Sensing Signature Matching Algorithms'@b'David Lippa'@0@M@0.99@p@s
+b'Creating a Real-Time Recommendation Engine using Modified K-Means Clustering and Remote Sensing Signature Matching Algorithms'@b'Jason Vertrees'@1@M@0.99@p@s
+b'Efficiently Exploring the Universe of Porous Media: Generating, Simulating, and Mutating Hypothetical Pseudo-materials'@b'Alec Kaija'@0@M@1.00@p@s
+b'Fast Visualization and User Interfaces with PyQtGraph'@b'Luke Campagnola'@0@M@0.99@p@s
+b"How Would You Like Your 'Tab' to Be?"@b'Hyungtae Kim'@0@U@-1.00@p@s
+b'Jupyter Notebook + SciPy = Rapid Fire Data Science'@b'Jonathan Whitmore'@0@M@0.99@p@s
+b'MDSynthesis: a Python Package Enabling Data-driven Molecular Dynamics Research'@b'David Dotson'@0@M@0.99@p@s
+b'OOF 3D: Modular Software Design in the Face of Major Feature Changes'@b'Andrew Reid'@0@M@1.00@p@s
+b'Psi4: Open-Source Quantum Chemistry'@b'Lori Burns'@0@F@1.00@p@s
+b'PyCO2...because we need to know.'@b'Juliana Leonel'@0@F@1.00@p@s
+b'PyCO2...because we need to know.'@b'Filipe Fernandes'@1@M@1.00@p@s
+b'Python Interfaces in Mantid'@b'Steve Miller'@0@M@0.99@p@s
+b'PyUgrid: Handling NetCDF for Unstructured Grids'@b'Chris Calloway'@0@M@0.90@p@s
+b'Scientific GUI Application Development Using Qt Designer and PyQt'@b'Steve Miller'@0@M@0.99@p@s
+b'Scientific GUI Application Development Using Qt Designer and PyQt'@b'Jean Bilheux'@1@F@0.76@p@s
+b'Scientific GUI Application Development Using Qt Designer and PyQt'@b'Wenduo Zhou'@2@U@-1.00@p@s
+b'SciPy and Real-time Big Data for Site Optimization'@b'Winnie Cheng'@0@F@1.00@p@s
+b'Testing for serial correlation and non-stationarity of long time series after ARIMA modeling with SciPy and Statsmodels'@b'Margaret Mahan'@0@F@0.99@p@s
 b'Keynote: Data Science at the New York Times'@b'Chris Wiggins'@0@M@0.90@k@s
 b'Will Millennials Ever Get Married?  Survival Analysis and Marriage Data'@b'Allen Downey'@0@M@0.99@n@s
 b'Dask - Out-of-core NumPy/Pandas through Task Scheduling'@b'James Crist'@0@M@0.99@n@s

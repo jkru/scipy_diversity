@@ -1,3 +1,72 @@
+b'A New Approach of Combining Time-Series Forecasts Using Scipy and SKLearn'@b'Eugene Chen'@0@M@0.99@p@s
+b'Hunting for Astrophysical Point Sources with Python'@b'Siddharth Mishra Sharma'@0@U@-1.00@p@s
+b'noWorkflow: Collecting, Managing, and Analyzing Provenance from Python Scripts'@b'Joao Felipe Nicolaci Pimentel'@0@M@1.00@p@s
+b'noWorkflow: Collecting, Managing, and Analyzing Provenance from Python Scripts'@b'Juliana Freire'@1@F@0.98@p@s
+b'noWorkflow: Collecting, Managing, and Analyzing Provenance from Python Scripts'@b'Vanessa Braganholo'@2@F@0.99@p@s
+b'noWorkflow: Collecting, Managing, and Analyzing Provenance from Python Scripts'@b'Leonardo Murta'@3@M@0.98@p@s
+b'Python Data Processing System for Exploring Optical Properties of Materials with T-Rays'@b'Alexander Mamrashev'@0@M@0.98@p@s
+b'Python Data Processing System for Exploring Optical Properties of Materials with T-Rays'@b'Lev Maximov'@1@M@1.00@p@s
+b'Python Data Processing System for Exploring Optical Properties of Materials with T-Rays'@b'Alexey Nazarov'@2@M@-1.00@p@s
+b'3D Magnetic Modelling of Ellipsoidal Bodies'@b'Diego Tomazella'@0@M@1.00@p@s
+b'Accuracy and Numerical Precision of Discrete Probability Distributions: A Comparison of SciPy, R, and a Numba/Cephes-Based Implementation.'@b'Elliot Hallmark'@0@M@0.98@p@s
+b'An Overview of Bayesian Network Structure Learning'@b'Jacob Schreiber'@0@M@0.99@p@s
+b'Automatic Small Angle Scattering Anisotropic Data Reduction'@b'Ricardo Ferraz Leal'@0@M@0.99@p@s
+b'Bayesian Tools for Observational Cosmology of Type Ia Supernovae using PyCUDA'@b'Roberto Colistete Jr'@0@M@1.00@p@s
+b'BespON: Extensible Config Files with Multiline Strings, Lossless Round-Tripping, and Hex Floats'@b'Geoffrey Poore'@0@M@0.99@p@s
+b'Building a Monitoring Dashboard for In-Situ Space Weather Ion and Electron Spectrometers'@b'Daniel da Silva'@0@M@0.99@p@s
+b'Building Better Radar Data, Block by Open Source Block'@b'Scott Collis'@0@M@0.99@p@s
+b'Canvas-Style Interaction with Python: A D3 Interface to Phcpy in Jupyter'@b'Jasmine Otto'@0@F@0.99@p@s
+b'Challenges of Numerical Analysis in Near-IR Echellogram Data Reduction'@b'Andrew Colson'@0@M@0.99@p@s
+b'Competition and Bank Fragility'@b'Blake Marsh'@0@M@0.98@p@s
+b'Creating a Python Cocoon around Legacy C Code'@b'Molly Hardman'@0@F@0.99@p@s
+b'Creating a Python Cocoon around Legacy C Code'@b'Mary J. Brodzik'@1@F@0.99@p@s
+b'Creating a Python Cocoon around Legacy C Code'@b'Kevin Beam'@2@M@0.99@p@s
+b'Defining Features of mRNAs Regulated by Oncogenic eIF4E: A Pan-Survey Study Utilizing Predictive Technology to Define the Translational Landscape of eIF4E in Cancer.'@b'Amanda Ernlund'@0@F@1.00@p@s
+b'Easy Steps for Accelerating Scientific Python'@b'Robert Cohn'@0@M@0.99@p@s
+b'Easy Steps for Accelerating Scientific Python'@b'Anton Malakhov'@1@M@1.00@p@s
+b'FigureFirst: A Layout Tool for Itterative Scientific Figure Construction'@b'Theodore Lindsay'@0@M@0.99@p@s
+b'FigureFirst: A Layout Tool for Itterative Scientific Figure Construction'@b'Peter Weir'@1@M@0.99@p@s
+b'FigureFirst: A Layout Tool for Itterative Scientific Figure Construction'@b'Floris Van Breugel'@2@U@-1.00@p@s
+b'Interactive HPC Gateways with Jupyter and Jupyterhub'@b'Michael Milligan'@0@M@0.99@p@s
+b'Jupyter Notebooks for Neutron Radiography Data Processing Analysis'@b'Jean Bilheux'@0@F@0.69@p@s
+b'Keep it Sympl: Representing Clouds and Turbulence with CHOMP'@b'Jeremy McGibbon'@0@M@0.99@p@s
+b'Keep it Sympl: Representing Clouds and Turbulence with CHOMP'@b'Christopher S. Bretherton'@1@M@0.99@p@s
+b'Looking for a Challenge? Lessons in Running International Grand Challenges'@b'Brian Helba'@0@M@0.99@p@s
+b'Maintaining the Psi4 Ecosystem: Adventures in Building and Distribution'@b'Lori Burns'@0@F@1.00@p@s
+b'Meteorologists and their CAPEs'@b'John Leeman'@0@M@0.99@p@s
+b'Meteorologists and their CAPEs'@b'Ryan May'@1@M@0.98@p@s
+b'Network Analysis on Twitter #Gamergate 2+ Years Later'@b'Emily Chao'@0@F@1.00@p@s
+b'NeuroLachesis: A Neuromorphic Framework'@b'Georgios Detorakis'@0@M@1.00@p@s
+b'NeuroLachesis: A Neuromorphic Framework'@b'Dan Barsever'@1@M@0.97@p@s
+b'NeuroLachesis: A Neuromorphic Framework'@b'Emre Neftci'@2@U@-1.00@p@s
+b'Parallel Analysis in MDAnalysis Using the Dask Parallel Computing Library'@b'Mahzad Khoshlessan'@0@U@-1.00@p@s
+b'Parallel Analysis in MDAnalysis Using the Dask Parallel Computing Library'@b'Oliver Beckstein'@1@M@1.00@p@s
+b'Parallel Analysis in MDAnalysis Using the Dask Parallel Computing Library'@b'Shantenu Jha'@2@U@-1.00@p@s
+b'Parallel Analysis in MDAnalysis Using the Dask Parallel Computing Library'@b'Ioannis Paraskevakos'@3@M@1.00@p@s
+b'Pescador: A Stream Manager for Iterative Learning'@b'Brian McFee'@0@M@0.99@p@s
+b'pyMolDyn: Identification, Structure, and Properties of Cavities/Vacancies in Condensed Matter and Molecules'@b'Ingo Heimbach'@0@U@-1.00@p@s
+b'PySeqArray: Data Manipulation of Whole-Genome Sequencing Variants in Python'@b'Xiuwen Zheng'@0@U@-1.00@p@s
+b'Python Implementation of Item Response Theory Calculations for Fitting Logistic Models'@b'David Mashburn'@0@M@0.99@p@s
+b'Python Meets Systems Neuroscience: Affordable, Scalable and Open-Source Electrophysiology in Awake, Behaving Rodents.'@b'Narendra Mukherjee'@0@U@-1.00@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Sameera Abeykoon'@0@F@1.00@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Thomas Caswell'@1@M@0.99@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Daniel Allan'@2@M@0.99@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Arman Akilic'@3@M@1.00@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Staurt Campbell'@4@U@-1.00@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Kirstein van Dam'@5@U@-1.00@p@s
+b'Scikit-beam: Python Data Analysis Library for X-ray, Neutron and Electron Data.'@b'Li Li'@6@F@1.00@p@s
+b'Secrets of Accelerating Scientific Python'@b'Anton Malakhov'@0@M@1.00@p@s
+b'Secrets of Accelerating Scientific Python'@b'Oleksandr Pavlyk'@1@U@-1.00@p@s
+b'Secrets of Accelerating Scientific Python'@b'Denis Nagorny'@2@M@0.88@p@s
+b'Software Transactional Memory in Pure Python'@b'Dillon Niederhut'@0@M@1.00@p@s
+b'SPORCO: A Python Package for Standard and Convolutional Sparse Representations'@b'Brendt Wohlberg'@0@M@1.00@p@s
+b'Storm Cell Tracking in Python'@b'Mark Picel'@0@M@0.99@p@s
+b'Synthpy: A Synthetic Data Generation Library Built on the Python Scientific Computing Stack'@b'Pamela Wu'@0@F@1.00@p@s
+b'Synthpy: A Synthetic Data Generation Library Built on the Python Scientific Computing Stack'@b'David Fenyo'@1@M@0.99@p@s
+b'The Intersection of Data Science, Machine Learning and Structural Engineering'@b'David Najera'@0@M@0.99@p@s
+b'Unified Approach for Constructing Optimization Strategies Based on Python Linear Algebra Modules'@b'Nadia Udler'@0@F@1.00@p@s
+b'Using Matplotlib and IPython In Neutron Scattering Experiment Data Reduction Software'@b'Wenduo Zhou'@0@U@-1.00@p@s
+b'Using Python to Generate 3D Wind Fields from Doppler Radars'@b'Robert Jackson'@0@M@0.99@p@s
 b'Keynote: Academic Open Source'@b'Kathryn Huff'@0@F@1.00@k@s
 b'Python + Tableau: Building an Interactive and Beautiful Data Visualization with TabPy'@b'Chloe Tseng'@0@F@1.00@n@s
 b'Using Python to Process and Visualize Real-Time Atmospheric Data During VORTEX-SE'@b'Abby Kenyon'@0@F@1.00@n@s

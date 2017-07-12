@@ -1,3 +1,35 @@
+b'SymPy: Symbolic math for Python'@b'Aaron Meurer'@0@M@0.99@p@s
+b'Web-based Analysis and Visualization for Large Geospatial Datasets for Climate Scientists'@b'Aashish Chaudhary'@0@M@-1.00@p@s
+b'Scientific Computing with SciPy for Undergraduate Physics Majors'@b'Bill Baxter'@0@M@1.00@p@s
+b'PySIMS: A Python library for ToF-SIMS analysis'@b'Bob Moision'@0@M@1.00@p@s
+b'hyperopt-sklearn: A hyperparameter optimization framework for scikit-learn'@b'Brent Komer'@0@M@1.00@p@s
+b'Python based pipeline for calibration and post-processing in Astronomical High-Contrast Imaging'@b'Carlos Alberto Gomez Gonzalez'@0@M@0.99@p@s
+b'Building a Dynamic High Performing Particle Tracking Model'@b'Christopher Barker'@0@M@0.99@p@s
+b'A new bridge to share your content with the world: NikIPy.'@b'Damian Avila'@0@M@0.98@p@s
+b'Validated numerics in Python'@b'David P. Sanders'@0@M@0.99@p@s
+b'PyCube: A python-based visualization tool for the NWP model on the cubed-sphere grid'@b'Dongchan Joo'@0@U@-1.00@p@s
+b'Python in X-ray Astronomy'@b'Gerrit Schellenberger'@0@M@1.00@p@s
+b'Analyzing and Plotting Idealized WRF Simulations in Python'@b'Gokhan Sever'@0@U@-1.00@p@s
+b'Pyadisi - A Python package for animal locomotion studies'@b'Isaac Yeaton'@0@M@0.99@p@s
+b"In with the old, In with the new: Matplotlib's role in a D3js world"@b'Jake VanderPlas'@0@M@1.00@p@s
+b'Python cross-compilation and platform builds for HPC and scientific computing'@b'Jean-Christophe Fillion-Robin'@0@M@-1.00@p@s
+b'Python Coding of Geospatial Processing in Web-based Mapping Applications'@b'Michael Nowak'@0@M@0.99@p@s
+b"How to open science by connecting the tools you use or develop to the scientist's workflow"@b'Jeffrey Spies'@0@M@0.99@p@s
+b'An community collection of decoders for instrument-specific data formats'@b'Joe Young'@0@M@0.99@p@s
+b'Investigating Stiffness Controls on Earthquake Behavior -- An Ideal Environment for Python Workflows'@b'John Leeman'@0@M@0.99@p@s
+b'Scientific Knowledge Management with Web of Trails'@b'Jon Riehl'@0@M@0.99@p@s
+b'Teaching Phase Transformations Using FiPy'@b'Jonathan Guyer'@0@M@0.99@p@s
+b'Keeping Scientists Happy: Creating Easy to Install Scientific Python Packages.'@b'Jonathan Helmus'@0@M@0.99@p@s
+b'PyGECoRe: Geometrically Exact Conservative Remapping tool for any grids in spherical geometry'@b'Ki-Hwan Kim'@0@U@-1.00@p@s
+b'Using Fatiando a Terra to solve inverse problems in geophysics'@b'Leonardo Uieda'@0@M@1.00@p@s
+b"you're doing it wrong: the lack of reproducibility in statistical science, and how to fix it"@b'Michael McKerns'@0@M@0.99@p@s
+b'The ANSS Comprehensive Earthquake Catalog and Tools'@b'Mike Hearne'@0@M@0.99@p@s
+b'Platform to Enable Shared Scientific Computing Advances Research Assets (PESSCARA)'@b'Panagiotis Korfiatis'@0@M@1.00@p@s
+b'Having your big-array cake and eating it.'@b'Richard Hattersley'@0@M@0.99@p@s
+b'SimPEG: A framework for Simulation and Parameter Estimation in Geophysics'@b'Rowan Cockett'@0@M@1.00@p@s
+b'Modeling the global shipping trade using a Python-based analysis stack'@b'Shaun Walbridge'@0@M@0.98@p@s
+b'Making Medical Image Analysis Research Easier, Faster, and More Reproducible with IPython'@b'Timothy Lee Kline'@0@M@0.99@p@s
+b'Integrating IPython into Large-Scale Development Environments'@b'Zachary H. Jones'@0@M@0.99@p@s
 b'Keynote'@b'Lorena Barba'@0@F@0.99@k@s
 b"Frequentism and Bayesianim: What's the Big Deal?"@b'Jake VanderPlas'@0@M@1.00@n@s
 b'GeoPandas: Geospatial data + pandas'@b'Kelsey Jordahl'@0@M@-1.00@n@s

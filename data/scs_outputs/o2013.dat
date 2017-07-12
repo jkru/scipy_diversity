@@ -15,6 +15,64 @@ b'Matplotlib enhancement proposal discussion'@b'Damon McDougall'@0@M@0.99@b@s
 b'PySide development planning and sprint kickoff'@b'John Ehresman'@0@M@0.99@b@s
 b'Women in Scientific Computing: Discussion and Mixer'@b'Kristen Thyng'@0@F@0.99@b@s
 b'Data access and munging tools for oceanographic and hydrological applications'@b'Emilio Mayorga'@0@M@1.00@b@s
+b'3D Perception: Point cloud data processing and visualization'@b'Pat Marion'@0@M@0.72@p@s
+b'A Python way to an undergraduate CFD course'@b'Jaime Kardontchik'@0@F@0.76@p@s
+b'Basic Interactive Unix for Data Processing'@b'Walker Hale'@0@M@1.00@p@s
+b'Basin-hopping and beyond: Global optimization and energy landscape exploration in molecular systems'@b'Jacob Stevenson'@0@M@0.99@p@s
+b'Basin-hopping and beyond: Global optimization and energy landscape exploration in molecular systems'@b'Victor Ruhle'@1@M@0.99@p@s
+b'Code as text: Open source in academia'@b'Sergio Rey'@0@M@0.99@p@s
+b'Data Wrangling with the SheafSystem'@b'David M. Butler'@0@M@0.99@p@s
+b'Dedalus: A Python-Based Spectral PDE Solver'@b'Keaton J. Burns'@0@M@1.00@p@s
+b'Dedalus: A Python-Based Spectral PDE Solver'@b'Jeffrey S. Oishi'@1@M@0.99@p@s
+b'Dedalus: A Python-Based Spectral PDE Solver'@b'Geoffrey M. Vasil'@2@M@1.00@p@s
+b'Dedalus: A Python-Based Spectral PDE Solver'@b'Daniel Lecoanet'@3@M@0.99@p@s
+b'Dedalus: A Python-Based Spectral PDE Solver'@b'Eliot Quataert'@4@M@1.00@p@s
+b'Experimental Mathematics with Python: Calculating Lyapunov exponents of non-elastic billiard models'@b'Alonso Espinosa'@0@M@1.00@p@s
+b'Experimental Mathematics with Python: Calculating Lyapunov exponents of non-elastic billiard models'@b'David P. Sanders'@1@M@0.99@p@s
+b'G-mode Clustering Method applied to Asteroid Taxonomy'@b'P. H. Hasselmann'@0@U@-1.00@p@s
+b'G-mode Clustering Method applied to Asteroid Taxonomy'@b'J. M. Carvano'@1@U@-1.00@p@s
+b'G-mode Clustering Method applied to Asteroid Taxonomy'@b'D. Lazzaro'@2@U@-1.00@p@s
+b'Hearing Assessment: Lessons learned developing a modular solution for audiometric testing'@b'Robert D. Chambers'@0@M@0.99@p@s
+b'Hearing Assessment: Lessons learned developing a modular solution for audiometric testing'@b'William H. Finger'@1@M@0.99@p@s
+b'Hearing Assessment: Lessons learned developing a modular solution for audiometric testing'@b'Jesse A. Norris'@2@M@0.97@p@s
+b'Hearing Assessment: Lessons learned developing a modular solution for audiometric testing'@b'Cl'@3@U@-1.00@p@s
+b'HTSQL - A Navigational Query Language For Relational Databases'@b'Charles Tirrell'@0@M@0.99@p@s
+b'HTSQL - A Navigational Query Language For Relational Databases'@b'Clark Evans'@1@M@1.00@p@s
+b'IRLB, a fast partial SVD'@b'Jim Baglama'@0@M@1.00@p@s
+b'IRLB, a fast partial SVD'@b'Michael Kane'@1@M@0.99@p@s
+b'Managing Ensembles of Multi-Processor Jobs with Tex-MECS and PyLauncher'@b'Michael Tobis'@0@M@0.99@p@s
+b'Managing Ensembles of Multi-Processor Jobs with Tex-MECS and PyLauncher'@b'Victor Eijkhout'@1@M@0.99@p@s
+b'Mica: data-mining the Chandra archive for satellite operations'@b'Jean M. Connelly'@0@F@0.78@p@s
+b'Mica: data-mining the Chandra archive for satellite operations'@b'Thomas L. Aldcroft'@1@M@0.99@p@s
+b'Modeling elastic wave propagation using PyOpenCL'@b'Ursula Iturraran-Viveros'@0@F@1.00@p@s
+b'Modeling elastic wave propagation using PyOpenCL'@b'Miguel Molero'@1@M@0.98@p@s
+b'Navigating the Scientific Python Communities - the missing guide'@b'Paul Ivanov'@0@M@0.99@p@s
+b'Peatland data analysis and simulation with Python'@b'Andrew Reeve'@0@M@1.00@p@s
+b'Peatland data analysis and simulation with Python'@b'Claire Westervelt'@1@F@1.00@p@s
+b'Powering Recommendations with Distributed Computing using Python and MapReduce'@b'Marcel Caraciolo'@0@M@0.94@p@s
+b'Powering Recommendations with Distributed Computing using Python and MapReduce'@b'Atapassar'@1@U@-1.00@p@s
+b'PyDocX: Parsing Word documents in order to increase greater collaboration in collaborative writing'@b'Samuel Portnow'@0@M@0.99@p@s
+b'PyDocX: Parsing Word documents in order to increase greater collaboration in collaborative writing'@b'Jason Ward'@1@M@0.99@p@s
+b'PyDocX: Parsing Word documents in order to increase greater collaboration in collaborative writing'@b'Jeff Spies'@2@M@1.00@p@s
+b'Scholarly: An open, freely accessible dataset of the academic citation network'@b'Harry Rybacki'@0@M@0.99@p@s
+b'Scholarly: An open, freely accessible dataset of the academic citation network'@b'Joshua Carp'@1@M@0.99@p@s
+b'Scholarly: An open, freely accessible dataset of the academic citation network'@b'Jeffery Spies'@2@M@0.99@p@s
+b'Self-documenting runtime: becoming omniscient with Contexture'@b'Alexander Kouznetsov'@0@M@0.99@p@s
+b'Technical and social challenges in creating the Python ARM Radar Toolkit (Py-ART)'@b'Jonathan Helmus'@0@M@0.99@p@s
+b'Technical and social challenges in creating the Python ARM Radar Toolkit (Py-ART)'@b'Scott Collis'@1@M@1.00@p@s
+b'The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility'@b'Drew Marsden'@0@M@0.99@p@s
+b'The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility'@b'Michael McKerns'@1@M@0.99@p@s
+b'The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility'@b'Houman Owhadi'@2@U@-1.00@p@s
+b'The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility'@b'Clint Scovel'@3@M@1.00@p@s
+b'The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility'@b'Tim Sullivan'@4@M@1.00@p@s
+b'The Use of Python in the Prompt Assessment of Global Earthquake Response (PAGER) System'@b'Michael Hearne'@0@M@0.99@p@s
+b'Ureka: a distribution of Python & IRAF software for astronomy'@b'James Turner'@0@M@0.99@p@s
+b'Ureka: a distribution of Python & IRAF software for astronomy'@b'Christine Slocum'@1@F@1.00@p@s
+b'Ureka: a distribution of Python & IRAF software for astronomy'@b'Sienkiewicz'@2@U@-1.00@p@s
+b'Using Git to improve reproducibility & transparency'@b'Toni Gemayel'@0@F@0.98@p@s
+b'Using Python to Study Rotational Velocity Distributions of Hot Stars'@b'Gustavo Bragan-a'@0@M@0.98@p@s
+b'Using Python to Study Rotational Velocity Distributions of Hot Stars'@b'Simone Daflon'@1@F@0.96@p@s
+b'UV-CDAT Re-sharable Analyses and Diagnostics (U-ReAD): a framework to create and share UV-CDAT plugins'@b'Charles Doutriaux'@0@M@0.99@p@s
 b'Keynote: IPython: from the shell to a book with a single tool; the method behind the madness'@b'Fernando Perez'@0@M@0.99@k@s
 b'Import without a filesystem: scientific Python built-in with static linking and frozen modules'@b'Pat Marion'@0@M@0.72@n@s
 b'Import without a filesystem: scientific Python built-in with static linking and frozen modules'@b'Aron Ahmadia'@1@M@0.95@n@s

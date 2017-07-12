@@ -129,7 +129,7 @@ else:
                                      'gender_frac' : gender_frac, 'talk_type' : talk_type }, index = [0])
             talk_df = talk_df.append(talk_tmp, ignore_index = True)
         
-        
+talk_df = talk_df[talk_df.talk_type != 'p']
 N_talks, N_female, N_male, N_female_expect, P_female_frac, P_female_overrep = talk_statistics(talk_df, stats_name="equal_weight")
 N_unclass = talk_df.shape[0] - N_talks
 
