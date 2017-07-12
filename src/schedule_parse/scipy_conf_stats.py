@@ -98,19 +98,27 @@ if args.year > 0:
     for talk in talks:
         title,author,talk_type,talk_source = talk
 
+#        print("%s" % author.encode('utf-8'))
         author = re.sub('g.+?l\s+varoquaux','Gael Varoquaux',author, flags=re.IGNORECASE)
         author = re.sub('s.+?n\s+van der Walt','Stefan van der Walt',author, flags=re.IGNORECASE)
         author = re.sub('d.+?n\s+avila','Damian Avila', author, flags=re.IGNORECASE)
         author = re.sub('carissa, geodecisions','Carissa Brittain', author, flags=re.IGNORECASE)
-        author = re.sub('o.+?j\s+\w+?ert\w+?k','Ondrej Certik', author, flags=re.IGNORECASE)
+        author = re.sub('O.+?j\s+\w+?ert\w+?k','Ondrej Certik', author) #, flags=re.IGNORECASE)
         author = re.sub('s.*?ren\s+sonnenburg','Soren Sonnenburg', author, flags=re.IGNORECASE)
         author = re.sub('B.+?n\s+Dahlgren','Bjorn Dahlgren', author) #, flags=re.IGNORECASE)
         author = re.sub('R.+?i\s+?Rampin','Remi Rampin', author) #, flags=re.IGNORECASE)
         author = re.sub('Jean-R\w+?mi\s+King','Jean-Remi King', author) #, flags=re.IGNORECASE)
         author = re.sub('s\w+?n buchoux','Sebastien Buchoux', author, flags=re.IGNORECASE)
+        author = re.sub('Markall, Graham R., Imperial College London, UK','Graham R. Markall', author)
+        author = re.sub("Fenner, Barbara, King's College, Wilkes-Barre, PA", 'Barbara Fenner', author)
+        author = re.sub("GeoDa Center for Geospatial Analysis & Computation","", author)
+        author = re.sub(", Texas A&M University","", author)
+        author = re.sub(", The University of Chicago & NumFOCUS, Inc.","", author)
+        author = re.sub("; University of Colorado$","", author)
         author = re.sub('&',';',author)
         
         authors = name_class.author_class(author,year)
+
         for author_index in range(0,len(authors)):
         
             talk_tmp = pd.DataFrame({'title' : talk[0], 'author' : authors[author_index][0], \

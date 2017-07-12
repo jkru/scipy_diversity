@@ -78,7 +78,7 @@ b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jaakko Lepp\xc3\xa4
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Mainak Jas'@4@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Christian Brodbeck'@5@M@0.85@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Teon B Brooks'@6@M@1.00@n@s
-b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jean-Remi King'@7@U@-1.00@n@s
+b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Jean-Remi King'@7@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Chris Holdgraf'@8@M@0.89@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Marijn van Vliet'@9@M@-1.00@n@s
 b'MNE-Python to See the Brain at a Millisecond Time-Scale'@b'Matti Hamalainen'@10@F@1.00@n@s
@@ -244,4 +244,4 @@ b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Andreas Mueller'
 b'Machine Learning with scikit-learn Part Two (Intermediate)'@b'Alexandre Gramfort'@1@M@0.89@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Mark Wickert'@0@M@0.99@t@s
 b'Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)'@b'Chiranth Siddappa'@1@M@-1.00@t@s
-##2017 176  36 140   1 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.115671 Pover: 0.475610
+##2017 177  36 141   0 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.107976 Pover: 0.492491

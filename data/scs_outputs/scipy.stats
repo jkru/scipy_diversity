@@ -9,8 +9,8 @@
 ##2010 101   4  97   1 Pexpect: 0.240000 Nexpect: 25 Pobs: 0.000000 Pover: 0.467824
 ##2011  86   5  81   0 Pexpect: 0.240000 Nexpect: 21 Pobs: 0.000001 Pover: 0.505299
 ##2012  60   0  60   0 Pexpect: 0.240000 Nexpect: 15 Pobs: 0.000000 Pover: 0.477430
-##2013 161  15 146   7 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898
-##2014 183  20 163   1 Pexpect: 0.240000 Nexpect: 44 Pobs: 0.000002 Pover: 0.522996
-##2015 171  18 153   1 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055
+##2013 165  17 148   0 Pexpect: 0.240000 Nexpect: 40 Pobs: 0.000002 Pover: 0.500942
+##2014 189  20 169   0 Pexpect: 0.240000 Nexpect: 46 Pobs: 0.000001 Pover: 0.484593
+##2015 171  18 153   0 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055
 ##2016 179  21 158   0 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.000011 Pover: 0.526043
-##2017 176  36 140   1 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.115671 Pover: 0.475610
+##2017 177  36 141   0 Pexpect: 0.240000 Nexpect: 43 Pobs: 0.107976 Pover: 0.492491

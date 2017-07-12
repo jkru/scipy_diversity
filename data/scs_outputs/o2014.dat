@@ -59,7 +59,12 @@ b'Cartopy'@b'Richard Hattersley'@0@M@0.99@n@s
 b'airspeed velocity: tracking performance of Python projects over their lifetime'@b'Michael Droettboom'@0@M@0.99@n@s
 b'Scientific Computing in the Undergraduate Meteorology Curriculum at Millersville University'@b'Alex DeCaria'@0@M@0.99@n@s
 b'Ocean Model Assessment for Everyone'@b'Richard Signell'@0@M@0.99@n@s
-b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'ArOndrej Certik'@0@U@-1.00@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Aron Ahmadia'@0@M@0.94@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Andy Terrel'@1@M@0.99@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Chris Kees'@2@M@0.91@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Chris Kees'@3@M@0.91@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Dag Sverre Seljebotn'@4@M@-1.00@n@s
+b'Reproducible, relocatable, customizable builds and packaging with HashDist'@b'Ondrej Certik'@5@M@-1.00@n@s
 b'Keynote'@b'Nick Coghlan'@0@M@1.00@k@s
 b'Python for economists (and other social scientists!)'@b'David Pugh'@0@M@0.99@n@s
 b'Real-time Crunching of Petabytes of Geospatial Data with Google Earth Engine'@b'Tyler Erickson'@0@M@0.97@n@s
@@ -214,4 +219,4 @@ b'Geospatial Data and Analysis Stack'@b'Serge Rey'@0@M@1.00@b@s
 b'Emacs and Python BoF'@b'Julien Chastang'@0@M@1.00@b@s
 b'NumPy'@b'Kyle Mandli'@0@M@0.97@b@s
 b'Interactive visualization in the browser'@b'David I. Ketcheson'@0@M@0.99@b@s
-##2014 183  20 163   1 Pexpect: 0.240000 Nexpect: 44 Pobs: 0.000002 Pover: 0.522996
+##2014 189  20 169   0 Pexpect: 0.240000 Nexpect: 46 Pobs: 0.000001 Pover: 0.484593

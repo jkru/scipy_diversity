@@ -204,7 +204,9 @@ override_authors = {
     'yongjun choi': 'M',
     'gautham dharuman': 'M',
     'jiao lin' : 'M',
-
+    'jean-remi king' : 'M',
+    'florian, imperial college london, uk rathgeber' : 'M',
+    'cuihong wa' : 'F'
 
 #    'stéfan van der walt' : 'M',
 #    'bargava subramanian' : 'M',

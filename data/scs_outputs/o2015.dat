@@ -77,8 +77,7 @@ b'Welcome to SciPy BOF'@b'Kelsey Jordahl'@0@M@-1.00@n@s
 b'Gathering Usage Metrics for Open Scientific Software BOF'@b'Nathaniel Smith'@0@M@0.99@n@s
 b'SymPy BOF'@b'Aaron Meurer'@0@M@0.99@n@s
 b'Spatial Income Inequality Dynamics in PySAL'@b'Wei Kang'@0@F@-1.00@n@s
-b'Spatial Income Inequality Dynamics in PySAL'@b'Computation'@1@U@-1.00@n@s
-b'Spatial Income Inequality Dynamics in PySAL'@b'Sergio Rey'@2@M@0.99@n@s
+b'Spatial Income Inequality Dynamics in PySAL'@b'Sergio Rey'@1@M@0.99@n@s
 b'Story Time with Bokeh'@b'Bryan Van de Ven'@0@M@0.99@n@s
 b'Basic Sound Processing in Python'@b'Allen Downey'@0@M@0.99@n@s
 b'Analysis and Visualization of Imaging Experiments with IPython, sklearn and bokeh'@b'Blake Borgeson'@0@M@0.96@n@s
@@ -228,4 +227,4 @@ b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Matthias Bussonnier'@1@M@1.00@t
 b'Jupyter Advanced Topics Tutorial (Advanced)'@b'Thomas Kluyver'@2@M@0.99@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Andreas Mueller'@0@M@0.94@t@s
 b'Machine Learning with Scikit-Learn (Advanced) (Tuesday Session)'@b'Kyle Kastner'@1@M@0.97@t@s
-##2015 171  18 153   1 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055
+##2015 171  18 153   0 Pexpect: 0.240000 Nexpect: 42 Pobs: 0.000002 Pover: 0.461055

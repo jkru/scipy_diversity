@@ -79,8 +79,8 @@ b'Import without a filesystem: scientific Python built-in with static linking an
 b'Import without a filesystem: scientific Python built-in with static linking and frozen modules'@b'Bradley M. Froehle'@2@M@0.99@n@s
 b'IPython-powered Slideshow Reveal-ed'@b'Damian Avila'@0@M@0.99@n@s
 b'A Gentle Introduction To Machine Learning'@b'Kyle Kastner'@0@M@0.97@n@s
-b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Florian, Imperial College London, UK Rathgeber'@0@U@-1.00@n@s
-b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Markall'@1@U@-1.00@n@s
+b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Florian, Imperial College London, UK Rathgeber'@0@M@-1.00@n@s
+b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Graham R. Markall'@1@M@1.00@n@s
 b'PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations and its Application to Finite-Element Computations'@b'Mi'@2@M@-1.00@n@s
 b'Writing Reproducible Papers with Dexy'@b'Ana Nelson'@0@F@0.99@n@s
 b'Hyperopt: A Python library for optimizing the hyperparameters of machine learning algorithms'@b'James Bergstra'@0@M@0.99@n@s
@@ -89,7 +89,6 @@ b'Hyperopt: A Python library for optimizing the hyperparameters of machine learn
 b'Julia and Python: a dynamic duo for scientific computing'@b'Jeff Bezanson'@0@M@1.00@n@s
 b'Julia and Python: a dynamic duo for scientific computing'@b'Stefan Karpinski'@1@M@1.00@n@s
 b'GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization'@b'Ramalingam Saravanan'@0@M@-1.00@n@s
-b'GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization'@b'M University'@1@U@-1.00@n@s
 b'Using Python for Structured Prediction'@b'Rob Zinkov'@0@M@1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Serge Guelton'@0@M@1.00@n@s
 b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Pierrick Brunet'@1@M@-1.00@n@s
@@ -99,7 +98,6 @@ b'Pythran: Enabling Static Optimization of Scientific Python Programs'@b'Mehdi A
 b'The advantages of a scientific IDE'@b'Carlos Cordoba'@0@M@0.99@n@s
 b'Processing biggish data on commodity hardware: simple Python patterns'@b'Gael Varoquaux Institution: INRIA'@0@M@-1.00@n@s
 b'XDress - Type, But Verify'@b'Anthony Scopatz'@0@M@0.99@n@s
-b'XDress - Type, But Verify'@b'NumFOCUS'@1@U@-1.00@n@s
 b'An efficient workflow for reproducible science'@b'Trevor Bekolay'@0@M@0.99@n@s
 b'Python Tools for Coding and Feature Learning'@b'Leif Johnson'@0@M@1.00@n@s
 b'Keynote: Trends in Machine Learning and the SciPy community'@b'Olivier Grisel'@0@M@1.00@k@s
@@ -131,9 +129,8 @@ b'Exploring disease genetics from thousands of individual genomes with Gemini'@b
 b'Exploring disease genetics from thousands of individual genomes with Gemini'@b'Rory Kirchner'@3@M@0.91@n@s
 b'metaseq: a Python framework for integrating high-throughput sequencing analyses'@b'Ryan, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Dale'@0@M@-1.00@n@s
 b'Stuff to do with your genomic intervals'@b'Brent Pedersen'@0@M@0.99@n@s
-b'Stuff to do with your genomic intervals'@b'University of Colorado'@1@U@-1.00@n@s
 b'All-by-all learning of protein complexes from mass spectrometry data'@b'Blake Borgeson'@0@M@0.95@n@s
-b'All-by-all learning of protein complexes from mass spectrometry data'@b'Cuihong Wa'@1@U@-1.00@n@s
+b'All-by-all learning of protein complexes from mass spectrometry data'@b'Cuihong Wa'@1@F@-1.00@n@s
 b'Detection and characterization of interactions of genetic risk factors in disease'@b'Patricia Francis-Lyon'@0@F@0.99@n@s
 b'Detection and characterization of interactions of genetic risk factors in disease'@b'Shashank Belvadi'@1@M@-1.00@n@s
 b'Detection and characterization of interactions of genetic risk factors in disease'@b'Lin Wang'@2@F@-1.00@n@s
@@ -199,7 +196,7 @@ b'Estimating and Visualizing the Inertia of the Human Body with Python'@b'Jason 
 b'Estimating and Visualizing the Inertia of the Human Body with Python'@b'Christopher Dembia'@1@M@0.99@n@s
 b'An Open Source System for De-identification and Use of Medical Images for Research'@b"Jeffrey, Center for Biomedical Informatics, The Children's Hospital of Philadelphia Miller"@0@M@-1.00@n@s
 b'Automating Quantitative Confocal Microscopy Analysis'@b'Mark Fenner'@0@M@0.99@n@s
-b'Automating Quantitative Confocal Microscopy Analysis'@b'Fenner'@1@U@-1.00@n@s
+b'Automating Quantitative Confocal Microscopy Analysis'@b'Barbara Fenner'@1@F@1.00@n@s
 b'Experiences in Python for Medical Image Analysis'@b'Joshua Warner'@0@M@0.99@n@s
 b'A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform for Cancer Diagnostics Research'@b'Karl Garsha'@0@M@0.98@n@s
 b'A Rapidly-Adaptable Analytical Imaging & Measurement Standardization Platform for Cancer Diagnostics Research'@b'Franklin Ventura'@1@M@0.99@n@s
@@ -224,4 +221,4 @@ b'Diving into NumPy code'@b'David Cournapeau'@0@M@0.99@t@s
 b'Statistical Data Analysis in Python'@b'Christopher Fonnesbeck'@0@M@0.99@t@s
 b'Using geospatial data with python'@b'Kelsey Jordahl'@0@M@-1.00@t@s
 b'An Introduction to scikit-learn (II)'@b'Gael Varoquaux'@0@M@-1.00@t@s
-##2013 161  15 146   7 Pexpect: 0.240000 Nexpect: 39 Pobs: 0.000000 Pover: 0.503898
+##2013 165  17 148   0 Pexpect: 0.240000 Nexpect: 40 Pobs: 0.000002 Pover: 0.500942
